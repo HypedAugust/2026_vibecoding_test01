@@ -47,23 +47,23 @@ body {
 }
 
 .curtain-container {
-  animation: fadeOut 0.5s ease-in forwards 3s;
+  animation: fadeOut 0.4s ease-in forwards 1.6s;
   pointer-events: none;
 }
 
 .curtain-left {
   transform-origin: left center;
-  animation: slideOutLeft 2.5s cubic-bezier(0.8, 0, 0.2, 1) forwards 0.5s;
+  animation: slideOutLeft 1.5s cubic-bezier(0.7, 0, 0.3, 1) forwards 0.1s;
 }
 
 .curtain-right {
   transform-origin: right center;
-  animation: slideOutRight 2.5s cubic-bezier(0.8, 0, 0.2, 1) forwards 0.5s;
+  animation: slideOutRight 1.5s cubic-bezier(0.7, 0, 0.3, 1) forwards 0.1s;
 }
 
 .animate-fade-in {
   opacity: 0;
-  animation: fadeIn 1.5s ease-out forwards 2.5s;
+  animation: fadeIn 1.2s ease-out forwards 0.5s;
 }
 
 .animate-fade-in-fast {
