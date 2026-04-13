@@ -10,6 +10,7 @@ export default function Home() {
   const [showResult, setShowResult] = useState<boolean>(false);
   const [userInfo, setUserInfo] = useState<UserInfo>({ name: '', gender: '', year: '', month: '', day: '', time: '' });
   const [visitorCount, setVisitorCount] = useState<number | null>(null);
+  const [luckyWinner, setLuckyWinner] = useState<number | null>(null);
 
   useEffect(() => {
     // 글로벌 가짜 방문자 로직: 15,000부터 시작해서 시간에 따라 유기적으로 오르는 느낌을 줌
@@ -28,36 +29,52 @@ export default function Home() {
     const finalCount = globalCount + newHits;
     setVisitorCount(finalCount);
 
-    // 10번째 방문자(10의 배수)일 경우 양옆에서 3초간 금색 폭죽 투하
+    // 10번째 방문자(10의 배수)일 경우 거대한 팝업과 화려한 메가 샷 폭죽 투하
     if (finalCount % 10 === 0) {
       setTimeout(() => {
-        const duration = 3000;
+        setLuckyWinner(finalCount); // 황금 모달 트리거
+        
+        const duration = 5000; // 5초 동안 쉬지 않고 터트림
         const end = Date.now() + duration;
-        const goldColors = ['#D4AF37', '#FFD700', '#DAA520', '#B8860B', '#FFF8DC'];
+        const goldColors = ['#D4AF37', '#FFD700', '#DAA520', '#B8860B', '#FFF8DC', '#ffffff'];
 
         (function frame() {
+          // 하늘 위에서 랜덤으로 떨어지는 가루
           confetti({
-            particleCount: 8,
-            angle: 60,
-            spread: 55,
-            origin: { x: 0, y: 0.8 },
+            particleCount: 10,
+            angle: Math.random() * 60 + 60,
+            spread: 90,
+            origin: { x: Math.random(), y: Math.random() * 0.2 },
             colors: goldColors,
-            zIndex: 9999
+            zIndex: 99999,
+            scalar: 1.2
           });
+          // 좌측 하단 대왕 폭격
           confetti({
-            particleCount: 8,
-            angle: 120,
-            spread: 55,
-            origin: { x: 1, y: 0.8 },
+            particleCount: 20,
+            angle: 60,
+            spread: 80,
+            origin: { x: 0, y: 1 },
             colors: goldColors,
-            zIndex: 9999
+            zIndex: 99999,
+            scalar: 2
+          });
+          // 우측 하단 대왕 폭격
+          confetti({
+            particleCount: 20,
+            angle: 120,
+            spread: 80,
+            origin: { x: 1, y: 1 },
+            colors: goldColors,
+            zIndex: 99999,
+            scalar: 2
           });
 
           if (Date.now() < end) {
             requestAnimationFrame(frame);
           }
         }());
-      }, 1500); // 화면 나타나고 약간의 딜레이 후 발사
+      }, 1000); // UI 렌더링 딜레이 후 터트림
     }
   }, []);
 
@@ -272,6 +289,34 @@ export default function Home() {
               ))}
             </div>
             <p className="mt-5 text-[#d4af37]/40 text-xs tracking-[0.4em] font-light">Global Fortune Seekers</p>
+          </div>
+        )}
+
+        {/* Lucky Winner Modal */}
+        {luckyWinner !== null && (
+          <div className="fixed inset-0 z-[100000] flex items-center justify-center p-4">
+            <div className="absolute inset-0 bg-black/80 backdrop-blur-md" onClick={() => setLuckyWinner(null)}></div>
+            <div className="relative bg-gradient-to-br from-[var(--red-deep)] via-[#4a0404] to-[#120101] border-[4px] border-[var(--gold-primary)] p-8 sm:p-12 rounded-3xl shadow-[0_0_120px_rgba(212,175,55,0.7)] text-center max-w-lg w-full transform animate-fade-in-fast flex flex-col items-center">
+              <div className="absolute -top-16 text-8xl drop-shadow-[0_0_20px_rgba(255,215,0,0.8)] animate-bounce">🧧</div>
+              <h2 className="text-4xl sm:text-5xl mt-6 font-black text-transparent bg-clip-text bg-gradient-to-r from-[#e5ca72] to-[#d4af37] mb-6 drop-shadow-[0_2px_4px_rgba(0,0,0,1)] uppercase tracking-wide">
+                축하합니다!
+              </h2>
+              <div className="bg-black/50 border border-[var(--gold-primary)]/40 p-8 rounded-2xl mb-8 w-full shadow-inner">
+                 <p className="text-white text-xl leading-relaxed font-bold tracking-wide">
+                   당신은 행운의<br/>
+                   <span className="text-[3rem] sm:text-[4rem] text-[var(--gold-primary)] mx-2 font-mono block my-4 glow-text" style={{ textShadow: "0 0 20px rgba(212,175,55,0.6), 0 5px 10px rgba(0,0,0,0.8)" }}>{luckyWinner.toLocaleString()}</span>
+                   번째 방문자입니다!
+                 </p>
+                 <div className="w-full h-px bg-gradient-to-r from-transparent via-[var(--gold-primary)] to-transparent my-6 opacity-30"></div>
+                 <p className="text-[var(--gold-light)] text-lg leading-loose font-medium">오늘 엄청난 재물운이 폭발할 징조입니다.<br/>놓치지 말고 <strong className="text-white bg-[var(--gold-primary)]/20 px-2 rounded">오늘의 운세</strong>를 확인하세요!</p>
+              </div>
+              <button 
+                onClick={() => setLuckyWinner(null)}
+                className="w-full sm:w-4/5 bg-gradient-to-r from-[#e5ca72] via-[#ffe898] to-[#d4af37] text-black font-extrabold tracking-widest text-xl py-5 rounded-xl border-b-[6px] border-[#9c781a] hover:translate-y-2 hover:border-b-0 hover:mb-[6px] hover:shadow-none active:scale-95 transition-all duration-200 shadow-[0_15px_30px_rgba(0,0,0,0.9)] uppercase"
+              >
+                운세 확인하러 가기
+              </button>
+            </div>
           </div>
         )}
       </main>
