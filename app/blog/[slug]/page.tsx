@@ -46,34 +46,34 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         </nav>
 
         <article className="w-full bg-[#1a0505]/90 backdrop-blur-xl border border-[var(--gold-primary)]/30 rounded-[2.5rem] p-8 sm:p-16 shadow-2xl relative">
-          <header className="mb-12 border-b border-[var(--gold-primary)]/20 pb-12">
+          <header className="mb-12 border-b border-[var(--gold-primary)]/20 pb-8">
             <div className="flex items-center gap-4 mb-6">
-              <span className="bg-[var(--gold-primary)]/10 text-[var(--gold-primary)] text-xs px-4 py-2 rounded-full border border-[var(--gold-primary)]/40 font-black tracking-[0.2em] uppercase">
+              <span className="bg-[var(--gold-primary)]/10 text-[var(--gold-primary)] text-[10pt] px-4 py-1.5 rounded-full border border-[var(--gold-primary)]/40 font-black tracking-[0.2em] uppercase">
                 {post.category}
               </span>
-              <time className="text-[var(--gold-light)]/50 text-sm font-mono">{post.date}</time>
+              <time className="text-[var(--gold-light)]/50 text-[10pt] font-mono">{post.date}</time>
             </div>
-            <h1 className="text-2xl sm:text-4xl font-extrabold text-[var(--gold-primary)] leading-[1.3] break-keep" style={{ textShadow: "0 2px 10px rgba(0,0,0,0.5)" }}>
+            <h1 className="text-[12pt] font-extrabold text-[var(--gold-primary)] leading-normal break-keep" style={{ textShadow: "0 1px 4px rgba(0,0,0,0.5)" }}>
               {post.title}
             </h1>
           </header>
-
-          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-relaxed font-normal space-y-6 text-sm sm:text-base break-keep text-justify">
+ 
+          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-relaxed font-normal space-y-6 text-[12pt] break-keep text-justify">
             {post.content.split('\n\n').map((paragraph, i) => {
               if (paragraph.startsWith('###')) {
                 return (
-                  <h3 key={i} className="text-lg sm:text-xl font-bold text-[var(--gold-primary)] mt-10 mb-4 border-l-4 border-[var(--gold-primary)] pl-5">
+                  <h3 key={i} className="text-[12pt] font-bold text-[var(--gold-primary)] mt-8 mb-4 border-l-2 border-[var(--gold-primary)] pl-4">
                     {paragraph.replace('### ', '')}
                   </h3>
                 );
               }
               if (paragraph.startsWith('- ')) {
                 return (
-                  <ul key={i} className="space-y-3 my-4 ml-2">
+                  <ul key={i} className="space-y-2 my-4 ml-2">
                     {paragraph.split('\n').map((item, j) => (
                       <li key={j} className="flex gap-3 items-start">
-                        <span className="text-[var(--gold-primary)] mt-1.5 text-xs">●</span>
-                        <span dangerouslySetInnerHTML={{ __html: item.replace('- ', '').replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}></span>
+                        <span className="text-[var(--gold-primary)] mt-1.5 text-[8pt]">●</span>
+                        <span className="text-[12pt]" dangerouslySetInnerHTML={{ __html: item.replace('- ', '').replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}></span>
                       </li>
                     ))}
                   </ul>
@@ -82,18 +82,18 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               return (
                 <p 
                   key={i} 
-                  className="opacity-90 font-light"
+                  className="opacity-90 font-light text-[12pt]"
                   dangerouslySetInnerHTML={{ __html: paragraph.replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}
                 />
               );
             })}
           </div>
-
+ 
           <footer className="mt-16 pt-12 border-t border-[var(--gold-primary)]/20 flex flex-col items-center">
-             <p className="text-[var(--gold-light)]/40 text-sm mb-6 font-light uppercase tracking-widest">© 2026 Daily Chinese Horoscope. All rights reserved.</p>
+             <p className="text-[var(--gold-light)]/40 text-[10pt] mb-6 font-light uppercase tracking-widest text-center">© 2026 Daily Chinese Horoscope. All rights reserved.</p>
              <Link 
                 href="/blog" 
-                className="bg-gradient-to-r from-[#e5ca72] to-[#d4af37] text-[#3a0606] font-black tracking-[0.2em] uppercase px-10 py-4 rounded-full shadow-[0_10px_30px_rgba(212,175,55,0.3)] hover:scale-105 active:scale-95 transition-all text-sm"
+                className="bg-gradient-to-r from-[#e5ca72] to-[#d4af37] text-[#3a0606] font-black tracking-[0.2em] uppercase px-8 py-3 rounded-full shadow-[0_10px_30px_rgba(212,175,55,0.3)] hover:scale-105 active:scale-95 transition-all text-[11pt]"
              >
                 Back to Blog List
              </Link>
