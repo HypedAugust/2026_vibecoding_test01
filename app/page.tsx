@@ -1,13 +1,31 @@
 "use client";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { UserInfo, buildHoroscope } from "./utils/horoscopeBuilder";
 
 export default function Home() {
   const [selectedHoroscope, setSelectedHoroscope] = useState<string | null>(null);
   const [showResult, setShowResult] = useState<boolean>(false);
   const [userInfo, setUserInfo] = useState<UserInfo>({ name: '', gender: '', year: '', month: '', day: '', time: '' });
+  const [visitorCount, setVisitorCount] = useState<number | null>(null);
+
+  useEffect(() => {
+    // 글로벌 가짜 방문자 로직: 15,000부터 시작해서 시간에 따라 유기적으로 오르는 느낌을 줌
+    const startDate = new Date("2026-04-13T00:00:00").getTime();
+    const now = new Date().getTime();
+    const diffHours = Math.max(0, (now - startDate) / (1000 * 60 * 60));
+    
+    // 시간당 평균 12명의 방문자
+    const globalCount = 15000 + Math.floor(diffHours * 12);
+    
+    // 로컬 환경 랜덤 히트 추가 (사용자가 새로고침할 때마다 1~3명씩 올라가는 액션성)
+    const storedHits = parseInt(localStorage.getItem('fortune_hits') || '0', 10);
+    const newHits = storedHits + Math.floor(Math.random() * 3) + 1;
+    localStorage.setItem('fortune_hits', newHits.toString());
+
+    setVisitorCount(globalCount + newHits);
+  }, []);
 
   const handleSelect = (id: string) => {
     setSelectedHoroscope(id);
@@ -198,6 +216,29 @@ export default function Home() {
 
         {showResult && selectedHoroscope && (
           <ScrollResult type={selectedHoroscope} userInfo={userInfo} onClose={() => setShowResult(false)} />
+        )}
+
+        {/* Global Hit Counter UI */}
+        {visitorCount !== null && !showResult && (
+          <div className="mt-24 flex flex-col items-center animate-fade-in transition-all duration-700">
+            <p className="text-[var(--gold-light)] font-bold text-sm tracking-[0.3em] opacity-80 mb-4 uppercase">누적 방문자 수</p>
+            <div className="flex gap-1.5" style={{ transformStyle: "preserve-3d" }}>
+              {visitorCount.toLocaleString().split('').map((char, i) => (
+                <span 
+                  key={i} 
+                  className={`flex items-center justify-center font-mono ${
+                    char === ',' 
+                    ? 'px-1 text-2xl text-[var(--gold-primary)] translate-y-3 opacity-80 shadow-none bg-transparent border-none' 
+                    : 'w-10 h-14 bg-gradient-to-b from-[#4a0404] via-black to-[#260101] border-2 border-[var(--gold-primary)]/60 text-[var(--gold-primary)] rounded-md text-3xl font-extrabold shadow-[0_8px_20px_rgba(0,0,0,0.9),_inset_0_2px_8px_rgba(255,255,255,0.15)]'
+                  }`}
+                  style={{ textShadow: char !== ',' ? "0 2px 4px rgba(212,175,55,0.3)" : "none" }}
+                >
+                  {char}
+                </span>
+              ))}
+            </div>
+            <p className="mt-5 text-[#d4af37]/40 text-xs tracking-[0.4em] font-light">Global Fortune Seekers</p>
+          </div>
         )}
       </main>
     </div>
