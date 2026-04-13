@@ -133,7 +133,7 @@ export default function Home() {
             당신의 운명을 확인하세요
           </p>
           <p className="mt-4 text-sm sm:text-base text-[var(--gold-light)] opacity-90 text-center tracking-widest font-medium bg-black/30 px-4 py-2 rounded-full border border-[var(--gold-primary)]/20 shadow-sm">
-            ※ 입력하신 정보는 운세 풀이에만 사용되며, 서버에 절대 저장되지 않습니다.
+            별도의 회원가입 절차 없이 콘텐츠를 자유롭게 이용할 수 있으며, 어떠한 개인정보도 저장하지 않습니다.
           </p>
         </header>
 
