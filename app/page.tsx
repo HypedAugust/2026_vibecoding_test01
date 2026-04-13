@@ -194,8 +194,8 @@ export default function Home() {
 function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) {
   return (
     <div className="w-full max-w-2xl mt-10 relative flex flex-col items-center animate-fade-in-fast z-40 mb-32 drop-shadow-2xl">
-      <button onClick={onClose} className="absolute -top-12 right-0 text-[var(--gold-light)] hover:text-white pb-2 tracking-widest text-sm opacity-70 hover:opacity-100 transition-opacity">
-        ← 돌아가기
+      <button onClick={onClose} className="fixed top-6 right-6 md:top-8 md:right-8 z-50 bg-[var(--red-deep)] border border-[var(--gold-primary)] px-6 py-3 rounded-full text-[var(--gold-light)] hover:text-white hover:bg-black tracking-widest text-sm shadow-[0_0_15px_rgba(212,175,55,0.4)] transition-all flex items-center gap-2 group">
+        <span className="transform group-hover:-translate-x-1 transition-transform">←</span> 다른 운세 보기
       </button>
       
       {/* Top Wooden Roller */}

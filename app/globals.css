@@ -78,18 +78,18 @@ body {
 }
 
 @keyframes contentFadeIn {
-  0% { opacity: 0; transform: translateY(-30px); }
-  70% { opacity: 0; transform: translateY(-20px); }
+  0% { opacity: 0; transform: translateY(-20px); }
+  30% { opacity: 0; transform: translateY(-10px); }
   100% { opacity: 1; transform: translateY(0); }
 }
 
 .unroll-animation {
-  animation: unroll 2.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+  animation: unroll 1.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
 }
 
 .content-fade-in {
   opacity: 0;
-  animation: contentFadeIn 3.5s ease-out forwards;
+  animation: contentFadeIn 1.8s ease-out forwards;
 }
 
 .scrollbar-hide::-webkit-scrollbar {
