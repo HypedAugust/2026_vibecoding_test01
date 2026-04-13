@@ -13,9 +13,11 @@ export default function Home() {
     setSelectedHoroscope(id);
     setShowResult(false);
   };
-
   return (
     <div className="relative min-h-screen bg-[var(--background)] flex flex-col items-center justify-start overflow-x-hidden font-sans">
+      {/* Oriental Seamless Pattern Overlay (Opacity 30%) */}
+      <div className="absolute inset-0 pointer-events-none" style={{ backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cg fill='%23d4af37' fill-opacity='0.1'%3E%3Cpath d='M50 50c-27.6 0-50 22.4-50 50h10c0-22.1 17.9-40 40-40s40 17.9 40 40h10c0-27.6-22.4-50-50-50zm0-50C22.4 0 0 22.4 0 50h10c0-22.1 17.9-40 40-40s40 17.9 40 40h10C100 22.4 77.6 0 50 0z'/%3E%3C/g%3E%3C/svg%3E")`, backgroundSize: '120px 120px', opacity: 0.3 }}></div>
+      <div className="absolute inset-0 pointer-events-none bg-gradient-to-b from-transparent to-[var(--background)] opacity-70"></div>
       {/* Curtain Animation Overlay */}
       <div className="curtain-container fixed inset-0 z-50 flex pointer-events-none bg-transparent">
         {/* 왼쪽 막: 뷰포트의 좌측 50%. 내부 이미지를 전체 넓이로 잡아 좌측 반만 렌더링 */}
@@ -49,7 +51,10 @@ export default function Home() {
               className="object-contain"
             />
           </div>
-          <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-center tracking-[0.2em] text-[var(--gold-primary)] drop-shadow-lg [text-shadow:2px_2px_4px_rgba(0,0,0,0.8)] uppercase">
+          <h1 
+            className="text-4xl sm:text-5xl md:text-6xl font-bold text-center tracking-[0.2em] text-[var(--gold-primary)] uppercase transition-all duration-300 hover:scale-105 cursor-default"
+            style={{ textShadow: "0 1px 0 #b38b22, 0 2px 0 #9c781a, 0 3px 0 #866512, 0 5px 0px #6f530d, 0 7px 0px #584107, 0 10px 20px rgba(0,0,0,0.9)" }}
+          >
             Daily Chinese Horoscope
           </h1>
           <div className="w-32 h-1 bg-[var(--gold-primary)] mt-6 opacity-60"></div>
@@ -59,7 +64,7 @@ export default function Home() {
         </header>
 
         {/* Options */}
-        <section className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 w-full">
+        <section className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 w-full" style={{ perspective: '1000px' }}>
           {[
             { id: "today", title: "오늘 운세", subtitle: "Today's Fortune" },
             { id: "weekly", title: "주간 운세", subtitle: "Weekly Fortune" },
@@ -68,13 +73,16 @@ export default function Home() {
             <button
               key={item.id}
               onClick={() => handleSelect(item.id)}
-              className="group relative overflow-hidden rounded-2xl border-2 border-[var(--gold-primary)]/50 bg-[var(--red-deep)] p-8 transition-all duration-300 hover:scale-105 hover:border-[var(--gold-primary)] hover:shadow-[0_0_30px_rgba(212,175,55,0.4)] focus:outline-none"
+              className="group relative overflow-hidden rounded-2xl border-t-2 border-l-2 border-r-[5px] border-b-[5px] border-[var(--gold-primary)]/70 bg-gradient-to-br from-[#800b0b] via-[#4a0404] to-[#120101] py-10 transition-all duration-300 transform hover:-translate-y-3 hover:translate-x-1 hover:border-r-[8px] hover:border-b-[8px] hover:shadow-[-15px_20px_40px_rgba(0,0,0,1),_inset_2px_2px_20px_rgba(255,255,255,0.15)] shadow-[-5px_10px_25px_rgba(0,0,0,0.9),_inset_1px_1px_5px_rgba(255,255,255,0.2)] focus:outline-none flex flex-col items-center justify-center text-center"
+              style={{ transformStyle: 'preserve-3d' }}
             >
-              <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/60 z-0"></div>
+              {/* 노이즈 텍스처로 돌붙임 질감 유도 */}
+              <div className="absolute inset-0 opacity-20 mix-blend-overlay" style={{ backgroundImage: "url('data:image/svg+xml,%3Csvg viewBox=%220 0 200 200%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cfilter id=%22noiseFilter%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.65%22 numOctaves=%223%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22100%25%22 height=%22100%25%22 filter=%22url(%23noiseFilter)%22/%3E%3C/svg%3E')" }}></div>
               <div className="absolute top-0 left-0 w-full h-[2px] bg-gradient-to-r from-transparent via-[var(--gold-primary)] to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
-              <div className="relative z-10 flex flex-col items-center justify-center py-6">
-                <h3 className="text-3xl font-bold text-[var(--gold-primary)] mb-3">{item.title}</h3>
-                <p className="text-sm text-[var(--gold-light)] opacity-70 uppercase tracking-widest">{item.subtitle}</p>
+              
+              <div className="relative z-10 flex flex-col items-center justify-center w-full transform group-hover:translate-z-10 transition-transform duration-300">
+                <h3 className="text-3xl sm:text-4xl font-extrabold text-[var(--gold-primary)] mb-3 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]" style={{ textShadow: "0 1px 0 #9c781a, 0 2px 0 #6f530d, 0 5px 15px rgba(0,0,0,1)" }}>{item.title}</h3>
+                <p className="text-sm font-bold text-[var(--gold-light)] opacity-90 uppercase tracking-[0.2em]">{item.subtitle}</p>
               </div>
             </button>
           ))}
@@ -82,7 +90,7 @@ export default function Home() {
 
         {/* Form Modal/Section */}
         {!showResult && selectedHoroscope && (
-          <section className="mt-20 w-full max-w-3xl animate-fade-in-fast bg-gradient-to-b from-[#3a0606] to-[var(--red-deep)] p-8 sm:p-10 rounded-3xl border-2 border-[var(--gold-primary)]/40 shadow-2xl relative">
+          <section className="mt-24 w-full max-w-3xl animate-fade-in-fast bg-gradient-to-br from-[#590a0a] via-[#3a0606] to-[#120101] p-8 sm:p-10 rounded-3xl border-t-2 border-l-2 border-r-[6px] border-b-[6px] border-[var(--gold-primary)]/60 shadow-[-15px_25px_50px_rgba(0,0,0,1),_inset_2px_2px_15px_rgba(255,255,255,0.05)] relative transform-gpu">
             <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[var(--background)] px-6 py-2 rounded-full border border-[var(--gold-primary)]/40">
               <span className="text-[var(--gold-primary)] font-bold tracking-widest">
                 {selectedHoroscope === "today" ? "오늘 운세" : selectedHoroscope === "weekly" ? "주간 운세" : "월간 운세"} 정보 입력
@@ -176,10 +184,10 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="mt-8 flex justify-center">
+              <div className="mt-10 flex justify-center perspective-1000">
                 <button 
                   type="submit" 
-                  className="w-full md:w-2/3 bg-gradient-to-r from-[#d4af37] via-[#f3e5ab] to-[#d4af37] text-black font-extrabold tracking-widest text-xl py-5 rounded-xl hover:shadow-[0_0_25px_rgba(212,175,55,0.8)] transition-all duration-300 transform hover:-translate-y-1 active:scale-95"
+                  className="w-full md:w-2/3 bg-gradient-to-r from-[#e5ca72] via-[#ffe898] to-[#d4af37] text-[#3a0606] font-extrabold tracking-widest text-xl py-5 rounded-2xl border-t-2 border-l-2 border-r-[4px] border-b-[6px] border-[#9c781a] shadow-[-5px_10px_20px_rgba(0,0,0,0.8),_inset_2px_2px_5px_rgba(255,255,255,0.8)] transition-all duration-300 transform hover:-translate-y-2 hover:border-b-[8px] hover:shadow-[-10px_15px_30px_rgba(0,0,0,1)] active:scale-95 active:translate-y-2 active:border-b-2 active:shadow-none"
                 >
                   운명 열어보기
                 </button>
