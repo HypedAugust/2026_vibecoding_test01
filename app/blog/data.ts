@@ -353,5 +353,235 @@ The Day Pillar appears in 60 different combinations of 10 Heavenly Stems and 12 
 
 The Day Pillar is like the 'coordinates' marking where you currently stand on the map of your life. Understanding your Day Pillar deeply is the process of moving beyond how others see you (Month Pillar) to meet the real you (Day Pillar). Why not discover the true colors of your Day Pillar today?
     `.trim()
+  },
+  {
+    slug: "what-is-oheng",
+    title: "오행(五行)의 모든 것: 나를 구성하는 다섯 가지 기운",
+    title_en: "Everything About the Five Elements: The Five Energies That Define You",
+    date: "2026-04-15",
+    category: "입문 가이드",
+    category_en: "Beginner Guide",
+    excerpt: "목, 화, 토, 금, 수 — 사주명리의 근간인 오행의 개념과 상생상극의 원리를 이해하기 쉽게 풀어봅니다.",
+    excerpt_en: "Wood, Fire, Earth, Metal, Water — an accessible breakdown of the Five Elements and their generative and destructive cycles.",
+    content: `
+오행(五行)이란 자연계의 모든 사물과 현상을 목(木), 화(火), 토(土), 금(金), 수(水)의 다섯 가지 기본 에너지로 분류한 고대 동양 철학의 핵심 체계입니다. 사주명리학에서는 이 오행의 배합과 균형이 사람의 성격, 건강, 운세를 결정하는 근본적인 요인으로 작용합니다.
+
+### 1. 각 오행의 특성
+- 목(木): 봄의 기운. 위로 뻗어 나가는 성장과 시작의 에너지입니다. 인(仁)의 덕을 상징하며, 간장과 담낭에 영향을 줍니다.
+- 화(火): 여름의 기운. 밝게 타오르는 열정과 확산의 에너지입니다. 예(禮)의 덕을 상징하며, 심장과 소장에 영향을 줍니다.
+- 토(土): 환절기의 기운. 중심을 잡고 포용하는 안정의 에너지입니다. 신(信)의 덕을 상징하며, 비장과 위장에 영향을 줍니다.
+- 금(金): 가을의 기운. 정리하고 결단하는 숙살의 에너지입니다. 의(義)의 덕을 상징하며, 폐와 대장에 영향을 줍니다.
+- 수(水): 겨울의 기운. 깊이 저장하고 유연하게 흐르는 지혜의 에너지입니다. 지(智)의 덕을 상징하며, 신장과 방광에 영향을 줍니다.
+
+### 2. 상생(相生)의 관계
+상생이란 한 오행이 다른 오행을 도와 살려주는 관계를 말합니다.
+- 목생화(木生火): 나무가 타서 불을 만듭니다.
+- 화생토(火生土): 불이 타고 나면 재(흙)가 됩니다.
+- 토생금(土生金): 흙 속에서 금속이 만들어집니다.
+- 금생수(金生水): 차가운 금속 표면에서 이슬(물)이 맺힙니다.
+- 수생목(水生木): 물이 나무를 자라게 합니다.
+
+### 3. 상극(相剋)의 관계
+상극이란 한 오행이 다른 오행을 제어하고 억제하는 관계입니다.
+- 목극토(木剋土): 나무가 뿌리로 흙을 뚫고 영양분을 빼앗습니다.
+- 토극수(土剋水): 흙이 물의 흐름을 막습니다.
+- 수극화(水剋火): 물이 불을 끕니다.
+- 화극금(火剋金): 불이 금속을 녹입니다.
+- 금극목(金剋木): 금속(도끼)이 나무를 베어냅니다.
+
+### 4. 나의 오행 균형 살피기
+내 사주에서 어떤 오행이 강하고 어떤 오행이 약한지를 아는 것이 명리학의 첫걸음입니다. 특정 오행이 과다하면 그 성질이 극단으로 치우치고, 부족하면 해당 영역의 에너지가 결핍됩니다. 예를 들어 화(火)가 과다한 사람은 열정적이지만 조급하고 다혈질적인 경향이 있으며, 수(水)가 부족한 사람은 유연성이 떨어지고 스트레스에 취약할 수 있습니다. 이러한 불균형을 인식하고 보완하는 것이 바로 개운의 핵심입니다.
+    `.trim(),
+    content_en: `
+The Five Elements (五行, Wu Xing) is a core ancient Eastern philosophical framework that classifies all natural phenomena into five fundamental energies: Wood (木), Fire (火), Earth (土), Metal (金), and Water (水). In BaZi, the composition and balance of these Five Elements serve as the fundamental factors determining a person's personality, health, and fortune.
+
+### 1. Characteristics of Each Element
+- Wood (木): Spring energy. Upward-growing energy of beginnings and expansion. Represents the virtue of Benevolence (仁) and affects the liver and gallbladder.
+- Fire (火): Summer energy. Brightly blazing energy of passion and diffusion. Represents the virtue of Propriety (禮) and affects the heart and small intestine.
+- Earth (土): Transitional energy. Centering, embracing energy of stability. Represents the virtue of Trust (信) and affects the spleen and stomach.
+- Metal (金): Autumn energy. Energy of organization, decisiveness, and discipline. Represents the virtue of Righteousness (義) and affects the lungs and large intestine.
+- Water (水): Winter energy. Deeply storing, flexibly flowing energy of wisdom. Represents the virtue of Wisdom (智) and affects the kidneys and bladder.
+
+### 2. The Generative Cycle (相生)
+The generative cycle describes how one element nurtures and gives life to another.
+- Wood feeds Fire: Wood burns to create fire.
+- Fire creates Earth: After fire burns, ash (earth) remains.
+- Earth bears Metal: Metals are formed within the earth.
+- Metal collects Water: Dew (water) condenses on cold metal surfaces.
+- Water nourishes Wood: Water makes trees grow.
+
+### 3. The Destructive Cycle (相剋)
+The destructive cycle describes how one element controls and restrains another.
+- Wood parts Earth: Tree roots penetrate soil and extract nutrients.
+- Earth dams Water: Earth blocks the flow of water.
+- Water quenches Fire: Water extinguishes fire.
+- Fire melts Metal: Fire liquefies metal.
+- Metal chops Wood: A metal axe fells a tree.
+
+### 4. Examining Your Elemental Balance
+Knowing which elements are strong and which are weak in your chart is the first step in BaZi. When a particular element is excessive, its qualities skew to extremes; when deficient, energy in that domain is lacking. For example, someone with excessive Fire tends to be passionate but impatient and hot-tempered, while someone lacking Water may struggle with flexibility and be vulnerable to stress. Recognizing and compensating for these imbalances is the very essence of fortune enhancement.
+    `.trim()
+  },
+  {
+    slug: "what-is-daeun",
+    title: "대운(大運)이란? 10년마다 바뀌는 인생의 큰 물결",
+    title_en: "What Is the Major Luck Cycle? The Great Wave That Shifts Every 10 Years",
+    date: "2026-04-15",
+    category: "명리 심화",
+    category_en: "Advanced BaZi",
+    excerpt: "사주 원국은 변하지 않지만, 대운은 10년 주기로 삶의 계절을 바꿉니다. 대운의 원리와 읽는 법을 알아봅니다.",
+    excerpt_en: "Your natal chart stays fixed, but the Major Luck Cycle changes your life's seasons every decade. Learn how it works.",
+    content: `
+사주명리학에서 '명(命)'이 태어날 때 정해진 선천적 설계도라면, '운(運)'은 시간에 따라 변화하는 후천적 환경입니다. 그중에서도 대운(大運)은 10년 단위로 바뀌는 인생의 가장 큰 흐름으로, 같은 사주를 가진 사람이라도 대운에 따라 완전히 다른 인생을 살 수 있습니다.
+
+### 1. 대운의 기본 원리
+대운은 월주(月柱)를 기점으로 순행 또는 역행하며 10년마다 새로운 천간(天干)과 지지(地支)의 기운이 들어옵니다. 남자와 여자, 그리고 태어난 해의 음양에 따라 순행과 역행이 결정됩니다. 대운이 바뀌는 시점은 보통 삶의 큰 전환기와 맞물리는 경우가 많습니다.
+
+### 2. 대운이 삶에 미치는 영향
+- 대운이 내 사주와 조화로울 때: 하는 일마다 순풍이 불고, 기회가 자연스럽게 찾아오며, 건강과 인간관계가 원만해집니다. 이 시기에는 적극적으로 도전하고 확장하는 것이 유리합니다.
+- 대운이 내 사주와 충돌할 때: 예상치 못한 장애물이 나타나고, 노력에 비해 결과가 미진하며, 건강이나 관계에서 시련이 올 수 있습니다. 이때는 무리한 확장보다 내실을 다지는 것이 현명합니다.
+
+### 3. 대운 교체기의 특징
+대운이 바뀌는 전후 1~2년은 인생의 큰 변곡점이 됩니다. 갑자기 이직이나 이사를 하게 되거나, 새로운 인연을 만나거나, 가치관이 크게 바뀌는 경험을 하는 경우가 많습니다. 이 시기에 삶이 흔들린다고 느껴도 그것은 새로운 10년의 기운으로 전환되는 자연스러운 과정이므로 두려워하기보다 변화에 유연하게 대응하는 것이 좋습니다.
+
+### 4. 대운과 세운의 관계
+대운(10년)이 인생의 큰 계절이라면, 세운(歲運, 1년)은 그 계절 안에서의 날씨와 같습니다. 대운이 좋더라도 세운이 나쁘면 일시적인 불운이 올 수 있고, 대운이 나쁘더라도 세운이 좋으면 잠깐의 호전이 있을 수 있습니다. 하지만 장기적으로는 대운의 흐름이 훨씬 더 큰 영향력을 발휘합니다. 자신의 현재 대운이 어떤 시기인지 파악하는 것만으로도 인생 전략을 세우는 데 큰 도움이 됩니다.
+    `.trim(),
+    content_en: `
+In BaZi, if 'Ming (命, Destiny)' is the innate blueprint fixed at birth, then 'Yun (運, Fortune)' is the environment that changes over time. Among these, the Major Luck Cycle (大運, Da Yun) is the grandest current of life, shifting every 10 years — meaning even people with identical natal charts can live entirely different lives depending on their Major Luck Cycle.
+
+### 1. Basic Principles of the Major Luck Cycle
+The Major Luck Cycle progresses forward or backward starting from the Month Pillar, with new Heavenly Stem and Earthly Branch energies entering every decade. Whether it progresses forward or backward is determined by gender and the Yin-Yang polarity of the birth year. The transition point of a Major Luck Cycle often coincides with major life turning points.
+
+### 2. How the Major Luck Cycle Affects Life
+- When the cycle harmonizes with your chart: Favorable winds blow in everything you do, opportunities arrive naturally, and health and relationships flow smoothly. This is the time to actively challenge and expand.
+- When the cycle clashes with your chart: Unexpected obstacles appear, results fall short of effort, and trials in health or relationships may arise. During such periods, it is wiser to strengthen your foundations rather than overextend.
+
+### 3. Characteristics of Cycle Transitions
+The 1-2 years before and after a Major Luck Cycle change become major inflection points in life. Sudden job changes, relocations, meeting new connections, or experiencing major shifts in values are common. Even if life feels unstable during this period, it is a natural process of transitioning into the energy of a new decade — rather than fearing it, respond flexibly to the change.
+
+### 4. The Relationship Between Major and Annual Luck Cycles
+If the Major Luck Cycle (10 years) is the great season of life, the Annual Luck Cycle (歲運, 1 year) is the weather within that season. Even with a good Major Cycle, a bad Annual Cycle can bring temporary misfortune; even with a bad Major Cycle, a good Annual Cycle can bring brief improvement. However, in the long term, the Major Luck Cycle exerts far greater influence. Simply understanding what stage of your current Major Luck Cycle you are in can be tremendously helpful in crafting your life strategy.
+    `.trim()
+  },
+  {
+    slug: "what-is-hapchung-hyung-pa",
+    title: "합(合), 충(沖), 형(刑), 파(破): 지지 관계의 완전 정리",
+    title_en: "Harmony, Clash, Punishment, Break: A Complete Guide to Branch Interactions",
+    date: "2026-04-16",
+    category: "명리 심화",
+    category_en: "Advanced BaZi",
+    excerpt: "사주의 지지(地支)가 맺는 네 가지 핵심 관계 — 합, 충, 형, 파 — 를 체계적으로 정리하고 그 의미를 설명합니다.",
+    excerpt_en: "A systematic overview of the four key Earthly Branch relationships — Harmony, Clash, Punishment, and Break — and their meanings.",
+    content: `
+사주팔자의 지지(地支)는 서로 단독으로 존재하는 것이 아니라, 복잡하고 역동적인 관계를 맺고 있습니다. 이 관계를 통칭하여 합충형파해(合沖刑破害)라 부르며, 이 중 가장 중요한 네 가지 관계를 살펴보겠습니다.
+
+### 1. 합(合): 결합과 화합의 기운
+합은 두 지지가 만나 새로운 에너지를 만들어내는 관계입니다.
+- 육합(六合): 자축합(子丑合), 인해합(寅亥合), 묘술합(卯戌合), 진유합(辰酉合), 사신합(巳申合), 오미합(午未合)의 여섯 쌍. 가까운 사이의 화합으로, 부부의 정이나 친밀한 관계를 상징합니다.
+- 삼합(三合): 세 지지가 모여 하나의 오행으로 변하는 강력한 합입니다. 예를 들어 인오술(寅午戌)은 화국(火局), 해묘미(亥卯未)는 목국(木局)을 이룹니다.
+- 방합(方合): 같은 방향의 세 지지가 모이는 합으로, 가장 순수한 오행의 힘을 발휘합니다.
+
+### 2. 충(沖): 정면 대립과 변화의 기운
+충은 정반대 위치의 지지가 부딪치는 가장 강렬한 대립 관계입니다. 자오충, 축미충 등 육충(六沖)이 대표적이며, 변화, 이별, 이동 등 삶의 큰 전환을 가져옵니다. 충이 반드시 나쁜 것만은 아니며, 정체된 상황을 깨뜨려 새로운 기회를 열어주기도 합니다.
+
+### 3. 형(刑): 갈등과 시련의 기운
+형은 서로 해치고 손상시키는 관계로, 충보다는 서서히 진행되지만 내면적인 고통이 더 깊습니다.
+- 삼형(三刑): 인사신(寅巳申)의 무은지형(無恩之刑), 축술미(丑戌未)의 무례지형(無禮之刑)이 대표적입니다.
+- 자형(自刑): 진진(辰辰), 오오(午午), 유유(酉酉), 해해(亥亥)처럼 같은 지지끼리 만나 스스로를 해치는 것입니다.
+- 형이 있는 사주는 인간관계에서의 갈등이나 법적 문제, 건강상의 어려움을 경험할 수 있으나, 동시에 날카로운 통찰력과 강인한 정신력을 가지는 경우가 많습니다.
+
+### 4. 파(破): 깨뜨림과 재구성의 기운
+파는 충만큼 극적이지는 않지만 기존의 것을 깨뜨리고 재구성하는 작용을 합니다. 자유파(子酉破), 오묘파(午卯破) 등의 쌍이 있으며, 기존 관계나 계획이 어긋나지만 그 과정에서 더 나은 방향으로의 수정이 이루어질 수 있습니다.
+
+이러한 지지 관계들은 단독으로 작용하기보다 서로 복합적으로 영향을 주고받습니다. 내 사주에 어떤 합과 충이 있는지, 어떤 형과 파가 잠재해 있는지를 파악하면 인생의 부침을 훨씬 깊이 있게 이해할 수 있습니다.
+    `.trim(),
+    content_en: `
+The Earthly Branches (地支) in a BaZi chart do not exist in isolation — they form complex, dynamic relationships with one another. Collectively known as Harmony-Clash-Punishment-Break-Harm (合沖刑破害), let us examine the four most important of these interactions.
+
+### 1. Harmony (合): The Energy of Union and Combination
+Harmony occurs when two Branches meet to create new energy.
+- Six Harmonies (六合): Six pairs — Zi-Chou, Yin-Hai, Mao-Xu, Chen-You, Si-Shen, Wu-Wei. These represent close bonding, symbolizing marital affection or intimate relationships.
+- Three Harmonies (三合): Three Branches combine to transform into a single powerful element. For example, Yin-Wu-Xu forms a Fire Frame (火局), while Hai-Mao-Wei forms a Wood Frame (木局).
+- Directional Combination (方合): Three Branches from the same direction unite, producing the purest elemental force.
+
+### 2. Clash (沖): The Energy of Direct Opposition and Change
+Clash is the most intense confrontational relationship, occurring between Branches at opposite positions. The Six Clashes (Zi-Wu, Chou-Wei, etc.) are representative, bringing major life transitions such as change, separation, and relocation. Clashes are not necessarily negative — they can shatter stagnation and open new opportunities.
+
+### 3. Punishment (刑): The Energy of Conflict and Trials
+Punishment is a relationship of mutual harm that progresses more gradually than Clash but causes deeper internal suffering.
+- Three Punishments (三刑): The most notable are Yin-Si-Shen (Punishment of Ingratitude) and Chou-Xu-Wei (Punishment of Incivility).
+- Self-Punishment (自刑): When identical Branches meet — Chen-Chen, Wu-Wu, You-You, Hai-Hai — causing self-inflicted harm.
+- Charts with Punishment may experience interpersonal conflicts, legal issues, or health difficulties, but often also possess sharp insight and formidable mental resilience.
+
+### 4. Break (破): The Energy of Disruption and Reconstruction
+Break is less dramatic than Clash but acts to disrupt existing structures and reconstruct them. Pairs include Zi-You Break and Wu-Mao Break. Existing relationships or plans may go awry, but the process can lead to corrections toward a better direction.
+
+These Branch interactions rarely act in isolation — they influence each other in complex, layered ways. Understanding which Harmonies and Clashes exist in your chart, and which Punishments and Breaks lie dormant, allows for a much deeper understanding of life's ups and downs.
+    `.trim()
+  },
+  {
+    slug: "saju-and-health",
+    title: "사주로 보는 건강 관리법: 오행 체질과 양생의 지혜",
+    title_en: "BaZi Health Guide: Five Element Constitution & the Wisdom of Self-Care",
+    date: "2026-04-16",
+    category: "운세 팁",
+    category_en: "Fortune Tips",
+    excerpt: "사주의 오행 배합을 통해 타고난 체질의 강약을 파악하고, 건강을 지키는 동양 양생법을 소개합니다.",
+    excerpt_en: "Discover your constitutional strengths and weaknesses through your chart's Five Element composition, and learn Eastern self-care wisdom.",
+    content: `
+사주명리학은 운세만을 보는 학문이 아닙니다. 오행의 배합과 균형을 통해 타고난 체질의 강약점을 파악하고 건강을 관리하는 실용적인 양생(養生)의 도구이기도 합니다. 동양 의학(한의학)과 사주명리학은 같은 오행 체계를 공유하고 있으며, 이를 통해 예방적 건강 관리가 가능합니다.
+
+### 1. 오행과 인체의 대응 관계
+- 목(木) — 간장, 담낭, 눈, 근육, 손톱: 목이 약하면 눈의 피로, 근육 경련, 간 기능 저하에 주의해야 합니다.
+- 화(火) — 심장, 소장, 혀, 혈관: 화가 과다하면 심장 두근거림, 불면증, 혈압 문제가 생길 수 있습니다.
+- 토(土) — 비장, 위장, 입, 살(肉): 토가 불균형하면 소화 불량, 체중 변동, 면역력 저하가 나타납니다.
+- 금(金) — 폐, 대장, 코, 피부: 금이 약하면 호흡기 질환, 피부 트러블, 알레르기에 취약해집니다.
+- 수(水) — 신장, 방광, 귀, 뼈: 수가 부족하면 허리 통증, 골다공증, 생식기 관련 문제가 발생할 수 있습니다.
+
+### 2. 사주 오행 과다/부족 시 건강 관리법
+- 목(木) 과다: 분노와 스트레스 관리가 핵심. 명상이나 심호흡으로 간의 울체를 풀어주세요.
+- 화(火) 과다: 과도한 자극을 피하고 충분한 수면을 확보하세요. 쓴맛(고채류) 음식이 심장 열을 식혀줍니다.
+- 토(土) 과다: 과식을 삼가고 규칙적인 식사 시간을 지키세요. 소화 기능이 전반적 건강의 기초입니다.
+- 금(金) 과다: 건조한 환경을 피하고 충분한 수분 섭취와 유산소 운동으로 폐 기능을 강화하세요.
+- 수(水) 과다: 몸을 차갑게 하지 마세요. 따뜻한 음식과 반신욕이 신장 기운을 보호합니다.
+
+### 3. 계절별 양생의 지혜
+사주의 오행이 계절과 만나면 그 기운이 증폭되거나 약화됩니다.
+- 봄(목 왕성): 간 건강에 집중. 신맛(매실, 귤) 섭취와 스트레칭이 좋습니다.
+- 여름(화 왕성): 심장 보호가 중요. 시원한 수박이나 오이로 체온을 조절하세요.
+- 환절기(토 왕성): 비위를 챙기세요. 소화가 잘되는 죽이나 따뜻한 국물이 도움됩니다.
+- 가을(금 왕성): 폐를 보하세요. 배, 도라지, 꿀이 호흡기를 보호합니다.
+- 겨울(수 왕성): 신장 기운을 보충하세요. 검은콩, 검은깨, 호두 등의 검은색 음식이 효과적입니다.
+
+자신의 사주 오행을 파악하면 맞춤형 건강 관리가 가능해집니다. 현대 의학으로 치료가 필요한 질병은 당연히 병원을 방문해야 하지만, 일상적인 양생과 예방의 영역에서 사주명리의 오행 체질론은 수천 년의 경험이 증명하는 실용적인 지혜를 담고 있습니다.
+    `.trim(),
+    content_en: `
+BaZi is not merely a study of fortune — it is also a practical tool for self-care (養生, Yang Sheng) that identifies constitutional strengths and weaknesses through the composition and balance of the Five Elements. Traditional East Asian medicine and BaZi share the same Five Element framework, enabling preventive health management.
+
+### 1. Five Elements and Their Corresponding Body Systems
+- Wood (木) — Liver, gallbladder, eyes, muscles, nails: Weak Wood requires attention to eye fatigue, muscle cramps, and liver function.
+- Fire (火) — Heart, small intestine, tongue, blood vessels: Excessive Fire can cause palpitations, insomnia, and blood pressure issues.
+- Earth (土) — Spleen, stomach, mouth, flesh: Imbalanced Earth manifests as indigestion, weight fluctuation, and weakened immunity.
+- Metal (金) — Lungs, large intestine, nose, skin: Weak Metal makes one vulnerable to respiratory illness, skin troubles, and allergies.
+- Water (水) — Kidneys, bladder, ears, bones: Insufficient Water can lead to back pain, osteoporosis, and reproductive concerns.
+
+### 2. Health Management for Excess/Deficient Elements
+- Excess Wood: Anger and stress management are key. Release liver stagnation through meditation and deep breathing.
+- Excess Fire: Avoid excessive stimulation and ensure sufficient sleep. Bitter foods (leafy greens) help cool heart fire.
+- Excess Earth: Avoid overeating and maintain regular meal times. Digestive health is the foundation of overall wellness.
+- Excess Metal: Avoid dry environments. Strengthen lung function with adequate hydration and aerobic exercise.
+- Excess Water: Keep your body warm. Warm foods and half-body baths protect kidney energy.
+
+### 3. Seasonal Self-Care Wisdom
+When your chart's Five Elements meet the seasons, their energies are amplified or diminished.
+- Spring (Wood dominant): Focus on liver health. Sour foods (plum, citrus) and stretching are beneficial.
+- Summer (Fire dominant): Heart protection is crucial. Cool your body with watermelon and cucumber.
+- Transitional seasons (Earth dominant): Care for your digestive system. Easily digestible porridge and warm soups help.
+- Autumn (Metal dominant): Nourish your lungs. Pear, balloon flower root, and honey protect the respiratory system.
+- Winter (Water dominant): Replenish kidney energy. Black foods such as black beans, black sesame, and walnuts are effective.
+
+Understanding your BaZi Five Element composition enables personalized health management. While diseases requiring treatment naturally call for modern medicine, in the realm of daily self-care and prevention, BaZi's Five Element constitutional theory contains practical wisdom proven by thousands of years of experience.
+    `.trim()
   }
 ];
