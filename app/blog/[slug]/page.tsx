@@ -53,16 +53,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </span>
               <time className="text-[var(--gold-light)]/50 text-sm font-mono">{post.date}</time>
             </div>
-            <h1 className="text-3xl sm:text-5xl font-extrabold text-[var(--gold-primary)] leading-[1.3] break-keep" style={{ textShadow: "0 2px 10px rgba(0,0,0,0.5)" }}>
+            <h1 className="text-2xl sm:text-4xl font-extrabold text-[var(--gold-primary)] leading-[1.3] break-keep" style={{ textShadow: "0 2px 10px rgba(0,0,0,0.5)" }}>
               {post.title}
             </h1>
           </header>
 
-          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-relaxed font-normal space-y-6 text-base sm:text-lg break-keep text-justify">
+          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-relaxed font-normal space-y-6 text-sm sm:text-base break-keep text-justify">
             {post.content.split('\n\n').map((paragraph, i) => {
               if (paragraph.startsWith('###')) {
                 return (
-                  <h3 key={i} className="text-xl sm:text-2xl font-bold text-[var(--gold-primary)] mt-10 mb-4 border-l-4 border-[var(--gold-primary)] pl-5">
+                  <h3 key={i} className="text-lg sm:text-xl font-bold text-[var(--gold-primary)] mt-10 mb-4 border-l-4 border-[var(--gold-primary)] pl-5">
                     {paragraph.replace('### ', '')}
                   </h3>
                 );
