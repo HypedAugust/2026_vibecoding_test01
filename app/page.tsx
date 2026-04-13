@@ -2,10 +2,12 @@
 
 import Image from "next/image";
 import { useState } from "react";
+import { UserInfo, buildHoroscope } from "./utils/horoscopeBuilder";
 
 export default function Home() {
   const [selectedHoroscope, setSelectedHoroscope] = useState<string | null>(null);
   const [showResult, setShowResult] = useState<boolean>(false);
+  const [userInfo, setUserInfo] = useState<UserInfo>({ name: '', gender: '', year: '', month: '', day: '', time: '' });
 
   const handleSelect = (id: string) => {
     setSelectedHoroscope(id);
@@ -101,6 +103,8 @@ export default function Home() {
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">이름 (NAME)</label>
                   <input 
                     type="text" 
+                    value={userInfo.name}
+                    onChange={(e) => setUserInfo({ ...userInfo, name: e.target.value })}
                     placeholder="당신의 이름을 입력하세요"
                     className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all text-lg"
                     required
@@ -109,6 +113,7 @@ export default function Home() {
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">성별 (GENDER)</label>
                   <select 
+                    value={userInfo.gender} onChange={(e) => setUserInfo({ ...userInfo, gender: e.target.value })}
                     className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all text-lg cursor-pointer appearance-none"
                     required
                   >
@@ -122,7 +127,7 @@ export default function Home() {
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6">
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">생년 (YEAR)</label>
-                  <select className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none">
+                  <select value={userInfo.year} onChange={(e) => setUserInfo({ ...userInfo, year: e.target.value })} className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none" required>
                     <option value="">선택</option>
                     {Array.from({length: 100}, (_, i) => new Date().getFullYear() - i).map(year => (
                       <option key={year} value={year} className="bg-[var(--red-deep)]">{year}년</option>
@@ -131,7 +136,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">월 (MONTH)</label>
-                  <select className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none">
+                  <select value={userInfo.month} onChange={(e) => setUserInfo({ ...userInfo, month: e.target.value })} className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none" required>
                     <option value="">선택</option>
                     {Array.from({length: 12}, (_, i) => i + 1).map(month => (
                       <option key={month} value={month} className="bg-[var(--red-deep)]">{month}월</option>
@@ -140,7 +145,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">일 (DAY)</label>
-                  <select className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none">
+                  <select value={userInfo.day} onChange={(e) => setUserInfo({ ...userInfo, day: e.target.value })} className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none" required>
                     <option value="">선택</option>
                     {Array.from({length: 31}, (_, i) => i + 1).map(day => (
                       <option key={day} value={day} className="bg-[var(--red-deep)]">{day}일</option>
@@ -149,7 +154,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">시간 (TIME)</label>
-                  <select className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none">
+                  <select value={userInfo.time} onChange={(e) => setUserInfo({ ...userInfo, time: e.target.value })} className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none" required>
                     <option value="">모름</option>
                     {[
                       { val: "ja", label: "자시(子時, 23:30~01:30)" },
@@ -184,14 +189,16 @@ export default function Home() {
         )}
 
         {showResult && selectedHoroscope && (
-          <ScrollResult type={selectedHoroscope} onClose={() => setShowResult(false)} />
+          <ScrollResult type={selectedHoroscope} userInfo={userInfo} onClose={() => setShowResult(false)} />
         )}
       </main>
     </div>
   );
 }
 
-function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) {
+function ScrollResult({ type, userInfo, onClose }: { type: string, userInfo: UserInfo, onClose: () => void }) {
+  const data = buildHoroscope(userInfo, type) as any;
+  
   return (
     <div className="w-full max-w-2xl mt-10 relative flex flex-col items-center animate-fade-in-fast z-40 mb-32 drop-shadow-2xl">
       <button onClick={onClose} className="fixed top-[34px] right-6 md:top-[42px] md:right-8 z-50 bg-[var(--red-deep)] border border-[var(--gold-primary)] px-6 py-3 rounded-full text-[var(--gold-light)] hover:text-white hover:bg-black tracking-widest text-sm shadow-[0_0_15px_rgba(212,175,55,0.4)] transition-all flex items-center gap-2 group">
@@ -207,7 +214,6 @@ function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) 
       
       {/* Unrolling Paper */}
       <div className="unroll-animation bg-[#f4e8c1] w-[96%] relative border-x border-[#c2b280] shadow-[0_20px_50px_rgba(0,0,0,0.8)] overflow-hidden flex flex-col items-center origin-top relative" style={{ backgroundImage: "radial-gradient(#e5d8b0 1px, transparent 1px)", backgroundSize: "20px 20px" }}>
-         {/* Inner texture overlay */}
          <div className="absolute inset-0 bg-gradient-to-b from-[#5C3A21]/10 via-transparent to-[#5C3A21]/10 pointer-events-none"></div>
          
          <div className="p-8 sm:p-12 text-[#3a0606] font-serif w-full absolute inset-0 content-fade-in overflow-y-auto scrollbar-hide">
@@ -217,26 +223,29 @@ function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) 
                   <h2 className="text-3xl font-bold tracking-widest border-b-2 border-[#3a0606]/30 pb-4 inline-block">오늘의 운세</h2>
                 </div>
                 <p className="text-xl text-center italic mb-10 font-bold opacity-90 leading-relaxed">
-                  "천리 길도 한 걸음부터 시작된다"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">(千里之行 始於足下 - 노자)</span>
+                  "{data.quote.text}"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">({data.quote.author})</span>
                 </p>
                 <div className="space-y-8 text-lg">
+                  <div className="flex justify-center border-b border-[#3a0606]/10 pb-4">
+                    <span className="bg-[#3a0606] text-[var(--gold-light)] px-4 py-1 rounded-full text-sm tracking-widest">{userInfo.name} 님을 위한 풀이</span>
+                  </div>
                   <p className="text-center bg-[#3a0606]/5 p-5 rounded-lg font-semibold border border-[#3a0606]/10">
-                     마음은 급하나 오늘은 작은 실천 한 가지에 집중하세요.
+                     {data.fortune}
                   </p>
                   <section>
                     <h3 className="text-xl font-bold text-[#b30000] mb-3 flex items-center gap-2">
-                      <span className="w-2 h-2 bg-[#b30000] rotate-45 inline-block"></span> 핵심 기운
+                      <span className="w-2 h-2 bg-[#b30000] rotate-45 inline-block"></span> 핵심 기운: {data.element.name}
                     </h3>
-                    <p className="leading-relaxed text-[#4a2424]">나무(木)의 기운이 왕성하여 활동력이 솟구치는 상입니다. 머릿속으로만 생각했던 구상을 밖으로 꺼내어 행동하기 가장 좋은 시점입니다.</p>
+                    <p className="leading-relaxed text-[#4a2424]">{data.element.desc}</p>
                   </section>
                   <section className="grid grid-cols-2 gap-4 mt-6">
-                     <div className="bg-white/40 p-4 border border-[#c2b280]/50 rounded text-center">
-                        <h4 className="font-bold text-[#3a0606] mb-2 tracking-widest text-sm">길(吉)</h4>
-                        <p className="text-sm text-[#4a2424]">새로운 인맥 형성<br/>따뜻한 차 마시기</p>
+                     <div className="bg-white/40 p-4 border border-[#c2b280]/50 rounded text-center shrink">
+                        <h4 className="font-bold text-[#3a0606] mb-4 tracking-widest text-sm">길(吉)</h4>
+                        <p className="text-sm text-[#4a2424] whitespace-pre-line leading-relaxed">{data.goodBad.good}</p>
                      </div>
-                     <div className="bg-black/5 p-4 border border-[#c2b280]/50 rounded text-center">
-                        <h4 className="font-bold text-gray-700 mb-2 tracking-widest text-sm">흉(凶)</h4>
-                        <p className="text-sm text-gray-600">감정적인 언쟁<br/>충동적인 소비</p>
+                     <div className="bg-black/5 p-4 border border-[#c2b280]/50 rounded text-center shrink">
+                        <h4 className="font-bold text-gray-700 mb-4 tracking-widest text-sm">흉(凶)</h4>
+                        <p className="text-sm text-gray-600 whitespace-pre-line leading-relaxed">{data.goodBad.bad}</p>
                      </div>
                   </section>
                 </div>
@@ -249,28 +258,30 @@ function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) 
                   <h2 className="text-3xl font-bold tracking-widest border-b-2 border-[#3a0606]/30 pb-4 inline-block">주간 운세</h2>
                 </div>
                 <p className="text-xl text-center italic mb-10 font-bold opacity-90 leading-relaxed">
-                  "군자는 화합하되 부화뇌동하지 않는다"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">(君子和而不同 - 공자)</span>
+                  "{data.quote.text}"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">({data.quote.author})</span>
                 </p>
                 <div className="space-y-6 text-[1.05rem] leading-7">
+                  <div className="flex justify-center border-b border-[#3a0606]/10 pb-4">
+                    <span className="bg-[#3a0606] text-[var(--gold-light)] px-4 py-1 rounded-full text-sm tracking-widest">{userInfo.name} 님을 위한 주간 풀이</span>
+                  </div>
                   <p className="text-center bg-[#3a0606]/5 p-5 rounded-lg font-semibold border border-[#3a0606]/10 mb-6">
-                     이번 주는 타인과의 교류가 잦아 구설이 우려되니, 듣되 줏대를 잃지 마시오. 행운의 요일은 <strong>목요일</strong>입니다.
+                     {data.summary} 행운의 요일은 <strong>{data.luckyDay}</strong>입니다.
                   </p>
-                  
                      <div className="p-4 border-l-4 border-yellow-600 bg-white/30 rounded-r-lg">
                         <h4 className="font-bold text-[#3a0606] mb-2">💰 재물운</h4>
-                        <p className="text-[#4a2424]">생각지도 못했던 작고 소소한 이익이 생겨나는 시기입니다. 다만 남의 말에 속아 충동적인 투자를 하는 것은 흉하니, 귀가 얇아지는 것을 특히 조심해야 합니다. 안정과 수성에 집중하면 일주일 내내 통장의 흐름이 원만하게 유지될 것입니다.</p>
+                        <p className="text-[#4a2424]">{data.wealth}</p>
                      </div>
                      <div className="p-4 border-l-4 border-blue-600 bg-white/30 rounded-r-lg">
                         <h4 className="font-bold text-[#3a0606] mb-2">🤝 대인관계</h4>
-                        <p className="text-[#4a2424]">그동안 연락이 끊겼던 오랜 벗이나 동료에게서 반가운 소식이 들려올 수 있습니다. 모임 자리에 나갈 일이 잦으나, 쓸데없는 언쟁에 휘말리지 않도록 한발 물러서서 듣는 자세가 당신의 품격을 지켜주고 귀인을 불러들일 것입니다.</p>
+                        <p className="text-[#4a2424]">{data.relation}</p>
                      </div>
                      <div className="p-4 border-l-4 border-green-600 bg-white/30 rounded-r-lg">
                         <h4 className="font-bold text-[#3a0606] mb-2">💼 커리어</h4>
-                        <p className="text-[#4a2424]">직장 내에서 중요한 업무를 맡거나 팀 내의 핵심 역할을 요구받는 주간압니다. 다소 부담스럽겠지만, 지금까지 쌓은 실력을 발휘하면 윗사람의 눈도장을 확실히 찍을 수 있습니다. 중요한 결정이나 결재는 가급적 행운의 요일인 목요일로 미루는 것이 좋습니다.</p>
+                        <p className="text-[#4a2424]">{data.career}</p>
                      </div>
                      <div className="p-4 border-l-4 border-pink-600 bg-white/30 rounded-r-lg">
                         <h4 className="font-bold text-[#3a0606] mb-2">💕 연애운</h4>
-                        <p className="text-[#4a2424]">싱글이라면 우연히 참석한 모임에서 취향이 잘 맞는 사람과 대화를 틀 기회가 열립니다. 커플의 경우 사소한 자존심 싸움이 크게 번질 수 있는 징조가 보입니다. 부드러운 말솜씨를 구사하고 먼저 양보하는 미덕이 애정 전선을 더욱 견고히 다질 것입니다.</p>
+                        <p className="text-[#4a2424]">{data.love}</p>
                      </div>
                 </div>
               </>
@@ -282,21 +293,24 @@ function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) 
                   <h2 className="text-3xl font-bold tracking-widest border-b-2 border-[#3a0606]/30 pb-4 inline-block">월간 운세</h2>
                 </div>
                 <p className="text-xl text-center italic mb-10 font-bold opacity-90 leading-relaxed">
-                  "사물이 극에 달하면 반드시 뒤집힌다"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">(物極必反 - 주역)</span>
+                  "{data.quote.text}"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">({data.quote.author})</span>
                 </p>
                 <div className="space-y-6 text-lg leading-loose text-[#4a2424]">
-                  <p className="indent-4">이번 달 당신의 인생 극장에 띄워진 파동은 <strong>'비워냄과 수확의 혼조'</strong>입니다. 당신만의 고유한 일간(日干) 기질과 이달의 우주적 흐름이 강렬하게 만나면서, 오랫동안 준비해온 일들이 비로소 세상의 빛을 보거나 열매를 맺게 됩니다. 성과가 나타날수록 주변의 시기와 질투가 동시에 따르니, 새로운 판을 벌리고 무리하게 확장하기보다는 그동안의 성과를 세밀하게 다듬고 불필요한 것들을 과감히 비워내는 지혜가 절대적으로 필요합니다.</p>
+                  <div className="flex justify-center border-b border-[#3a0606]/10 pb-4">
+                    <span className="bg-[#3a0606] text-[var(--gold-light)] px-4 py-1 rounded-full text-sm tracking-widest">{userInfo.name} 님을 위한 월간 심층 지침</span>
+                  </div>
                   
-                  <p className="indent-4">재성과 관성의 기운이 함께 요동치므로 수입과 지출의 폭발적인 변화폭이 엿보입니다. 직장이나 커리어 면에서는 그 누구도 간섭할 수 없는 당신만의 전문성을 발휘할 환상적인 기회들이 찾아올 것입니다.</p>
+                  <p className="indent-4">{data.summary}</p>
+                  <p className="indent-4">{data.detail1}</p>
                   
-                  <p className="indent-4">건강 면에서는 환절기 질환이나 불규칙한 식습관으로 인한 면역력 저하가 우려됩니다. 목(木)과 화(火)의 기운을 다스리기 위해 매일 가벼운 산책을 하고, 수분 섭취를 늘리는 것이 큰 액운을 피하는 작지만 확실한 개운법입니다.</p>
+                  <p className="indent-4">선천적 기질인 {data.element.name}의 영향력이 이번 달 크게 작용하니, {data.element.desc}</p>
 
                   <div className="mt-8 p-6 bg-[#3a0606]/10 rounded-xl border-dashed border-2 border-[#8B5A2B]">
                      <h4 className="font-bold text-center text-[#b30000] mb-4 tracking-widest">이달의 행운 처방전</h4>
                      <ul className="space-y-2 text-base font-semibold">
-                       <li>✨ <strong>가장 강력한 길일(추천일):</strong> 이달의 8일, 17일, 26일</li>
-                       <li>🧭 <strong>행운의 방향:</strong> 서남쪽 (귀인이 다가오는 방위)</li>
-                       <li>🎨 <strong>행운의 컬러:</strong> 다크 그린, 네이비</li>
+                       <li>✨ <strong>가장 강력한 길일(추천일):</strong> {data.luckyDays}</li>
+                       <li>🧭 <strong>행운의 방향:</strong> {data.direction} (귀인이 다가오는 방위)</li>
+                       <li>🎨 <strong>행운의 컬러:</strong> {data.luckyColor}</li>
                      </ul>
                   </div>
                 </div>
