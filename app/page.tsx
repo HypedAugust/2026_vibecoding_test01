@@ -264,9 +264,18 @@ function ScrollResult({ type, userInfo, onClose }: { type: string, userInfo: Use
                   <div className="flex justify-center border-b border-[#3a0606]/10 pb-4">
                     <span className="bg-[#3a0606] text-[var(--gold-light)] px-4 py-1 rounded-full text-sm tracking-widest">{userInfo.name} 님을 위한 주간 풀이</span>
                   </div>
-                  <p className="text-center bg-[#3a0606]/5 p-5 rounded-lg font-semibold border border-[#3a0606]/10 mb-6">
-                     {data.summary} 행운의 요일은 <strong>{data.luckyDay}</strong>입니다.
-                  </p>
+                  <div className="bg-[#3a0606]/5 p-5 rounded-lg border border-[#3a0606]/10 mb-6">
+                    <h3 className="font-bold text-[#b30000] mb-3 flex items-center gap-2">
+                       <span className="w-2 h-2 bg-[#b30000] rotate-45 inline-block"></span> 이번 주 발현되는 사주 기운
+                    </h3>
+                    <ul className="text-sm text-[#4a2424] space-y-3 mb-5 bg-white/40 p-4 rounded border border-[#c2b280]/40">
+                       <li><strong className="text-[#3a0606]">십성(十星): {data.tenGod.name}</strong><br/>- {data.tenGod.desc}</li>
+                       <li><strong className="text-[#3a0606]">신살(神殺): {data.shinsal.name}</strong><br/>- {data.shinsal.desc}</li>
+                    </ul>
+                    <p className="text-center font-semibold border-t border-[#3a0606]/10 pt-4">
+                       {data.summary}<br/><span className="text-[#b30000] mt-1 inline-block">이번 주 행운의 요일은 <strong>{data.luckyDay}</strong>입니다.</span>
+                    </p>
+                  </div>
                      <div className="p-4 border-l-4 border-yellow-600 bg-white/30 rounded-r-lg">
                         <h4 className="font-bold text-[#3a0606] mb-2">💰 재물운</h4>
                         <p className="text-[#4a2424]">{data.wealth}</p>
@@ -300,17 +309,39 @@ function ScrollResult({ type, userInfo, onClose }: { type: string, userInfo: Use
                     <span className="bg-[#3a0606] text-[var(--gold-light)] px-4 py-1 rounded-full text-sm tracking-widest">{userInfo.name} 님을 위한 월간 심층 지침</span>
                   </div>
                   
+                  <div className="my-8 p-6 border-2 border-[var(--gold-primary)]/40 rounded-xl bg-gradient-to-br from-white/70 to-[#f3e5ab]/40 shadow-sm relative">
+                    <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-[var(--red-deep)] text-[var(--gold-light)] text-sm px-5 py-1 rounded-full border border-[var(--gold-primary)]/50 tracking-widest shadow-md">
+                      이달의 명리학 작용
+                    </div>
+                    <div className="space-y-5 mt-3">
+                       <div>
+                         <h4 className="font-bold text-[#b30000] flex items-center gap-2"><span className="text-xl">⭐</span> 십성(十星): {data.tenGod.name}</h4>
+                         <p className="text-[1.05rem] mt-1 pl-7 opacity-90">{data.tenGod.desc}</p>
+                       </div>
+                       <div>
+                         <h4 className="font-bold text-[#b30000] flex items-center gap-2"><span className="text-xl">🌙</span> 신살(神殺): {data.shinsal.name}</h4>
+                         <p className="text-[1.05rem] mt-1 pl-7 opacity-90">{data.shinsal.desc}</p>
+                       </div>
+                    </div>
+                  </div>
+
                   <p className="indent-4">{data.summary}</p>
                   <p className="indent-4">{data.detail1}</p>
                   
-                  <p className="indent-4">선천적 기질인 {data.element.name}의 영향력이 이번 달 크게 작용하니, {data.element.desc}</p>
+                  <p className="indent-4 bg-[#3a0606]/5 border-l-4 border-[var(--gold-primary)] p-4 rounded-r mt-4 text-[1.05rem]">
+                    선천적 기질인 <strong className="text-[#b30000]">{data.element.name}</strong>의 영향력이 이번 달 크게 작용하니, {data.element.desc}
+                  </p>
 
-                  <div className="mt-8 p-6 bg-[#3a0606]/10 rounded-xl border-dashed border-2 border-[#8B5A2B]">
-                     <h4 className="font-bold text-center text-[#b30000] mb-4 tracking-widest">이달의 행운 처방전</h4>
-                     <ul className="space-y-2 text-base font-semibold">
-                       <li>✨ <strong>가장 강력한 길일(추천일):</strong> {data.luckyDays}</li>
-                       <li>🧭 <strong>행운의 방향:</strong> {data.direction} (귀인이 다가오는 방위)</li>
-                       <li>🎨 <strong>행운의 컬러:</strong> {data.luckyColor}</li>
+                  <div className="mt-10 p-6 bg-[#3a0606]/10 rounded-xl border-dashed border-2 border-[#8B5A2B]">
+                     <h4 className="font-bold text-center text-[#b30000] mb-5 tracking-widest text-xl">이달의 행운 처방전 & 개운법</h4>
+                     <ul className="space-y-3 text-[1.05rem]">
+                       <li className="font-semibold text-center text-[var(--red-deep)] bg-white/60 p-4 rounded-lg border border-[var(--gold-primary)]/40 mb-6 shadow-sm">
+                         🌱 <span className="underline decoration-[var(--gold-primary)] decoration-2 underline-offset-4">액운을 쫓는 특별 개운법</span><br/>
+                         <span className="font-normal text-[#4a2424] mt-3 inline-block leading-relaxed">{data.remedy}</span>
+                       </li>
+                       <li className="flex items-center gap-3">✨ <strong className="w-24">최강 길일:</strong> {data.luckyDays}</li>
+                       <li className="flex items-center gap-3">🧭 <strong className="w-24">귀인 방향:</strong> {data.direction}</li>
+                       <li className="flex items-center gap-3">🎨 <strong className="w-24">행운 컬러:</strong> {data.luckyColor}</li>
                      </ul>
                   </div>
                 </div>
