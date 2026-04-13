@@ -1,19 +1,26 @@
 export interface BlogPost {
   slug: string;
   title: string;
+  title_en: string;
   date: string;
   excerpt: string;
+  excerpt_en: string;
   content: string;
+  content_en: string;
   category: string;
+  category_en: string;
 }
 
 export const blogPosts: BlogPost[] = [
   {
     slug: "basics-of-chinese-horoscope",
     title: "초보자를 위한 사주명리학 입문: 내 팔자를 읽는 법",
+    title_en: "Beginner's Guide to BaZi: How to Read Your Four Pillars",
     date: "2026-04-13",
     category: "입문 가이드",
+    category_en: "Beginner Guide",
     excerpt: "사주명리학의 기본 개념부터 내 사주를 스스로 분석하는 첫걸음까지, 초보자를 위한 핵심 내용을 정리했습니다.",
+    excerpt_en: "From the fundamental concepts of BaZi to the first steps of analyzing your own chart — essential knowledge for beginners.",
     content: `
 사주명리(四柱命理)는 사람이 태어난 연, 월, 일, 시의 네 기둥(四柱)과 여덟 글자(八字)를 분석하여 그 사람의 천성적인 기운과 운의 흐름을 파악하는 학문입니다. 많은 이들이 이를 단순한 점술로 여기지만, 실제로는 수천 년의 임상 데이터가 축적된 동양 철학의 결정체라고 할 수 있습니다.
 
@@ -38,14 +45,42 @@ export const blogPosts: BlogPost[] = [
 사주가 결정론적인 운명을 말하는 것은 아닙니다. 명리학의 진정한 목적은 자신의 강점을 극대화하고 약점을 보완하는 데 있습니다. '지피지기면 백전불태'라는 말처럼, 나의 설계도를 미리 알고 있다면 다가올 시련을 대비하고 기회를 잡는 지혜를 얻을 수 있습니다.
 
 무언가 일이 풀리지 않을 때는 자신의 사주에서 어떤 기운이 막혀있는지 확인해 보세요. 때로는 멈춤이 필요한 시기가 있고, 때로는 과감한 전진이 필요한 시기가 있습니다. 자연의 순리에 따라 자신의 때를 기다릴 줄 아는 것이 사주명리가 우리에게 주는 가장 큰 교훈입니다.
+    `.trim(),
+    content_en: `
+The Four Pillars of Destiny (四柱命理, BaZi) is the study of analyzing a person's innate energy and fortune flow by examining the four pillars — year, month, day, and hour of birth — represented by eight characters. While many regard it as simple fortune-telling, it is in fact the crystallization of Eastern philosophy backed by thousands of years of accumulated empirical data.
+
+### 1. The Basic Structure: Four Pillars and Eight Characters
+The Four Pillars consist of the Year Pillar (年柱), Month Pillar (月柱), Day Pillar (日柱), and Hour Pillar (時柱). Each pillar is divided into a Heavenly Stem (天干, heaven's energy) and an Earthly Branch (地支, earth's energy), totaling eight characters.
+- Year Pillar (年柱): Represents your ancestral palace, life's roots, and early-life fortune.
+- Month Pillar (月柱): Represents parents and siblings, and is the key determinant of social achievement and young-adult fortune.
+- Day Pillar (日柱): Symbolizes the self and one's spouse — considered the most important pillar in BaZi analysis.
+- Hour Pillar (時柱): Represents the children's palace, late-life fortune, and deep inner desires.
+
+### 2. The Interaction of the Five Elements
+The core of BaZi analysis lies in observing how the five energies — Wood (木), Fire (火), Earth (土), Metal (金), and Water (水) — are blended within your chart.
+- Wood (木): Growth, new beginnings, benevolence
+- Fire (火): Passion, expansion, propriety
+- Earth (土): Mediation, trust, tolerance
+- Metal (金): Decisiveness, discipline, justice
+- Water (水): Wisdom, adaptability, accumulation
+
+These Five Elements engage in dynamic relationships of mutual generation (相生, where one nurtures another) and mutual restraint (相剋, where one controls another). For example, Wood feeds Fire (Wood generates Fire), while Water extinguishes Fire (Water restrains Fire). When certain energies are excessive or deficient in your chart, life imbalances occur — and the process of regulating them is the very flow of fortune.
+
+### 3. A Wise Approach to Fortune
+BaZi does not dictate a deterministic fate. The true purpose of this study is to maximize your strengths and compensate for your weaknesses. As the ancient saying goes, "Know yourself and know your opponent, and you will never be in peril." If you understand your own blueprint in advance, you gain the wisdom to prepare for coming challenges and seize opportunities.
+
+When things are not going your way, check which energies in your chart may be blocked. Sometimes a period of stillness is needed; at other times, bold advancement is called for. Learning to wait for your moment in harmony with nature's flow is the greatest lesson the Four Pillars of Destiny offers us.
     `.trim()
   },
   {
     slug: "lifestyle-tips-for-good-luck",
     title: "복을 부르는 습관: 일상에서 실천하는 사주 개운법",
+    title_en: "Habits That Attract Good Fortune: Everyday BaZi Remedies",
     date: "2026-04-12",
     category: "운세 팁",
+    category_en: "Fortune Tips",
     excerpt: "운이 따르지 않는다고 느낄 때 실천할 수 있는 효과적인 개운법을 소개합니다. 작은 습관의 변화로 인생의 흐름을 바꿔보세요.",
+    excerpt_en: "Effective fortune-enhancement remedies you can practice when luck feels absent. Transform your life's flow through small habit changes.",
     content: `
 운이 좋지 않다고 느껴질 때, 우리는 보통 환경을 탓하거나 좌절하곤 합니다. 하지만 명리학에서는 운(運)이라는 글자에 '움직이다'라는 뜻이 담겨 있음을 강조합니다. 즉, 운은 고정된 것이 아니라 내가 어떻게 움직이고 행동하느냐에 따라 변화할 수 있다는 것입니다. 이를 '개운법(開運法)'이라 부릅니다.
 
@@ -55,7 +90,7 @@ export const blogPosts: BlogPost[] = [
 - 버리는 연습: 오래된 물건이나 쓰지 않는 옷들은 정체된 기운을 상징합니다. 과감히 비워내야 새로운 기운(복)이 들어올 공간이 생깁니다.
 
 ### 2. 말의 힘(言靈)과 긍정적 태도
-내가 내뱉는 말은 내 귀가 가장 먼저 듣고 내 잠재의식에 각인됩니다. 
+내가 내뱉는 말은 내 귀가 가장 먼저 듣고 내 잠재의식에 각인됩니다.
 - 부정적인 말버릇 고치기: "안 돼", "힘들어", "짜증 나"와 같은 말들은 실제로 그런 기운을 끌어당깁니다. 비록 상황이 어렵더라도 "잘 될 거야", "이 또한 지나가리라"와 같은 확신에 찬 말을 내뱉는 것이 중요합니다.
 - 칭찬과 감사: 타인에게 전하는 따뜻한 말 한마디가 결국 나에게 더 큰 복으로 돌아오는 것이 명리의 인과응보 원리입니다.
 
@@ -65,17 +100,43 @@ export const blogPosts: BlogPost[] = [
 - 균형 잡힌 식단: 음식 역시 오행의 성질을 가지고 있습니다. 매운맛(금), 단맛(토), 신맛(목), 쓴맛(화), 짠맛(수) 중 내 사주에 필요한 기운의 맛을 적절히 섭취하면 건강과 운을 동시에 챙길 수 있습니다.
 
 ### 4. 꾸준한 자기 성찰
-가장 강력한 개운법은 결국 자기 자신을 깊이 들여다보는 것입니다. 내가 언제 실수를 반복하는지, 어떤 상황에서 감정 조절이 안 되는지를 파악하고 이를 고쳐나가려는 노력이 팔자를 바꾸는 진정한 힘이 됩니다. 
+가장 강력한 개운법은 결국 자기 자신을 깊이 들여다보는 것입니다. 내가 언제 실수를 반복하는지, 어떤 상황에서 감정 조절이 안 되는지를 파악하고 이를 고쳐나가려는 노력이 팔자를 바꾸는 진정한 힘이 됩니다.
 
 운을 바꾸는 것은 거창한 의식이 아닙니다. 오늘 아침 일어나 이불을 정리하는 것, 만나는 사람에게 먼저 웃으며 인사하는 것, 이런 사소한 행동들이 쌓여 당신의 평생 운명을 결정짓는 거대한 흐름을 만듭니다.
+    `.trim(),
+    content_en: `
+When luck feels absent, we often blame our circumstances or fall into frustration. However, in BaZi philosophy, the Chinese character for fortune (運) literally contains the meaning "to move." Fortune is not fixed — it can change depending on how we move and act. This practice is called 'Gae-un (開運),' or "Opening One's Fortune."
+
+### 1. Organization and the Energy of Space
+The flow of fortune is like the flow of air. Where there are blockages, energy stagnates and becomes murky.
+- Tidy your entrance: The front door is the channel through which blessings enter your home. Keep shoes neatly arranged and maintain a bright, welcoming atmosphere rather than dim lighting.
+- Practice letting go: Old items and unused clothes symbolize stagnant energy. You must boldly clear space for new energy (blessings) to enter.
+
+### 2. The Power of Words (言靈) and Positive Attitude
+Your own ears are the first to hear the words you speak, and they become imprinted on your subconscious.
+- Break negative speech habits: Phrases like "I can't," "This is too hard," and "I'm so frustrated" actually attract that very energy. Even in difficult situations, it is vital to speak words of conviction such as "It will work out" or "This too shall pass."
+- Praise and gratitude: A single warm word given to others ultimately returns to you as an even greater blessing — this is the BaZi principle of karmic return.
+
+### 3. Using Colors and Foods That Suit You
+You can supplement deficient energies in your chart through external stimulation.
+- Five Element colors: If you lack Metal (金) energy, keep white clothing or metallic accessories close. If you need Wood (木) energy, surround yourself with green clothing or houseplants.
+- Balanced diet: Foods also carry Five Element properties. Spicy (Metal), sweet (Earth), sour (Wood), bitter (Fire), and salty (Water) — by appropriately consuming the flavors your chart needs, you can nurture both health and fortune simultaneously.
+
+### 4. Consistent Self-Reflection
+The most powerful fortune remedy is ultimately looking deeply within yourself. Identifying when you repeat mistakes, understanding which situations trigger emotional dysregulation, and making the effort to correct these patterns — that is the true power that changes one's destiny.
+
+Changing your fortune does not require grand rituals. Making your bed when you wake up this morning, greeting someone with a smile first — these small actions accumulate to create the great current that determines your lifelong destiny.
     `.trim()
   },
   {
     slug: "what-is-sibseong",
     title: "사주의 사회적 관계도: 십성(十星)이란 무엇인가?",
+    title_en: "The Social Map of Your Chart: What Are the Ten Gods (十星)?",
     date: "2026-04-14",
     category: "명리 심화",
+    category_en: "Advanced BaZi",
     excerpt: "사주명리학에서 인간관계와 사회적 성취를 분석하는 핵심 도구인 '십성'의 개념을 쉽게 풀이해 드립니다.",
+    excerpt_en: "An easy explanation of the 'Ten Gods' — the key tool for analyzing relationships and social achievement in BaZi.",
     content: `
 사주팔자의 여덟 글자를 분석할 때 오행만큼이나 중요한 개념이 바로 십성(十星)입니다. 십성은 내가 태어난 날의 기운인 '일간(日干)'을 기준으로, 나머지 글자들이 나와 어떤 관계를 맺고 있는지를 열 가지 유형으로 분류한 것입니다. 이를 통해 우리는 개인의 심리, 사회적 성취, 그리고 타인과의 관계를 심층적으로 파악할 수 있습니다.
 
@@ -92,16 +153,36 @@ export const blogPosts: BlogPost[] = [
 
 ### 3. 균형과 조화의 학문
 중요한 것은 특정 십성이 많다고 해서 무조건 좋거나 나쁜 것이 아니라는 점입니다. 사주에 재물이 많아도 이를 감당할 '비겁(나의 힘)'이 부족하면 오히려 재물로 인해 고통받을 수 있고, 관성이 강해도 나를 보호해줄 '인성'이 없으면 과도한 책임감에 짓눌릴 수 있습니다. 십성 공부의 핵심은 내 사주에 배치된 이 열 가지 별들이 서로 어떻게 돕고 견제하며 나의 인생 드라마를 써내려가는지 이해하는 데 있습니다.
+    `.trim(),
+    content_en: `
+When analyzing the eight characters of a BaZi chart, a concept equally important as the Five Elements is the Ten Gods (十星, Shi Shen). The Ten Gods classify how the remaining characters in your chart relate to the Day Master (日干, the Heavenly Stem of your Day Pillar) into ten distinct types. Through this system, we can deeply understand an individual's psychology, social achievement, and interpersonal relationships.
+
+### 1. The Five Major Branches of the Ten Gods
+The Ten Gods are broadly divided into five categories — Companion, Output, Wealth, Authority, and Resource — each further subdivided by Yin and Yang polarity into ten total types.
+- Companion (比劫): The same element as yourself. Symbolizes independence, stubbornness, competitors, and peers. (Companion/Rob Wealth)
+- Output (食傷): The element you generate. Represents expressiveness, initiative, creativity, and livelihood. (Eating God/Hurting Officer)
+- Wealth (財星): The element you control. Indicates results, wealth, goal-orientation, and practical sense. (Indirect Wealth/Direct Wealth)
+- Authority (官星): The element that controls you. Symbolizes discipline, honor, organizational life, and self-control. (Seven Killings/Direct Officer)
+- Resource (印星): The element that nurtures you. Represents receptivity, learning ability, scholarly talent, and mental stability. (Indirect Seal/Direct Seal)
+
+### 2. Your Social Profile Through the Ten Gods
+The direction of your life changes significantly depending on which Ten Gods are prominent in your chart. For example, those with strong Output stars tend to be artists or craftspeople who externalize their talents, while those with prominent Authority stars often thrive as public servants or dedicated employees within organizations. Those with strong Wealth stars tend to exhibit an entrepreneurial temperament focused on practical gains.
+
+### 3. A Study of Balance and Harmony
+The crucial point is that having many of a certain star is not automatically good or bad. Even if your chart is rich in Wealth, without sufficient Companion energy (your personal strength) to handle it, wealth can become a source of suffering. Even with strong Authority, without Resource (protection), you may be crushed by excessive responsibility. The essence of studying the Ten Gods is understanding how these ten stars arranged in your chart help and check one another to write the drama of your life.
     `.trim()
   },
   {
     slug: "what-is-shinsal",
     title: "운명의 변수, 신살(神殺) 백과사전: 모든 살의 의미풀이",
+    title_en: "Variables of Destiny: Encyclopedia of Spiritual Markers (神殺)",
     date: "2026-04-14",
     category: "명리 심화",
+    category_en: "Advanced BaZi",
     excerpt: "사주명리학에서 운명을 더욱 세밀하게 분석하는 도구인 신살. 역마살부터 원진살까지, 주요 신살의 모든 종류를 상세히 나열하고 설명해 드립니다.",
+    excerpt_en: "Spiritual Markers — the tools for finer destiny analysis in BaZi. From Travelling Horse to Grudge Star, a comprehensive guide to all major types.",
     content: `
-사주를 보다 보면 수많은 '살(殺)'의 이름에 겁을 먹거나 당황하는 경우가 많습니다. 하지만 신살(神殺)은 단순히 좋고 나쁨을 뜻하는 것이 아니라, 사주 원국에 숨겨진 특정한 에너지의 발현 양상을 뜻합니다. 길한 작용을 하는 '신(神)'과 흉한 작용을 할 수 있는 '살(殺)'로 나뉘지만, 현대에는 상황에 따라 그 해석이 매우 다양해졌습니다. 
+사주를 보다 보면 수많은 '살(殺)'의 이름에 겁을 먹거나 당황하는 경우가 많습니다. 하지만 신살(神殺)은 단순히 좋고 나쁨을 뜻하는 것이 아니라, 사주 원국에 숨겨진 특정한 에너지의 발현 양상을 뜻합니다. 길한 작용을 하는 '신(神)'과 흉한 작용을 할 수 있는 '살(殺)'로 나뉘지만, 현대에는 상황에 따라 그 해석이 매우 다양해졌습니다.
 
 ### 1. 십이신살(十二神殺): 12개의 핵심 에너지 사이클
 인간의 삶처럼 운의 흐름도 12단계의 사이클을 가집니다. 이를 십이신살이라 부릅니다.
@@ -131,17 +212,55 @@ export const blogPosts: BlogPost[] = [
 - 월덕·천덕귀인: 조상의 덕이 있음을 뜻하며, 인복이 많고 삶의 굴곡이 적도록 도와주는 온화한 기운입니다.
 
 ### 4. 신살을 대하는 현명한 자세
-"살이 끼었으니 망했다"는 식의 공포 마케팅은 명리의 본질이 아닙니다. 살(殺)은 곧 내가 가진 날카로운 도구입니다. 그 칼이 예리하다는 것을 알면 요리사가 되어 훌륭한 요리를 할 수 있고, 의사가 되어 사람을 살릴 수도 있습니다. 
+"살이 끼었으니 망했다"는 식의 공포 마케팅은 명리의 본질이 아닙니다. 살(殺)은 곧 내가 가진 날카로운 도구입니다. 그 칼이 예리하다는 것을 알면 요리사가 되어 훌륭한 요리를 할 수 있고, 의사가 되어 사람을 살릴 수도 있습니다.
 
 자신의 사주에 있는 살들을 꼼꼼히 분석해보고, 내가 어떤 부분에서 조심해야 하는지, 또 어떤 특별한 잠재력을 가지고 있는지를 파악하는 것이 진정한 개운(開運)의 시작입니다.
+    `.trim(),
+    content_en: `
+When studying BaZi charts, people often feel alarmed or confused by the numerous names of 'Sha (殺)' markers. However, Spiritual Markers (神殺, Shen Sha) do not simply mean good or bad — they represent specific energy manifestation patterns hidden within the natal chart. While divided into auspicious 'Shen (神)' and potentially inauspicious 'Sha (殺),' modern interpretations have become highly varied depending on context.
+
+### 1. The Twelve Spiritual Markers: A 12-Stage Energy Cycle
+Like human life, the flow of fortune operates in a 12-stage cycle. These are called the Twelve Spiritual Markers.
+
+- Robbery Sha (劫殺): External pressure or financial loss may occur, but overcoming it brings powerful authority.
+- Disaster Sha (災殺): Also called the Cunning Star, it symbolizes extraordinary intellect and resourcefulness, but beware of unexpected accidents.
+- Heaven Sha (天殺): Represents forces beyond your control — fortune favors those who turn toward spiritual or religious values.
+- Earth Sha (地殺): Signifies shifts in environment — frequent relocations, job changes, or moves.
+- Year Sha (年殺): Equivalent to the Peach Blossom — symbolizes charm and popularity that draw attention from others.
+- Month Sha (月殺): Like walking under moonlight — fortune of receiving unseen help (inheritance, etc.) from hidden sources.
+- Disaster Star (亡身殺): Literally, having one's secrets exposed — but in modern times, it also functions as a fame star for actively promoting oneself.
+- General Star (將星殺): The commanding presence and centering force of a general. Symbolizes social success and authority.
+- Saddle Star (攀鞍殺): Like mounting a horse's saddle — life enters a peaceful, stable orbit.
+- Travelling Horse (驛馬殺): The power of constant movement and expanding one's sphere of activity. Favorable for international ventures or distribution businesses.
+- Six Harm (六害殺): Beware of friction with those around you. It symbolizes quick action but requires abandoning impatience.
+- Canopy Star (華蓋殺): Meaning "covering the brilliance" — indicates deep artistic talent and religious sensibility.
+
+### 2. Major Inauspicious Markers (Energies Requiring Caution)
+- Grudge Star (怨嗔殺): An energy of mutual resentment without reason. It suggests the need for communication skills in interpersonal and marital relationships.
+- Void (空亡): Literally "empty and ruined," but it actually manifests as yearning for unfulfilled desires — artistic sublimation is possible.
+- Ghost Gate (鬼門關殺): Extremely sensitive perception and outstanding inspiration. If hypersensitive nerves are well-managed, genius-level creativity emerges.
+- Net Star (羅網殺): Like being caught in a net, but those who use it to save others through life-serving professions (medicine, education) achieve great success.
+
+### 3. Major Auspicious Stars (Energies That Help You)
+- Heavenly Noble (天乙貴人): Regarded as the supreme star among all markers — a powerful guardian angel energy that always sends a hidden benefactor in moments of crisis.
+- Literary Star (文昌貴人): Symbolizes academic talent and brilliance. The power to make a name through writing or study.
+- Moon Virtue / Heaven Virtue: Indicates ancestral blessings — a gentle energy that provides abundant human connections and smooths life's rough edges.
+
+### 4. A Wise Approach to Spiritual Markers
+Fear-based marketing like "You have a bad Sha, so you're doomed" is not the essence of BaZi. A Sha (殺) is simply a sharp tool in your possession. Once you know your blade is keen, you can become a chef who creates magnificent cuisine or a surgeon who saves lives.
+
+Carefully analyzing the markers in your chart to understand where caution is needed and what special potential you possess — that is the true beginning of opening your fortune (開運).
     `.trim()
   },
   {
     slug: "what-is-chung",
     title: "사주에서 충(沖)이란 무엇인가? 부딪힘 속에 숨겨진 변화의 신호",
+    title_en: "What Is Chong (沖) in BaZi? The Signal of Change Hidden Within Clash",
     date: "2026-04-13",
     category: "명리 심화",
+    category_en: "Advanced BaZi",
     excerpt: "사주명리학에서 가장 강렬한 지지 작용인 '충'의 원리와 종류, 그리고 충을 현명하게 활용하는 법을 알아봅니다.",
+    excerpt_en: "Discover the principles, types, and wise utilization of 'Chong' — the most intense Earthly Branch interaction in BaZi.",
     content: `
 충(沖)은 사주명리학에서 지지(地支) 간에 정면으로 부딪히는 관계를 뜻합니다. 12지지를 원형으로 배치했을 때 정반대(180도)에 위치한 두 글자가 만나면 충이 발생합니다. 충은 파괴와 분리만을 뜻하는 것이 아니라, 정체된 에너지를 깨뜨려 새로운 변화를 일으키는 강력한 촉매제이기도 합니다.
 
@@ -166,14 +285,42 @@ export const blogPosts: BlogPost[] = [
 - 관계 점검의 기회: 충은 관계의 본질을 드러내는 거울과 같습니다. 이 시기에 불편했던 관계를 정리하거나 소통 방식을 개선하면 더 건강한 인간관계를 구축할 수 있습니다.
 
 충(沖)은 명리학에서 가장 역동적인 작용입니다. 세상의 모든 변화는 안정과 불안정의 반복 속에서 탄생합니다. 내 사주에 충이 있다면 그것은 당신이 평범하지 않은 삶의 파도를 타며 성장해 나갈 운명이라는 뜻이기도 합니다. 파도를 두려워하지 말고, 서핑하는 법을 배우세요.
+    `.trim(),
+    content_en: `
+Chong (沖, Clash) in BaZi refers to a direct collision between Earthly Branches. When the twelve Earthly Branches are arranged in a circle, two characters positioned directly opposite each other (180 degrees apart) create a Clash. Chong does not only signify destruction and separation — it is also a powerful catalyst that shatters stagnant energy to ignite new transformation.
+
+### 1. The Fundamental Principles of Clash
+When the twelve Earthly Branches are arranged in a circle like a clock, six opposing pairs emerge. These six pairs are called the Six Clashes (六沖), each with its own unique nature of conflict.
+- Zi-Wu Clash (子午沖): Water vs. Fire. The core conflict lies between emotion and reason, inner self and outer expression.
+- Chou-Wei Clash (丑未沖): Earth vs. Earth. Since the same element collides, it manifests as a clash of stubbornness and beliefs. It opens the "grave gate," revealing what was hidden.
+- Yin-Shen Clash (寅申沖): Wood vs. Metal. Travelling Horse energies overlap, relating to movement, upheaval, and accident potential, with a dramatically expanded sphere of activity.
+- Mao-You Clash (卯酉沖): Wood vs. Metal, also called the "Peach Blossom Clash" — deeply connected to romantic issues and shifts in reputation.
+- Chen-Xu Clash (辰戌沖): Earth vs. Earth. It opens the Authority Vault and Wealth Vault, potentially bringing major changes in wealth or position.
+- Si-Hai Clash (巳亥沖): Fire vs. Water, simultaneously carrying Travelling Horse qualities. Often related to new challenges or international relocation.
+
+### 2. How Clash Affects Your Chart
+Clash can be broadly divided into Natal Clash (fixed within the birth chart) and Transit Clash (entering through Luck Cycles or annual pillars).
+- Natal Clash: When clash exists in your birth chart from the start. Life tends to be full of change, with a strong tendency toward constant movement and seeking novelty rather than staying in one place.
+- Transit Clash: When clash enters during a specific period through luck cycles. It often coincides with major life turning points — job changes, relocations, separations, and health shifts. When a year clashes with your Day Pillar, significant changes in self and spousal relationships may occur.
+
+### 3. How to Wisely Utilize Clash
+Clash is not something to fear. Like stagnant water beginning to flow, when Clash arrives, it means blocked situations are about to clear or the time has come for decisive action.
+- Embrace change: Resisting change during a Clash period may result in even greater impact. Wisdom lies in flowing flexibly with the current.
+- Redirect energy: Since Clash releases explosive energy, channeling it into constructive directions like exercise or self-development can turn it into a springboard for growth.
+- Opportunity for relationship review: Clash acts as a mirror revealing the true nature of relationships. Using this period to address uncomfortable relationships or improve communication can build healthier connections.
+
+Chong (沖) is the most dynamic force in BaZi. All change in the world is born from the alternation of stability and instability. If your chart contains Clash, it means you are destined to grow by riding life's extraordinary waves. Don't fear the waves — learn to surf.
     `.trim()
   },
   {
     slug: "importance-of-ilju",
     title: "사주 분석의 핵심 단위: 일주(日柱)란 무엇인가?",
+    title_en: "The Core Unit of BaZi Analysis: What Is the Day Pillar (日柱)?",
     date: "2026-04-14",
     category: "입문 가이드",
+    category_en: "Beginner Guide",
     excerpt: "나라는 사람의 원형(Archetype)을 상징하는 '일주'의 중요성과 그 의미를 심도 있게 알아봅니다.",
+    excerpt_en: "An in-depth look at the significance of the 'Day Pillar' — the archetype that symbolizes your true self.",
     content: `
 사주팔자의 여덟 글자 중에서 단 한 글자만 꼽으라면 단연 일간(日干)이고, 두 글자를 꼽으라면 일주(日柱)입니다. 일주는 내가 태어난 날의 기둥을 의미하며, 사주명리에서 '나'라는 존재의 본질적인 성향과 성격을 규정하는 가장 중요한 척도가 됩니다.
 
@@ -189,6 +336,22 @@ export const blogPosts: BlogPost[] = [
 - 건강과 체질: 타고난 오행의 기운에 따라 특별히 조심해야 할 신체 부위와 건강 관리법을 알려줍니다.
 
 일주는 당신의 인생이라는 지도에서 현재 당신이 서 있는 '좌표'와 같습니다. 자신의 일주를 깊이 이해하는 것은 타인이 보는 나(월주)를 벗어나 진짜 나(일주)를 만나는 과정입니다. 오늘 당신의 일주가 가진 본래의 빛깔이 무엇인지 한번 찾아보는 것은 어떨까요?
+    `.trim(),
+    content_en: `
+If you had to choose just one character from the eight characters of a BaZi chart, it would undoubtedly be the Day Master (日干); if two, the Day Pillar (日柱). The Day Pillar represents the pillar of your birth day, and in BaZi it serves as the most important measure defining the essential disposition and personality of 'you' as a being.
+
+### 1. Why Is the Day Pillar So Important?
+The Four Pillars symbolize ancestors (Year), parents and society (Month), the self (Day), and the future and children (Hour). Among these, if the Month Pillar represents the 'seasonal environment' you live in, the Day Pillar is your 'true, unfiltered self' living within that environment. The core data revealing who you are, your spousal fortune, and the life values you pursue — all are contained within the Day Pillar.
+
+### 2. The Sixty Jiazi (六十甲子) and the Day Pillar
+The Day Pillar appears in 60 different combinations of 10 Heavenly Stems and 12 Earthly Branches (the Sixty Jiazi cycle). For example, a 'Jia-Zi (甲子) Day Pillar' evokes the image of a great tree rising above cold water, while a 'Ding-Huo (丁火) Day Pillar' is often compared to a bright star in the night sky or a candle flame. Each of the 60 Day Pillars possesses its own unique image and characteristics — knowing your Day Pillar alone can reveal approximately 70-80% of your personality.
+
+### 3. What the Day Pillar Reveals
+- Innate personality: Whether you are emotional or rational, driven or meticulous.
+- Spousal fortune: The lower character of the Day Pillar (日支, Day Branch) represents the spouse position, allowing you to gauge which connections are compatible.
+- Health and constitution: Based on your innate Five Element energies, it indicates which body parts require special attention and what health management practices to follow.
+
+The Day Pillar is like the 'coordinates' marking where you currently stand on the map of your life. Understanding your Day Pillar deeply is the process of moving beyond how others see you (Month Pillar) to meet the real you (Day Pillar). Why not discover the true colors of your Day Pillar today?
     `.trim()
   }
 ];
