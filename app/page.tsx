@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import Link from "next/link";
 import confetti from "canvas-confetti";
 import { UserInfo, buildHoroscope } from "./utils/horoscopeBuilder";
 
@@ -9,6 +10,7 @@ export default function Home() {
   const [selectedHoroscope, setSelectedHoroscope] = useState<string | null>(null);
   const [showResult, setShowResult] = useState<boolean>(false);
   const [userInfo, setUserInfo] = useState<UserInfo>({ name: '', gender: '', year: '', month: '', day: '', time: '' });
+  const [activeTab, setActiveTab] = useState<'service' | 'info' | 'blog'>('service');
   const [visitorCount, setVisitorCount] = useState<number | null>(null);
   const [luckyWinner, setLuckyWinner] = useState<number | null>(null);
 
@@ -135,8 +137,64 @@ export default function Home() {
           </p>
         </header>
 
-        {/* Options */}
-        <section className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 w-full" style={{ perspective: '1000px' }}>
+        {/* Navigation Tabs */}
+        <div className="flex gap-4 sm:gap-8 mb-12 z-10 relative">
+          <button 
+            onClick={() => setActiveTab('service')}
+            className={`px-6 sm:px-10 py-3 rounded-full border border-[var(--gold-primary)]/50 tracking-widest transition-all shadow-[0_0_15px_rgba(0,0,0,0.5)] ${activeTab === 'service' ? 'bg-gradient-to-r from-[#e5ca72] to-[#d4af37] text-[#3a0606] font-extrabold shadow-[0_0_20px_rgba(212,175,55,0.4)] scale-105' : 'bg-black/60 text-[var(--gold-light)] hover:bg-[#3a0606]/80 hover:text-white'}`}
+          >
+            운세 보기
+          </button>
+          <button 
+            onClick={() => setActiveTab('info')}
+            className={`px-6 sm:px-10 py-3 rounded-full border border-[var(--gold-primary)]/50 tracking-widest transition-all shadow-[0_0_15px_rgba(0,0,0,0.5)] ${activeTab === 'info' ? 'bg-gradient-to-r from-[#e5ca72] to-[#d4af37] text-[#3a0606] font-extrabold shadow-[0_0_20px_rgba(212,175,55,0.4)] scale-105' : 'bg-black/60 text-[var(--gold-light)] hover:bg-[#3a0606]/80 hover:text-white'}`}
+          >
+            명리학 상식
+          </button>
+          <Link 
+            href="/blog"
+            className="px-6 sm:px-10 py-3 rounded-full border border-[var(--gold-primary)]/50 tracking-widest transition-all bg-black/60 text-[var(--gold-light)] hover:bg-[#3a0606]/80 hover:text-white shadow-[0_0_15px_rgba(0,0,0,0.5)] flex items-center justify-center"
+          >
+            운세 칼럼
+          </Link>
+        </div>
+
+        {/* Info Article Section (AdSense Text) */}
+        <div className={activeTab === 'info' ? "block w-full max-w-4xl animate-fade-in z-10 relative mb-20" : "hidden"}>
+          <article className="bg-[#1a0505]/95 backdrop-blur-md border-[2px] border-[var(--gold-primary)]/40 rounded-3xl p-8 sm:p-12 shadow-[0_15px_50px_rgba(0,0,0,1)] text-[var(--gold-light)] leading-relaxed relative overflow-hidden">
+            <div className="absolute top-0 right-0 w-64 h-64 bg-[var(--gold-primary)]/5 rounded-full blur-3xl pointer-events-none"></div>
+            <div className="absolute bottom-0 left-0 w-64 h-64 bg-[var(--red-deep)]/10 rounded-full blur-3xl pointer-events-none"></div>
+            
+            <h2 className="text-2xl sm:text-3xl font-bold text-[var(--gold-primary)] mb-8 text-center tracking-widest border-b border-[var(--gold-primary)]/20 pb-6 relative z-10">
+              사주팔자(四柱八字)란 무엇인가? <br/><span className="text-lg text-[var(--gold-light)]/80 mt-3 block font-normal">음양오행으로 풀어보는 내 삶의 기상도</span>
+            </h2>
+            
+            <div className="space-y-6 text-[1.05rem] font-light relative z-10 tracking-wide break-keep">
+              <p>
+                많은 사람이 <strong>'사주(四柱)'</strong>를 단순한 점술이나 미신으로 치부하곤 합니다. 하지만 사주명리학(四柱命理學)은 수천 년간 누적된 자연의 변화와 인간 삶의 패턴을 관찰하여 체계화한 동양의 전통적인 통계학이자 철학입니다. '명리(命理)'라는 단어 자체가 '목숨 명(命)'에 '다스릴 리(理)'를 쓰며, 즉 우주와 자연의 이치를 통해 인간의 삶을 이해하고 다스린다는 깊은 뜻을 담고 있습니다.
+              </p>
+              <p>
+                사주팔자(四柱八字)는 글자 그대로 네 개의 기둥(四柱)과 여덟 개의 글자(八字)를 의미합니다. 사람이 태어난 연(年), 월(月), 일(日), 시(時)를 천간(天干)과 지지(地支)의 두 글자씩 짝지어 기둥으로 세운 것이 사주이며, 이는 총 여덟 글자로 이루어지기 때문에 팔자라고 부릅니다. 이 여덟 글자 안에는 목(木), 화(火), 토(土), 금(金), 수(水)라는 오행(五行)의 기운이 각기 다른 배합으로 녹아 있습니다. 만물이 음양오행으로 이루어져 있듯, 인간 역시 태어나는 순간 세상에 흐르고 있던 특정 오행의 기운을 부여받아 자신의 고유한 성향과 기질을 띠게 됩니다.
+              </p>
+              <p>
+                그렇다면 사주는 우리의 운명이 태어날 때부터 100% 정해져 있다는 의미일까요? 명리학자들은 입을 모아 <strong className="text-[var(--gold-primary)]">"그렇지 않다"</strong>고 말합니다. 사주는 '결정론'이 아니라 인생의 '기상도' 또는 '네비게이션'에 가깝습니다. 일기예보에서 내일 비가 온다고 예보하면 우리는 우산을 준비하듯, 명리학은 내 인생에 언제 추운 겨울이 오고 언제 따뜻한 봄이 오는지 그 계절의 사이클을 미리 인지하게 해줍니다.
+              </p>
+              <div className="bg-black/50 p-6 sm:p-8 rounded-2xl border border-[var(--gold-primary)]/20 border-l-4 border-l-[var(--gold-primary)] my-8 shadow-inner">
+                <p>
+                  불이 많은 사주(火多)는 열정적이고 추진력이 강하지만 욱하는 성질을 다스려야 하며, 물이 많은 사주(水多)는 지혜롭고 깊이가 있으나 우울감에 빠지지 않도록 주의해야 합니다. 이처럼 자신이 타고난 명(命)에 부족한 기운은 채우고 넘치는 기운은 덜어내는 과정을 <strong className="text-[var(--gold-primary)] font-bold text-lg">『개운(開運)』</strong>이라 합니다.
+                </p>
+              </div>
+              <p>
+                저희 <strong>데일리 사주</strong> 서비스는 단순한 운세 뽑기가 아닙니다. 당신이 가진 고유의 오행적 특성을 짚어주고, 다가오는 하루의 기운(일운) 및 한 주의 기운(주운)과 당신의 사주가 어떻게 상호작용하는지 분석하여 최적의 지침을 제공합니다. 맹신하기보다는 자신의 기질을 객관적으로 돌아보고, 좋은 운은 겸허히 받아들이며 흉한 운은 지혜롭게 피해 가는 현명한 나침반으로 활용해 보시길 바랍니다.
+              </p>
+            </div>
+          </article>
+        </div>
+
+        {/* Service Container */}
+        <div className={activeTab === 'service' ? "w-full flex flex-col items-center z-10" : "hidden"}>
+          {/* Options */}
+          <section className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-10 w-full" style={{ perspective: '1000px' }}>
           {[
             { id: "today", title: "오늘 운세", subtitle: "Today's Fortune" },
             { id: "weekly", title: "주간 운세", subtitle: "Weekly Fortune" },
@@ -279,6 +337,7 @@ export default function Home() {
         {showResult && selectedHoroscope && (
           <ScrollResult type={selectedHoroscope} userInfo={userInfo} onClose={() => setShowResult(false)} />
         )}
+        </div>
 
         {/* Global Hit Counter UI */}
         {visitorCount !== null && !showResult && (
