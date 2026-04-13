@@ -80,7 +80,7 @@ export default function Home() {
 
         {/* Form Modal/Section */}
         {!showResult && selectedHoroscope && (
-          <section className="mt-20 w-full max-w-3xl animate-fade-in bg-gradient-to-b from-[#3a0606] to-[var(--red-deep)] p-8 sm:p-10 rounded-3xl border-2 border-[var(--gold-primary)]/40 shadow-2xl relative">
+          <section className="mt-20 w-full max-w-3xl animate-fade-in-fast bg-gradient-to-b from-[#3a0606] to-[var(--red-deep)] p-8 sm:p-10 rounded-3xl border-2 border-[var(--gold-primary)]/40 shadow-2xl relative">
             <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[var(--background)] px-6 py-2 rounded-full border border-[var(--gold-primary)]/40">
               <span className="text-[var(--gold-primary)] font-bold tracking-widest">
                 {selectedHoroscope === "today" ? "오늘 운세" : selectedHoroscope === "weekly" ? "주간 운세" : "월간 운세"} 정보 입력
@@ -193,7 +193,7 @@ export default function Home() {
 
 function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) {
   return (
-    <div className="w-full max-w-2xl mt-10 relative flex flex-col items-center animate-fade-in z-40 mb-32 drop-shadow-2xl">
+    <div className="w-full max-w-2xl mt-10 relative flex flex-col items-center animate-fade-in-fast z-40 mb-32 drop-shadow-2xl">
       <button onClick={onClose} className="absolute -top-12 right-0 text-[var(--gold-light)] hover:text-white pb-2 tracking-widest text-sm opacity-70 hover:opacity-100 transition-opacity">
         ← 돌아가기
       </button>
