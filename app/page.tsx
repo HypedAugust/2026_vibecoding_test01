@@ -5,6 +5,12 @@ import { useState } from "react";
 
 export default function Home() {
   const [selectedHoroscope, setSelectedHoroscope] = useState<string | null>(null);
+  const [showResult, setShowResult] = useState<boolean>(false);
+
+  const handleSelect = (id: string) => {
+    setSelectedHoroscope(id);
+    setShowResult(false);
+  };
 
   return (
     <div className="relative min-h-screen bg-[var(--background)] flex flex-col items-center justify-start overflow-x-hidden font-sans">
@@ -59,7 +65,7 @@ export default function Home() {
           ].map((item) => (
             <button
               key={item.id}
-              onClick={() => setSelectedHoroscope(item.id)}
+              onClick={() => handleSelect(item.id)}
               className="group relative overflow-hidden rounded-2xl border-2 border-[var(--gold-primary)]/50 bg-[var(--red-deep)] p-8 transition-all duration-300 hover:scale-105 hover:border-[var(--gold-primary)] hover:shadow-[0_0_30px_rgba(212,175,55,0.4)] focus:outline-none"
             >
               <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/60 z-0"></div>
@@ -73,7 +79,7 @@ export default function Home() {
         </section>
 
         {/* Form Modal/Section */}
-        {selectedHoroscope && (
+        {!showResult && selectedHoroscope && (
           <section className="mt-20 w-full max-w-3xl animate-fade-in bg-gradient-to-b from-[#3a0606] to-[var(--red-deep)] p-8 sm:p-10 rounded-3xl border-2 border-[var(--gold-primary)]/40 shadow-2xl relative">
             <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-[var(--background)] px-6 py-2 rounded-full border border-[var(--gold-primary)]/40">
               <span className="text-[var(--gold-primary)] font-bold tracking-widest">
@@ -89,7 +95,7 @@ export default function Home() {
               &times;
             </button>
             
-            <form className="flex flex-col gap-8 mt-6" onSubmit={(e) => e.preventDefault()}>
+            <form className="flex flex-col gap-8 mt-6" onSubmit={(e) => { e.preventDefault(); setShowResult(true); }}>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
                 <div className="flex flex-col gap-3">
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">이름 (NAME)</label>
@@ -176,7 +182,77 @@ export default function Home() {
             </form>
           </section>
         )}
+
+        {showResult && selectedHoroscope && (
+          <ScrollResult type={selectedHoroscope} onClose={() => setShowResult(false)} />
+        )}
       </main>
+    </div>
+  );
+}
+
+function ScrollResult({ type, onClose }: { type: string, onClose: () => void }) {
+  return (
+    <div className="w-full max-w-2xl mt-10 relative flex flex-col items-center animate-fade-in z-40 mb-32 drop-shadow-2xl">
+      <button onClick={onClose} className="absolute -top-12 right-0 text-[var(--gold-light)] hover:text-white pb-2 tracking-widest text-sm opacity-70 hover:opacity-100 transition-opacity">
+        ← 돌아가기
+      </button>
+      
+      {/* Top Wooden Roller */}
+      <div className="w-full px-2 relative z-10 flex items-center justify-center">
+         <div className="w-[104%] h-8 bg-gradient-to-b from-[#5C3A21] via-[#CD853F] to-[#2b1708] rounded-full shadow-2xl border border-[#3e2413]"></div>
+         <div className="absolute right-0 w-5 h-12 bg-gradient-to-r from-[var(--gold-primary)] to-yellow-700 rounded-r-md flex items-center shadow-md"></div>
+         <div className="absolute left-0 w-5 h-12 bg-gradient-to-l from-[var(--gold-primary)] to-yellow-700 rounded-l-md flex items-center shadow-md"></div>
+      </div>
+      
+      {/* Unrolling Paper */}
+      <div className="unroll-animation bg-[#f4e8c1] w-[96%] relative border-x border-[#c2b280] shadow-[0_20px_50px_rgba(0,0,0,0.8)] overflow-hidden flex flex-col items-center origin-top relative" style={{ backgroundImage: "radial-gradient(#e5d8b0 1px, transparent 1px)", backgroundSize: "20px 20px" }}>
+         {/* Inner texture overlay */}
+         <div className="absolute inset-0 bg-gradient-to-b from-[#5C3A21]/10 via-transparent to-[#5C3A21]/10 pointer-events-none"></div>
+         
+         <div className="p-8 sm:p-12 text-[#3a0606] font-serif w-full absolute inset-0 content-fade-in overflow-y-auto scrollbar-hide">
+            <div className="text-center mb-8 relative">
+              <h2 className="text-3xl font-bold tracking-widest border-b-2 border-[#3a0606]/30 pb-4 inline-block">
+                 {type === "today" ? "오늘의 운세" : type === "weekly" ? "주간 운세" : "월간 운세"}
+              </h2>
+            </div>
+            
+            <p className="text-xl text-center italic mb-10 font-bold opacity-90 leading-relaxed">
+              "천리 길도 한 걸음부터 시작된다"<br/><span className="text-sm font-normal mt-2 inline-block text-[#5C3A21]">(千里之行 始於足下 - 노자)</span>
+            </p>
+            
+            <div className="space-y-8 text-lg">
+              <p className="text-center bg-[#3a0606]/5 p-5 rounded-lg font-semibold border border-[#3a0606]/10">
+                 마음은 급하나 오늘은 작은 실천 한 가지에 집중하세요.
+              </p>
+              
+              <section>
+                <h3 className="text-xl font-bold text-[#b30000] mb-3 flex items-center gap-2">
+                  <span className="w-2 h-2 bg-[#b30000] rotate-45 inline-block"></span> 핵심 기운
+                </h3>
+                <p className="leading-relaxed text-[#4a2424]">나무(木)의 기운이 왕성하여 활동력이 솟구치는 상입니다. 머릿속으로만 생각했던 구상을 밖으로 꺼내어 행동하기 가장 좋은 시점입니다.</p>
+              </section>
+              
+              <section className="grid grid-cols-2 gap-4 mt-6">
+                 <div className="bg-white/40 p-4 border border-[#c2b280]/50 rounded text-center">
+                    <h4 className="font-bold text-[#3a0606] mb-2 tracking-widest text-sm">길(吉)</h4>
+                    <p className="text-sm text-[#4a2424]">새로운 인맥 형성<br/>따뜻한 차 마시기</p>
+                 </div>
+                 <div className="bg-black/5 p-4 border border-[#c2b280]/50 rounded text-center">
+                    <h4 className="font-bold text-gray-700 mb-2 tracking-widest text-sm">흉(凶)</h4>
+                    <p className="text-sm text-gray-600">감정적인 언쟁<br/>충동적인 소비</p>
+                 </div>
+              </section>
+            </div>
+         </div>
+      </div>
+      
+      {/* Bottom Wooden Roller */}
+      <div className="w-full px-2 relative z-10 flex items-center justify-center -mt-1 bottom-roller">
+         <div className="w-[104%] h-8 bg-gradient-to-b from-[#2b1708] via-[#CD853F] to-[#5C3A21] rounded-full shadow-[0_20px_30px_rgba(0,0,0,0.9)] border border-[#3e2413]"></div>
+         <div className="absolute right-0 w-5 h-12 bg-gradient-to-r from-[var(--gold-primary)] to-yellow-700 rounded-r-md flex items-center shadow-md"></div>
+         <div className="absolute left-0 w-5 h-12 bg-gradient-to-l from-[var(--gold-primary)] to-yellow-700 rounded-l-md flex items-center shadow-md"></div>
+      </div>
     </div>
   );
 }
