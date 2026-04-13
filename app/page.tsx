@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import { useState, useEffect } from "react";
+import confetti from "canvas-confetti";
 import { UserInfo, buildHoroscope } from "./utils/horoscopeBuilder";
 
 export default function Home() {
@@ -24,7 +25,40 @@ export default function Home() {
     const newHits = storedHits + Math.floor(Math.random() * 3) + 1;
     localStorage.setItem('fortune_hits', newHits.toString());
 
-    setVisitorCount(globalCount + newHits);
+    const finalCount = globalCount + newHits;
+    setVisitorCount(finalCount);
+
+    // 10번째 방문자(10의 배수)일 경우 양옆에서 3초간 금색 폭죽 투하
+    if (finalCount % 10 === 0) {
+      setTimeout(() => {
+        const duration = 3000;
+        const end = Date.now() + duration;
+        const goldColors = ['#D4AF37', '#FFD700', '#DAA520', '#B8860B', '#FFF8DC'];
+
+        (function frame() {
+          confetti({
+            particleCount: 8,
+            angle: 60,
+            spread: 55,
+            origin: { x: 0, y: 0.8 },
+            colors: goldColors,
+            zIndex: 9999
+          });
+          confetti({
+            particleCount: 8,
+            angle: 120,
+            spread: 55,
+            origin: { x: 1, y: 0.8 },
+            colors: goldColors,
+            zIndex: 9999
+          });
+
+          if (Date.now() < end) {
+            requestAnimationFrame(frame);
+          }
+        }());
+      }, 1500); // 화면 나타나고 약간의 딜레이 후 발사
+    }
   }, []);
 
   const handleSelect = (id: string) => {
