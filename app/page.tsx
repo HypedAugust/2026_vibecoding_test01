@@ -308,7 +308,7 @@ export default function Home() {
                    {t.luckyVisitorPost}
                  </p>
                  <div className="w-full h-px bg-gradient-to-r from-transparent via-[var(--gold-primary)] to-transparent my-6 opacity-30"></div>
-                 <p className="text-[var(--gold-light)] text-lg leading-loose font-medium">{t.luckyBody}<br/>{t.luckyBody2(<strong className="text-white bg-[var(--gold-primary)]/20 px-2 rounded">{t.luckyBody2Highlight}</strong> as unknown as string)}</p>
+                 <p className="text-[var(--gold-light)] text-lg leading-loose font-medium">{t.luckyBody}<br/>{t.luckyBody2Pre} <strong className="text-white bg-[var(--gold-primary)]/20 px-2 rounded">{t.luckyBody2Highlight}</strong> {t.luckyBody2Post}</p>
               </div>
               <button
                 onClick={() => setLuckyWinner(null)}
