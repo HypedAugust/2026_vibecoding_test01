@@ -58,31 +58,33 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             </h1>
           </header>
 
-          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-loose font-light space-y-8 text-lg sm:text-xl break-keep">
+          <div className="prose prose-invert prose-gold max-w-none text-[var(--gold-light)]/90 leading-relaxed font-normal space-y-6 text-base sm:text-lg break-keep text-justify">
             {post.content.split('\n\n').map((paragraph, i) => {
               if (paragraph.startsWith('###')) {
                 return (
-                  <h3 key={i} className="text-2xl sm:text-3xl font-bold text-[var(--gold-primary)] mt-12 mb-6 border-l-4 border-[var(--gold-primary)] pl-6">
+                  <h3 key={i} className="text-xl sm:text-2xl font-bold text-[var(--gold-primary)] mt-10 mb-4 border-l-4 border-[var(--gold-primary)] pl-5">
                     {paragraph.replace('### ', '')}
                   </h3>
                 );
               }
               if (paragraph.startsWith('- ')) {
                 return (
-                  <ul key={i} className="space-y-4 my-6">
+                  <ul key={i} className="space-y-3 my-4 ml-2">
                     {paragraph.split('\n').map((item, j) => (
-                      <li key={j} className="flex gap-3">
-                        <span className="text-[var(--gold-primary)]">◈</span>
-                        <span>{item.replace('- ', '')}</span>
+                      <li key={j} className="flex gap-3 items-start">
+                        <span className="text-[var(--gold-primary)] mt-1.5 text-xs">●</span>
+                        <span dangerouslySetInnerHTML={{ __html: item.replace('- ', '').replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}></span>
                       </li>
                     ))}
                   </ul>
                 );
               }
               return (
-                <p key={i} className="opacity-90 leading-relaxed font-light">
-                  {paragraph}
-                </p>
+                <p 
+                  key={i} 
+                  className="opacity-90 font-light"
+                  dangerouslySetInnerHTML={{ __html: paragraph.replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}
+                />
               );
             })}
           </div>
