@@ -83,14 +83,27 @@ export default function Home() {
             </button>
             
             <form className="flex flex-col gap-8 mt-6" onSubmit={(e) => e.preventDefault()}>
-              <div className="flex flex-col gap-3">
-                <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">이름 (NAME)</label>
-                <input 
-                  type="text" 
-                  placeholder="당신의 이름을 입력하세요"
-                  className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all text-lg"
-                  required
-                />
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
+                <div className="flex flex-col gap-3">
+                  <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">이름 (NAME)</label>
+                  <input 
+                    type="text" 
+                    placeholder="당신의 이름을 입력하세요"
+                    className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all text-lg"
+                    required
+                  />
+                </div>
+                <div className="flex flex-col gap-3">
+                  <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">성별 (GENDER)</label>
+                  <select 
+                    className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all text-lg cursor-pointer appearance-none"
+                    required
+                  >
+                    <option value="">선택</option>
+                    <option value="female" className="bg-[var(--red-deep)]">여성 (坤命)</option>
+                    <option value="male" className="bg-[var(--red-deep)]">남성 (乾命)</option>
+                  </select>
+                </div>
               </div>
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4 sm:gap-6">
@@ -125,8 +138,21 @@ export default function Home() {
                   <label className="text-[var(--gold-light)] font-semibold tracking-wider text-sm">시간 (TIME)</label>
                   <select className="bg-black/40 border border-[var(--gold-primary)]/30 p-4 rounded-xl text-white focus:outline-none focus:border-[var(--gold-primary)] focus:ring-1 focus:ring-[var(--gold-primary)] transition-all cursor-pointer appearance-none">
                     <option value="">모름</option>
-                    {Array.from({length: 24}, (_, i) => i).map(hour => (
-                      <option key={hour} value={hour} className="bg-[var(--red-deep)]">{hour.toString().padStart(2, '0')}:00</option>
+                    {[
+                      { val: "ja", label: "자시(子時, 23:30~01:30)" },
+                      { val: "chuk", label: "축시(丑時, 01:30~03:30)" },
+                      { val: "in", label: "인시(寅時, 03:30~05:30)" },
+                      { val: "myo", label: "묘시(卯時, 05:30~07:30)" },
+                      { val: "jin", label: "진시(辰時, 07:30~09:30)" },
+                      { val: "sa", label: "사시(巳時, 09:30~11:30)" },
+                      { val: "o", label: "오시(午時, 11:30~13:30)" },
+                      { val: "mi", label: "미시(未時, 13:30~15:30)" },
+                      { val: "shin", label: "신시(申時, 15:30~17:30)" },
+                      { val: "yu", label: "유시(酉時, 17:30~19:30)" },
+                      { val: "sul", label: "술시(戌時, 19:30~21:30)" },
+                      { val: "hae", label: "해시(亥時, 21:30~23:30)" }
+                    ].map((time) => (
+                      <option key={time.val} value={time.val} className="bg-[var(--red-deep)] block whitespace-pre">{time.label}</option>
                     ))}
                   </select>
                 </div>
