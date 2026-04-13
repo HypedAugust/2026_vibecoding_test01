@@ -73,18 +73,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     {paragraph.split('\n').map((item, j) => (
                       <li key={j} className="flex gap-3 items-start">
                         <span className="text-[var(--gold-primary)] mt-1.5 text-[8pt]">●</span>
-                        <span className="text-[12pt]" dangerouslySetInnerHTML={{ __html: item.replace('- ', '').replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}></span>
+                        <span>{item.replace('- ', '')}</span>
                       </li>
                     ))}
                   </ul>
                 );
               }
               return (
-                <p 
-                  key={i} 
-                  className="opacity-90 font-light text-[12pt]"
-                  dangerouslySetInnerHTML={{ __html: paragraph.replace(/\*\*(.*?)\*\*/g, '<strong class="text-[var(--gold-primary)] font-bold">$1</strong>') }}
-                />
+                <p key={i} className="opacity-90 font-light text-[12pt]">
+                  {paragraph}
+                </p>
               );
             })}
           </div>
