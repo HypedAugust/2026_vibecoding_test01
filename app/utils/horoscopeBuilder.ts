@@ -118,6 +118,7 @@ export function buildHoroscope(userInfo: UserInfo, type: string) {
     return {
       type: "weekly",
       quote,
+      element,
       summary: "이번 주는 주변 기운이 급격히 섞이는 주간이 될 것입니다. 중심을 잡으세요.",
       luckyDay: days[getIndex(seed, days.length, 5)],
       wealth: weekWealth[getIndex(seed, weekWealth.length, 6)],
@@ -134,6 +135,7 @@ export function buildHoroscope(userInfo: UserInfo, type: string) {
   return {
     type: "monthly",
     quote,
+    element,
     summary: monthSummaries[getIndex(seed, monthSummaries.length, 10)],
     detail1: monthDetails[getIndex(seed, monthDetails.length, 11)],
     luckyDays: `${d1}일, ${d2}일, ${d3}일`,
