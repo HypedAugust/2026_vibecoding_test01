@@ -130,6 +130,9 @@ export default function Home() {
           <p className="mt-6 text-lg sm:text-xl text-[var(--gold-light)] opacity-90 text-center tracking-[0.3em] font-light">
             당신의 운명을 확인하세요
           </p>
+          <p className="mt-4 text-sm sm:text-base text-[var(--gold-light)] opacity-90 text-center tracking-widest font-medium bg-black/30 px-4 py-2 rounded-full border border-[var(--gold-primary)]/20 shadow-sm">
+            ※ 입력하신 정보는 운세 풀이에만 사용되며, 서버에 절대 저장되지 않습니다.
+          </p>
         </header>
 
         {/* Options */}
@@ -253,7 +256,15 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className="mt-10 flex justify-center perspective-1000">
+              <div className="mt-8 flex flex-col items-center perspective-1000">
+                <div className="flex items-center gap-2 mb-6 px-4 py-2 bg-black/40 border border-[var(--gold-primary)]/20 rounded-lg shadow-inner">
+                  <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 text-[var(--gold-primary)]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                  </svg>
+                  <p className="text-xs sm:text-sm text-[var(--gold-light)] opacity-70 tracking-wider">
+                    안심하세요! 입력 정보는 <strong className="text-[var(--gold-primary)] font-semibold">절대 저장되지 않으며</strong> 즉시 파기됩니다.
+                  </p>
+                </div>
                 <button 
                   type="submit" 
                   className="w-full md:w-2/3 bg-gradient-to-r from-[#e5ca72] via-[#ffe898] to-[#d4af37] text-[#3a0606] font-extrabold tracking-widest text-xl py-5 rounded-2xl border-t-2 border-l-2 border-r-[4px] border-b-[6px] border-[#9c781a] shadow-[-5px_10px_20px_rgba(0,0,0,0.8),_inset_2px_2px_5px_rgba(255,255,255,0.8)] transition-all duration-300 transform hover:-translate-y-2 hover:border-b-[8px] hover:shadow-[-10px_15px_30px_rgba(0,0,0,1)] active:scale-95 active:translate-y-2 active:border-b-2 active:shadow-none"
