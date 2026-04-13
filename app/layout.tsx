@@ -16,7 +16,26 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Daily Chinese Horoscope | 데일리 사주",
-  description: "당신의 명리학적 운명을 깊이 있게 풀이해 보는 개인 맞춤형 사주 서비스입니다.",
+  description: "Free personalized BaZi (Four Pillars of Destiny) fortune readings. Discover your daily, weekly, and monthly fortune based on traditional East Asian metaphysics. 무료 맞춤형 사주 운세 서비스.",
+  keywords: ["BaZi", "Four Pillars of Destiny", "Chinese horoscope", "fortune reading", "사주", "운세", "명리학", "사주팔자", "오행"],
+  authors: [{ name: "Daily Chinese Horoscope" }],
+  openGraph: {
+    title: "Daily Chinese Horoscope | 데일리 사주",
+    description: "Free personalized BaZi fortune readings based on traditional Four Pillars of Destiny. 무료 맞춤형 사주 운세 서비스.",
+    type: "website",
+    locale: "ko_KR",
+    alternateLocale: "en_US",
+    siteName: "Daily Chinese Horoscope",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Daily Chinese Horoscope | 데일리 사주",
+    description: "Free personalized BaZi fortune readings. 무료 맞춤형 사주 운세 서비스.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
