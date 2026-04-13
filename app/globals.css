@@ -1,26 +1,65 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #2a0800;
+  --foreground: #fcf1d5;
+  --gold-primary: #d4af37;
+  --gold-light: #f3e5ab;
+  --red-deep: #4a0404;
+  --red-bright: #b30000;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-gold-primary: var(--gold-primary);
+  --color-gold-light: var(--gold-light);
+  --color-red-deep: var(--red-deep);
+  --color-red-bright: var(--red-bright);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Curtain Animation */
+@keyframes slideOutLeft {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes slideOutRight {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes fadeOut {
+  0% { opacity: 1; visibility: visible; }
+  100% { opacity: 0; visibility: hidden; }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.curtain-container {
+  animation: fadeOut 0.5s ease-in forwards 2.5s;
+  pointer-events: none;
+}
+
+.curtain-left {
+  animation: slideOutLeft 2s cubic-bezier(0.77, 0, 0.175, 1) forwards 0.5s;
+}
+
+.curtain-right {
+  animation: slideOutRight 2s cubic-bezier(0.77, 0, 0.175, 1) forwards 0.5s;
+}
+
+.animate-fade-in {
+  opacity: 0;
+  animation: fadeIn 1.5s ease-out forwards 2s;
 }
