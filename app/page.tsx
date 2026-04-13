@@ -17,7 +17,7 @@ export default function Home() {
       {/* Curtain Animation Overlay */}
       <div className="curtain-container fixed inset-0 z-50 flex pointer-events-none bg-black">
         {/* 왼쪽 막: 뷰포트의 좌측 50%. 내부 이미지를 전체 넓이로 잡아 좌측 반만 렌더링 */}
-        <div className="curtain-left relative w-1/2 h-screen max-h-screen overflow-hidden border-r-[4px] border-[#d4af37] shadow-[20px_0_50px_rgba(0,0,0,1)] z-20">
+        <div className="curtain-left relative w-1/2 h-screen max-h-screen overflow-hidden shadow-[20px_0_50px_rgba(0,0,0,1)] z-20">
           <div className="absolute top-0 left-0 w-[100vw] h-full">
             <Image src="/grand_curtain.png" alt="Curtain Left" fill priority className="object-cover object-center" />
           </div>
@@ -26,7 +26,7 @@ export default function Home() {
         </div>
         
         {/* 오른쪽 막: 뷰포트의 우측 50%. 내부 이미지를 전체 넓이로 잡고 우측 끝에 붙여 언라인 */}
-        <div className="curtain-right relative w-1/2 h-screen max-h-screen overflow-hidden border-l-[4px] border-[#d4af37] shadow-[-20px_0_50px_rgba(0,0,0,1)] z-20">
+        <div className="curtain-right relative w-1/2 h-screen max-h-screen overflow-hidden shadow-[-20px_0_50px_rgba(0,0,0,1)] z-20">
           <div className="absolute top-0 right-0 w-[100vw] h-full">
             <Image src="/grand_curtain.png" alt="Curtain Right" fill priority className="object-cover object-center" />
           </div>
