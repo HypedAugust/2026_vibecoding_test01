@@ -63,7 +63,7 @@ body {
 
 .animate-fade-in {
   opacity: 0;
-  animation: fadeIn 1.2s ease-out forwards 0.5s;
+  animation: fadeIn 0.8s ease-out forwards;
 }
 
 .animate-fade-in-fast {

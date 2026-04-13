@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <div className="relative min-h-screen bg-[var(--background)] flex flex-col items-center justify-start overflow-x-hidden font-sans">
       {/* Curtain Animation Overlay */}
-      <div className="curtain-container fixed inset-0 z-50 flex pointer-events-none bg-black">
+      <div className="curtain-container fixed inset-0 z-50 flex pointer-events-none bg-transparent">
         {/* 왼쪽 막: 뷰포트의 좌측 50%. 내부 이미지를 전체 넓이로 잡아 좌측 반만 렌더링 */}
         <div className="curtain-left relative w-1/2 h-screen max-h-screen overflow-hidden shadow-[20px_0_50px_rgba(0,0,0,1)] z-20">
           <div className="absolute top-0 left-0 w-[100vw] h-full">
