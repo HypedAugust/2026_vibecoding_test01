@@ -77,7 +77,7 @@ const translations = {
     luckyDaysLabel: "최강 길일:",
     directionLabel: "귀인 방향:",
     luckyColorLabel: "행운 컬러:",
-    backBtn: "← 다른 운세 보기",
+    backBtn: "다른 운세 보기",
     // Visitor
     visitorLabel: "누적 방문자 수",
     // Lucky winner
@@ -180,7 +180,7 @@ const translations = {
     luckyDaysLabel: "Luckiest Days:",
     directionLabel: "Noble Direction:",
     luckyColorLabel: "Lucky Color:",
-    backBtn: "← View Another Fortune",
+    backBtn: "View Another Fortune",
     visitorLabel: "Total Visitors",
     congrats: "Congratulations!",
     luckyVisitorMsg: (n: string) => `You are the lucky`,
