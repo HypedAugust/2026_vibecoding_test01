@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { blogPosts } from "./blog/data";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://daily-chinese-horoscope.vercel.app";
+  const baseUrl = "https://your-chinese-horoscope.vercel.app";
 
   const blogUrls = blogPosts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,

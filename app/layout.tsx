@@ -56,7 +56,7 @@ export default function RootLayout({
           rel="alternate"
           type="application/rss+xml"
           title="Daily Chinese Horoscope | 데일리 사주"
-          href="https://daily-chinese-horoscope.vercel.app/feed.xml"
+          href="https://your-chinese-horoscope.vercel.app/feed.xml"
         />
         <script
           async
