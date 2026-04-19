@@ -583,5 +583,85 @@ When your chart's Five Elements meet the seasons, their energies are amplified o
 
 Understanding your BaZi Five Element composition enables personalized health management. While diseases requiring treatment naturally call for modern medicine, in the realm of daily self-care and prevention, BaZi's Five Element constitutional theory contains practical wisdom proven by thousands of years of experience.
     `.trim()
+  },
+  {
+    slug: "ilju-01-gapja",
+    title: "갑자(甲子)일주 분석: 60갑자 일주 시리즈 #1",
+    title_en: "Gapja (甲子) Day Pillar Analysis: 60 Day Pillars Series #1",
+    date: "2026-04-19",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "60갑자 일주 시리즈의 첫 번째, 갑자(甲子)일주의 성격, 직업, 연애, 건강 운세를 상세히 분석합니다.",
+    excerpt_en: "The first in our 60 Day Pillars series — a detailed analysis of the Gapja (甲子) Day Pillar covering personality, career, love, and health.",
+    content: `
+갑자(甲子)일주는 60갑자의 첫 번째 일주로, 천간 갑목(甲木)이 지지 자수(子水) 위에 앉아 있는 형태입니다. 큰 나무가 깊은 물 위에 뿌리를 내린 모습으로, 시작과 탄생의 에너지를 상징합니다.
+
+### 1. 갑자일주의 기본 구조
+- 천간: 갑목(甲木) — 큰 나무, 곧은 성품, 리더십
+- 지지: 자수(子水) — 정인(偏印)의 관계, 깊은 지혜와 학문
+- 갑목이 자수로부터 생(生)을 받으므로 에너지가 풍부한 일주입니다.
+- 12운성으로 보면 갑목이 자(子)에서 목욕(沐浴)에 해당하여 감성적이고 예술적인 면이 있습니다.
+
+### 2. 성격과 특징
+갑자일주는 총명하고 지적인 성향이 강합니다. 자수(子水)가 편인(偏印)으로 작용하여 학문적 호기심이 넘치고, 비범한 사고력을 가지고 있습니다.
+- 장점: 창의적이고 진취적이며, 새로운 일을 시작하는 데 두려움이 없습니다. 리더십이 강하고 결단력이 있습니다.
+- 단점: 자존심이 강하고 고집이 셀 수 있습니다. 감정 기복이 있어 주변 사람을 당혹스럽게 할 때가 있습니다.
+- 외모: 보통 키가 크고 체격이 좋은 편이며, 인상이 시원시원합니다.
+
+### 3. 직업과 재물운
+갑자일주는 학문, 교육, 연구 분야에서 두각을 나타냅니다. 편인의 영향으로 전문 기술직이나 창의적인 분야에서 성공할 가능성이 높습니다.
+- 적합한 직업: 교수, 연구원, 작가, 기획자, IT 전문가, 예술가
+- 재물운: 재물 자체보다 명예와 지식을 우선시하는 경향이 있습니다. 중년 이후 안정적인 재물운을 기대할 수 있습니다.
+- 사업: 혼자 주도하는 사업보다 전문성을 살린 프리랜서나 컨설팅이 적합합니다.
+
+### 4. 연애와 결혼
+갑자일주는 연애에서 이상이 높고 로맨틱한 편입니다. 목욕(沐浴)의 기운이 있어 이성에게 매력적이지만, 감정의 변화가 클 수 있습니다.
+- 남성: 배우자가 현명하고 내조를 잘하는 타입을 만나기 쉬우나, 본인의 고집으로 갈등이 생길 수 있습니다.
+- 여성: 자존심이 강하여 대등한 관계를 원합니다. 능력 있는 배우자를 만나는 경우가 많습니다.
+- 궁합이 좋은 일주: 기축(己丑), 기사(己巳), 기유(己酉)일주와 상성이 좋습니다.
+
+### 5. 건강 유의사항
+갑목은 간(肝)과 담(膽)을 주관하고, 자수는 신장(腎)과 방광(膀胱)을 의미합니다.
+- 간 건강과 신장 기능에 유의해야 합니다.
+- 수기(水氣)가 강하므로 몸이 냉해지기 쉬워 하체 보온에 신경 써야 합니다.
+- 스트레스로 인한 불면증이나 감정 기복에 주의가 필요합니다.
+
+갑자일주는 60갑자의 시작답게 강한 생명력과 잠재력을 가진 일주입니다. 자수의 지혜로운 기운을 잘 활용하면 학문과 전문 분야에서 큰 성취를 이룰 수 있습니다.
+    `.trim(),
+    content_en: `
+The Gapja (甲子) Day Pillar is the very first of the 60 Day Pillars in BaZi. It features the Heavenly Stem Jia Wood (甲木) sitting atop the Earthly Branch Zi Water (子水) — like a great tree rooting itself in deep water, symbolizing the energy of new beginnings.
+
+### 1. Basic Structure
+- Heavenly Stem: Jia Wood (甲木) — tall timber, upright character, natural leadership
+- Earthly Branch: Zi Water (子水) — Indirect Seal (偏印) relationship, deep wisdom and scholarship
+- Wood receives nourishment from Water, making this an energetically abundant pillar.
+- In the 12 Life Stages, Jia Wood at Zi corresponds to "Bathing" (沐浴), indicating emotional sensitivity and artistic flair.
+
+### 2. Personality Traits
+Gapja Day Pillar natives are exceptionally intelligent and intellectually curious. The Indirect Seal influence of Zi Water grants them outstanding analytical abilities and unconventional thinking.
+- Strengths: Creative, pioneering, and fearless when starting new ventures. Strong leadership and decisiveness.
+- Weaknesses: Can be proud and stubborn. Emotional fluctuations may confuse those around them.
+- Appearance: Typically tall with a sturdy build and an open, striking presence.
+
+### 3. Career and Wealth
+Gapja natives excel in academia, education, and research. The Indirect Seal influence favors success in specialized technical or creative fields.
+- Ideal careers: Professor, researcher, writer, strategist, IT specialist, artist
+- Wealth: They tend to prioritize reputation and knowledge over material wealth. Stable financial prospects improve after middle age.
+- Business: Freelancing or consulting that leverages expertise suits them better than managing large operations.
+
+### 4. Love and Marriage
+Gapja natives are romantic with high ideals in love. The "Bathing" energy makes them attractive to the opposite sex, but emotional volatility can be a challenge.
+- Men: Likely to meet a wise, supportive partner, though personal stubbornness may cause friction.
+- Women: Strong self-respect drives them to seek equal partnerships. They often attract capable partners.
+- Compatible Day Pillars: Gichuk (己丑), Gisa (己巳), and Giyu (己酉) show excellent compatibility.
+
+### 5. Health Considerations
+Jia Wood governs the liver and gallbladder, while Zi Water relates to the kidneys and bladder.
+- Pay attention to liver health and kidney function.
+- Strong Water energy can cause cold constitution — keep the lower body warm.
+- Watch for stress-related insomnia and mood swings.
+
+The Gapja Day Pillar, as the first of the 60 pillars, carries powerful life force and potential. By channeling Zi Water's wisdom effectively, natives can achieve great success in academic and professional fields.
+    `.trim()
   }
 ];
