@@ -1,6 +1,6 @@
 import { blogPosts } from "../blog/data";
 
-const BASE_URL = "https://daily-chinese-horoscope.vercel.app";
+const BASE_URL = "https://your-chinese-horoscope.vercel.app";
 
 function escapeXml(str: string): string {
   return str

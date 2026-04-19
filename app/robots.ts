@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: [],
     },
-    sitemap: "https://daily-chinese-horoscope.vercel.app/sitemap.xml",
+    sitemap: "https://your-chinese-horoscope.vercel.app/sitemap.xml",
   };
 }
