@@ -1,14 +1,22 @@
 "use client";
+import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { blogPosts } from "./data";
 import { useLanguage } from "../context/LanguageContext";
 import { getTranslations } from "../translations";
 
+const POSTS_PER_PAGE = 6;
+
 export default function BlogListContent() {
   const { lang } = useLanguage();
   const t = getTranslations(lang);
   const isEn = lang === "en";
+  const [page, setPage] = useState(1);
+
+  const totalPages = Math.ceil(blogPosts.length / POSTS_PER_PAGE);
+  const startIdx = (page - 1) * POSTS_PER_PAGE;
+  const currentPosts = blogPosts.slice(startIdx, startIdx + POSTS_PER_PAGE);
 
   return (
     <div className="relative min-h-screen bg-[var(--background)] flex flex-col items-center justify-start overflow-x-hidden font-sans">
@@ -28,8 +36,8 @@ export default function BlogListContent() {
           <div className="w-24 h-1 bg-[var(--gold-primary)] mt-6 opacity-40"></div>
         </header>
 
-        <section className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full mb-20">
-          {blogPosts.map((post) => (
+        <section className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full mb-12">
+          {currentPosts.map((post) => (
             <Link
               key={post.slug}
               href={`/blog/${post.slug}`}
@@ -53,6 +61,41 @@ export default function BlogListContent() {
             </Link>
           ))}
         </section>
+
+        {/* Pagination */}
+        {totalPages > 1 && (
+          <nav className="flex items-center gap-2 mb-16">
+            <button
+              onClick={() => { setPage((p) => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: "smooth" }); }}
+              disabled={page === 1}
+              className="px-4 py-2 rounded-lg border border-[var(--gold-primary)]/30 text-[var(--gold-primary)] text-sm font-bold tracking-wider disabled:opacity-30 disabled:cursor-not-allowed hover:bg-[var(--gold-primary)]/10 transition-colors"
+            >
+              ← {isEn ? "Prev" : "이전"}
+            </button>
+
+            {Array.from({ length: totalPages }, (_, i) => i + 1).map((num) => (
+              <button
+                key={num}
+                onClick={() => { setPage(num); window.scrollTo({ top: 0, behavior: "smooth" }); }}
+                className={`w-10 h-10 rounded-lg text-sm font-bold tracking-wider transition-colors ${
+                  num === page
+                    ? "bg-[var(--gold-primary)] text-black"
+                    : "border border-[var(--gold-primary)]/30 text-[var(--gold-primary)] hover:bg-[var(--gold-primary)]/10"
+                }`}
+              >
+                {num}
+              </button>
+            ))}
+
+            <button
+              onClick={() => { setPage((p) => Math.min(totalPages, p + 1)); window.scrollTo({ top: 0, behavior: "smooth" }); }}
+              disabled={page === totalPages}
+              className="px-4 py-2 rounded-lg border border-[var(--gold-primary)]/30 text-[var(--gold-primary)] text-sm font-bold tracking-wider disabled:opacity-30 disabled:cursor-not-allowed hover:bg-[var(--gold-primary)]/10 transition-colors"
+            >
+              {isEn ? "Next" : "다음"} →
+            </button>
+          </nav>
+        )}
 
         <Link
           href="/"
