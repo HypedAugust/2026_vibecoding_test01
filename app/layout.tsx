@@ -52,6 +52,12 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head>
+        <link
+          rel="alternate"
+          type="application/rss+xml"
+          title="Daily Chinese Horoscope | 데일리 사주"
+          href="https://daily-chinese-horoscope.vercel.app/feed.xml"
+        />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4091214263021506"
