@@ -13,10 +13,26 @@ export default function BlogListContent() {
   const t = getTranslations(lang);
   const isEn = lang === "en";
   const [page, setPage] = useState(1);
+  const [query, setQuery] = useState("");
 
-  const totalPages = Math.ceil(blogPosts.length / POSTS_PER_PAGE);
-  const startIdx = (page - 1) * POSTS_PER_PAGE;
-  const currentPosts = blogPosts.slice(startIdx, startIdx + POSTS_PER_PAGE);
+  const filteredPosts = query.trim()
+    ? blogPosts.filter((post) => {
+        const q = query.trim().toLowerCase();
+        return (
+          post.title.toLowerCase().includes(q) ||
+          post.title_en.toLowerCase().includes(q) ||
+          post.excerpt.toLowerCase().includes(q) ||
+          post.excerpt_en.toLowerCase().includes(q) ||
+          post.category.toLowerCase().includes(q) ||
+          post.category_en.toLowerCase().includes(q)
+        );
+      })
+    : blogPosts;
+
+  const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+  const safePage = Math.min(page, totalPages || 1);
+  const startIdx = (safePage - 1) * POSTS_PER_PAGE;
+  const currentPosts = filteredPosts.slice(startIdx, startIdx + POSTS_PER_PAGE);
 
   return (
     <div className="relative min-h-screen bg-[var(--background)] flex flex-col items-center justify-start overflow-x-hidden font-sans">
@@ -35,6 +51,35 @@ export default function BlogListContent() {
           <p className="text-[var(--gold-light)] opacity-80 tracking-widest text-lg font-light">{t.blogSubtitle}</p>
           <div className="w-24 h-1 bg-[var(--gold-primary)] mt-6 opacity-40"></div>
         </header>
+
+        {/* Search Bar */}
+        <div className="w-full max-w-md mb-12">
+          <div className="relative">
+            <span className="absolute left-4 top-1/2 -translate-y-1/2 text-[var(--gold-primary)]/50 text-lg">🔍</span>
+            <input
+              type="text"
+              value={query}
+              onChange={(e) => { setQuery(e.target.value); setPage(1); }}
+              placeholder={isEn ? "Search posts..." : "글 검색..."}
+              className="w-full pl-12 pr-10 py-3 rounded-xl bg-[#1a0505]/80 border-2 border-[var(--gold-primary)]/20 text-[var(--gold-light)] placeholder-[var(--gold-light)]/30 focus:border-[var(--gold-primary)]/60 focus:outline-none transition-colors text-sm tracking-wide"
+            />
+            {query && (
+              <button
+                onClick={() => { setQuery(""); setPage(1); }}
+                className="absolute right-4 top-1/2 -translate-y-1/2 text-[var(--gold-light)]/40 hover:text-[var(--gold-primary)] transition-colors text-lg"
+              >
+                ✕
+              </button>
+            )}
+          </div>
+          {query.trim() && (
+            <p className="text-[var(--gold-light)]/50 text-xs mt-2 text-center tracking-wider">
+              {isEn
+                ? `${filteredPosts.length} result${filteredPosts.length !== 1 ? "s" : ""} found`
+                : `${filteredPosts.length}개의 글을 찾았습니다`}
+            </p>
+          )}
+        </div>
 
         <section className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full mb-12">
           {currentPosts.map((post) => (
