@@ -663,5 +663,155 @@ Jia Wood governs the liver and gallbladder, while Zi Water relates to the kidney
 
 The Gapja Day Pillar, as the first of the 60 pillars, carries powerful life force and potential. By channeling Zi Water's wisdom effectively, natives can achieve great success in academic and professional fields.
     `.trim()
+  },
+  {
+    slug: "ilju-02-eulchuk",
+    title: "을축(乙丑)일주 분석: 60갑자 일주 시리즈 #2",
+    title_en: "Eulchuk (乙丑) Day Pillar Analysis: 60 Day Pillars Series #2",
+    date: "2026-04-21",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "얼어붙은 겨울 땅 위에서 뿌리를 내리는 부드러운 풀, 을축일주의 강인한 내면과 실용적 삶의 방식을 깊이 분석합니다.",
+    excerpt_en: "Like supple grass rooting through frozen winter soil, Eulchuk Day Pillar natives combine a gentle exterior with an iron will — a detailed BaZi analysis of their personality, career, love, and health.",
+    content: `
+을축(乙丑)일주는 육십갑자의 두 번째 일주로, 천간의 을목(乙木)과 지지의 축토(丑土)가 결합된 형상입니다. 한겨울의 얼어붙은 땅 위에 뿌리를 내리는 유연하고 생명력 강한 풀로 비유되며, 부드러운 겉모습과 달리 속으로는 단단한 의지를 품은 일주입니다.
+
+### 1. 기본 구조
+
+천간 을목(乙木)은 10천간 중 음목(陰木)으로, 갑목의 강직한 대목(大木)과 달리 꽃, 풀, 덩굴처럼 유연하게 환경에 적응하며 자라는 생명력을 상징합니다. 지지 축토(丑土)는 음토(陰土)로, 한겨울의 차갑고 얼어붙은 습한 땅을 나타냅니다.
+
+천간-지지 관계에서 축토(丑土)는 기토(己土, 본기), 신금(辛金, 중기), 계수(癸水, 여기)의 세 기운을 품고 있습니다. 을목(乙木) 일간 기준으로 기토(己土)는 정재(正財), 신금(辛金)은 편관(偏官), 계수(癸水)는 편인(偏印)에 해당합니다. 일지에 정재가 자리하여 현실적인 재물 감각과 안정 지향적 성향이 근간이 됩니다.
+
+12운성으로 보면 을목(乙木)은 음간이므로 양간과 역행합니다. 을목은 축(丑) 위에서 쇠지(衰地)에 해당합니다. 쇠지는 왕성함이 한 풀 꺾이는 단계로, 안정과 내실을 중시하며 지구력과 인내심이 뛰어납니다.
+
+에너지 특성: 을목의 유연한 적응력과 축토의 단단하고 차가운 기반이 결합된 구조입니다. 겉으로는 부드럽고 온화해 보이지만, 내면에는 쉽게 꺾이지 않는 강인한 의지가 숨겨져 있습니다.
+
+### 2. 성격과 특징
+
+장점:
+- 유연하고 적응력이 강해 어떤 환경에서도 살아남는 생명력
+- 쇠지의 특성으로 인내심이 강하고 꾸준하게 노력하는 성실함
+- 정재(正財)의 기운으로 실용적이고 경제 감각이 뛰어남
+- 표면적으로 온화하고 원만한 대인 관계를 유지하는 사교 능력
+- 편인(癸水)의 기운으로 직관력과 내면의 지혜가 발달해 있음
+
+단점:
+- 부당한 상황에서도 직접 맞서기보다 돌아가는 방식을 택해 기회를 놓칠 수 있음
+- 편관(辛金)이 일지에 내재하여 억압적인 상황에서 심한 스트레스를 받음
+- 쇠지의 보수적 성향으로 새로운 변화에 소극적일 수 있음
+- 정재에 대한 집착이 과하면 지나치게 계산적으로 보일 수 있음
+- 억울한 감정을 속으로 삭이는 경향이 있어 응어리가 쌓이기 쉬움
+
+외모 경향: 전체적으로 차분하고 단아한 인상이며, 이목구비가 섬세하고 피부가 고운 경우가 많습니다. 쇠지의 영향으로 나이가 들수록 더욱 품위 있어 보입니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 일지 정재(正財)의 영향으로 재물을 다루거나 관리하는 직업에서 두각을 나타냅니다. 편관(辛金)의 기운으로 책임감과 규율을 요하는 직종과도 잘 맞습니다.
+- 금융·회계: 은행원, 회계사, 세무사, 재무 관리자
+- 의료·약학: 의사, 약사, 간호사, 한의사
+- 법률·행정: 변호사, 법무사, 공무원
+- 농업·원예: 식물 관련 연구, 조경, 원예 (을목의 특성)
+- 교육·상담: 교사, 상담사, 코치
+
+재물 패턴: 일지 정재(正財)의 영향으로 재물운이 비교적 안정적입니다. 큰 위험을 감수하기보다 꾸준하고 성실하게 재물을 쌓아가는 유형입니다. 장기적인 저축과 투자로 재산을 모아가는 방식이 잘 맞습니다.
+
+사업 적성: 개인 사업보다는 안정적인 직장 생활이 더 어울리는 경향이 있습니다. 창업한다면 전문 기술 기반의 소규모 사업이나 안정적인 수요가 있는 분야가 적합합니다.
+
+### 4. 연애와 결혼
+
+남성 을축일주: 일지 정재(正財)가 배우자 자리에 있어 현실적이고 경제적 능력이 있는 파트너에게 끌립니다. 결혼에 대해 진지하고 책임감 있는 태도를 보이며, 배우자를 진심으로 아끼고 실질적인 지원을 아끼지 않습니다.
+
+여성 을축일주: 독립적이고 실용적인 성향으로 경제적으로 안정된 가정을 꾸리는 것을 중요하게 여깁니다. 을목의 유연함으로 관계에서 잘 맞춰주는 편이지만, 내면에서는 자신만의 원칙과 기준을 가지고 있습니다. 편관(辛金)의 영향으로 강인하고 능력 있는 남성에게 매력을 느끼는 경우가 많습니다.
+
+궁합이 좋은 일주: 갑진(甲辰), 갑술(甲戌), 무진(戊辰) 일주와 오행적으로 조화를 이룹니다. 경인(庚寅), 신묘(辛卯) 일주와도 상생의 구조를 이룹니다.
+
+### 5. 건강 유의사항
+
+목(木) 계열 건강:
+- 간(肝)과 담(膽): 을목 일간이므로 간 기능 관리가 중요합니다. 과도한 스트레스나 감정 억압은 간에 무리를 줍니다.
+- 근육과 힘줄: 쇠지의 영향으로 유연성이 부족할 수 있어 스트레칭과 요가 등이 도움이 됩니다.
+
+토(土) 계열 건강:
+- 비장(脾臟)과 위장(胃腸): 축토(丑土)의 냉습한 기운이 소화기에 영향을 줍니다. 차갑거나 습한 음식, 과식을 피하고 따뜻한 음식을 규칙적으로 먹는 것이 좋습니다.
+- 복부 냉증: 한겨울의 차가운 축토 기운으로 배가 차거나 소화 불량이 나타날 수 있습니다.
+
+금(金)·수(水) 내재 건강:
+- 폐와 기관지(金): 내재된 신금(辛金)의 영향으로 호흡기 질환에 취약할 수 있어 겨울철 건강 관리에 주의가 필요합니다.
+- 신장과 하체(水): 내재된 계수(癸水)와 축토의 냉기가 결합하여 신장 기능과 하체 냉증에 유의해야 합니다.
+
+계절 관리: 겨울(丑月)에 기운이 가장 막히기 쉬우므로 신체를 따뜻하게 유지하고 규칙적인 운동으로 순환을 도와야 합니다. 봄이 오면 기운이 회복되므로 봄을 기점으로 새로운 도전을 시작하는 것이 유리합니다.
+
+을축(乙丑)일주는 차가운 겨울 땅을 뚫고 자라는 풀처럼, 어떤 역경에서도 꿋꿋이 자신의 길을 걸어가는 강인한 생명력을 지닌 일주입니다. 겉의 부드러움과 속의 단단함을 균형 있게 활용한다면 안정적이면서도 풍요로운 삶을 일굴 수 있습니다.
+    `.trim(),
+    content_en: `
+The Eulchuk (乙丑) Day Pillar is the second of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It combines the Heavenly Stem Yi Wood (乙木) with the Earthly Branch Chou Earth (丑土) — like supple grass and flowering vines rooting themselves in the cold, frozen earth of midwinter. This pillar's defining quality is its deceptively gentle appearance concealing a tenacious inner resolve.
+
+### 1. Basic Structure
+
+Yi Wood (乙木) is the Yin Wood Heavenly Stem — not the towering timber of Jia Wood, but the flexible, adaptive vitality of flowers, grass, and creeping vines. Chou Earth (丑土) is Yin Earth representing the cold, wet, frozen ground of deep winter.
+
+Within Chou Earth, three hidden Stems are present: Ji Earth (己土) as the dominant Qi, Xin Metal (辛金) as the middle Qi, and Gui Water (癸水) as the residual Qi. From Yi Wood's perspective as Day Master, Ji Earth represents Direct Wealth (正財), Xin Metal represents Indirect Officer (偏官), and Gui Water represents Indirect Seal (偏印). Direct Wealth in the Day Branch establishes a practical, financially aware, and stability-seeking foundation.
+
+In the 12 Life Stage system, Yi Wood as a Yin Stem travels in reverse. At Chou, Yi Wood is in Decline (衰地). The Decline stage does not mean weakness — it means maturity, steadiness, and deep endurance. These natives build patiently and persist where others give up.
+
+Energy characteristics: The flexible adaptability of Yi Wood combined with the hard, cold foundation of Chou Earth creates a person who appears accommodating on the surface but is inwardly immovable. Direct Wealth energy in the Day Branch makes them realistic, diligent, and financially astute.
+
+### 2. Personality Traits
+
+Strengths:
+- Extraordinary adaptability and survival instinct — like grass bending in the wind but never breaking
+- Exceptional patience, diligence, and capacity for sustained effort from the Decline stage influence
+- Direct Wealth (Ji Earth) bestows a practical, calculated mind with sound financial judgment
+- Outwardly warm and socially adept, maintaining harmonious relationships with ease
+- Indirect Seal (Gui Water) lends intuitive intelligence and an instinctive grasp of hidden patterns
+
+Weaknesses:
+- Yi Wood's tendency to yield can mean avoiding direct confrontation and missing key opportunities
+- The hidden Indirect Officer (Xin Metal) creates intense stress in suppressive or restrictive environments
+- The Decline stage's conservatism can manifest as reluctance to embrace change or fear of bold risks
+- Excessive attachment to Direct Wealth can make them appear calculating or overly materialistic
+- Tendency to suppress grievances inwardly, leading to accumulated resentment if left unresolved
+
+Appearance: A calm, refined impression with delicate features and often fair, smooth skin. Eyes carry depth and warmth. The Decline stage's influence means they often grow more distinguished and dignified with age.
+
+### 3. Career and Wealth
+
+Ideal careers: Direct Wealth in the Day Branch makes them excellent in roles managing or handling assets and value. Yi Wood's meticulous nature combined with Chou Earth's stability-orientation produces professionals who excel through precision and reliability.
+- Finance and accounting: Banker, accountant, tax advisor, financial manager
+- Healthcare: Doctor, pharmacist, nurse, traditional medicine practitioner
+- Legal and administrative: Attorney, notary public, civil servant
+- Agriculture and horticulture: Plant research, landscaping, gardening
+- Education and counseling: Teacher, counselor, life coach
+
+Wealth patterns: Direct Wealth in the Day Branch provides relatively stable financial prospects. These natives build wealth slowly and steadily rather than chasing quick gains. Long-term savings and conservative investments suit them far better than speculation.
+
+Business suitability: A stable career in an established organization generally suits them better than entrepreneurship. If they do start a business, niche professional services or industries with consistent demand offer the best prospects.
+
+### 4. Love and Marriage
+
+Men with Eulchuk Day Pillar: With Direct Wealth in the spouse position, they are drawn to practical, financially capable partners. They approach marriage with seriousness and strong responsibility, genuinely caring for their partner and providing tangible, consistent support.
+
+Women with Eulchuk Day Pillar: Independent and practical, they prioritize building a financially stable home. Yi Wood's adaptability means they accommodate well within relationships, but they hold firm inner standards. The hidden Indirect Officer (Xin Metal) may draw them toward capable, authoritative men.
+
+Compatible Day Pillars: Gapjin (甲辰), Gapsul (甲戌), and Mujin (戊辰) create harmonically balanced relationships. Gyeongin (庚寅) and Sinmyo (辛卯) also form mutually supportive bonds.
+
+### 5. Health Considerations
+
+Wood element health:
+- Liver and gallbladder: As a Yi Wood Day Master, liver health is paramount. Suppressed emotions and chronic stress are the primary threats.
+- Muscles and tendons: The Decline stage can reduce flexibility — regular stretching or yoga is highly beneficial.
+
+Earth element health:
+- Spleen and stomach: The cold, damp energy of Chou Earth directly affects the digestive system. Avoid cold, raw foods; eat warm, regular meals.
+- Abdominal cold: The midwinter chill of Chou Earth may manifest as a cold abdomen or digestive weakness.
+
+Latent Metal and Water health:
+- Lungs and bronchi: The hidden Xin Metal creates vulnerability to respiratory conditions, especially during seasonal transitions.
+- Kidneys and lower body: The combination of hidden Gui Water and Chou Earth's cold energy can affect kidney function and cause lower body coldness.
+
+Seasonal management: During the Chou month (mid-January to mid-February), energy is most prone to stagnation — keep warm and exercise regularly. Spring brings natural energy revival and is an ideal time to launch new projects.
+
+The Eulchuk Day Pillar, like grass that pushes through frozen winter earth, embodies stubborn vitality in the face of adversity. By balancing the gentle surface with the firm interior, these natives can build a life that is both stable and deeply abundant.
+    `.trim()
   }
 ];
