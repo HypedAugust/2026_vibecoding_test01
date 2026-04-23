@@ -813,5 +813,155 @@ Seasonal management: During the Chou month (mid-January to mid-February), energy
 
 The Eulchuk Day Pillar, like grass that pushes through frozen winter earth, embodies stubborn vitality in the face of adversity. By balancing the gentle surface with the firm interior, these natives can build a life that is both stable and deeply abundant.
     `.trim()
+  },
+  {
+    slug: "ilju-03-byeongin",
+    title: "병인(丙寅)일주 분석: 60갑자 일주 시리즈 #3",
+    title_en: "Byeongin (丙寅) Day Pillar Analysis: 60 Day Pillars Series #3",
+    date: "2026-04-23",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "거대한 숲 위로 솟아오르는 봄날의 태양, 병인일주의 넘치는 생명력과 카리스마, 그리고 리더십의 이면을 깊이 분석합니다.",
+    excerpt_en: "Like the spring sun blazing over a towering forest, Byeongin Day Pillar natives radiate warmth and commanding energy — a detailed BaZi analysis of their personality, career, love, and health.",
+    content: `
+병인(丙寅)일주는 육십갑자의 세 번째 일주로, 천간의 병화(丙火)와 지지의 인목(寅木)이 결합된 형상입니다. 거대한 원시림 위에서 불타오르는 봄날의 태양으로 비유되며, 육십갑자 중에서도 손꼽히게 강렬하고 역동적인 에너지를 품고 있는 일주입니다.
+
+### 1. 기본 구조
+
+천간 병화(丙火)는 10천간 중 양화(陽火)로, 하늘의 태양을 상징합니다. 정화(丁火)의 은은한 촛불과 달리 만물을 비추고 키워내는 거대하고 공개적인 빛의 에너지입니다. 지지 인목(寅木)은 양목(陽木)으로, 드넓은 숲을 이루는 큰 나무를 나타내며 봄의 시작을 알리는 생명력의 기운입니다.
+
+천간-지지 관계에서 인목(寅木)은 갑목(甲木, 본기), 병화(丙火, 중기), 무토(戊土, 여기)의 세 기운을 품고 있습니다. 병화(丙火) 일간 기준으로 갑목(甲木)은 편인(偏印), 병화(丙火)는 비견(比肩), 무토(戊土)는 식신(食神)에 해당합니다. 일지에 편인이 자리하여 직관력, 창의성, 독창적 사고가 성격의 근간을 이룹니다.
+
+12운성으로 보면 병화(丙火)는 인목(寅木) 위에서 장생(長生)지에 해당합니다. 장생은 생명이 막 시작되는 단계로, 육십갑자를 통틀어 가장 길하고 활기찬 운성 중 하나입니다. 무한한 가능성과 시작의 에너지, 그리고 자연스럽게 앞으로 나아가는 기질을 상징합니다.
+
+에너지 특성: 병화의 강렬한 양기와 인목의 생동하는 봄 기운이 결합하여, 두 양기(陽氣)가 서로를 더욱 강화하는 구조입니다. 목생화(木生火)의 상생 관계로 인목이 병화를 돕기 때문에, 일지가 일간을 든든하게 받쳐주는 안정적인 구조를 이룹니다.
+
+### 2. 성격과 특징
+
+장점:
+- 장생(長生)의 영향으로 타고난 리더십과 카리스마가 있어 자연스럽게 주목을 받음
+- 병화의 태양 기운처럼 주변을 밝히고 따뜻하게 만드는 강렬한 사교성과 친화력
+- 인목(편인)의 영향으로 창의적이고 직관력이 뛰어나며, 남다른 아이디어를 떠올리는 능력
+- 목생화의 상생 구조로 에너지가 넘치고, 어떤 일을 시작하든 강한 추진력을 발휘함
+- 식신(무토)의 기운으로 언변이 유창하고 표현력이 풍부하여 많은 사람들에게 영감을 줌
+
+단점:
+- 병화의 강렬함이 과해지면 독단적이거나 타인의 의견을 무시하는 모습이 나타날 수 있음
+- 태양처럼 만사를 공개적으로 드러내려 하여 비밀 유지나 은밀한 전략에 서툰 편
+- 편인의 영향으로 자신만의 방식과 규칙을 고집하고 조직의 관행에 답답함을 느끼기도 함
+- 에너지가 넘쳐 여러 일을 동시에 벌이다가 마무리를 소홀히 하는 경향이 있음
+- 비견의 내재로 경쟁 심리가 강해 지기 싫어하고 자존심 싸움에서 물러서지 않음
+
+외모 경향: 밝고 건강한 인상으로 눈빛이 강하고 표정이 생동감 있습니다. 양기(陽氣)가 강해 얼굴에 화색이 돌고 존재감이 뚜렷합니다. 몸집이 크거나 당당한 체격을 가진 경우가 많으며, 첫인상부터 강렬한 에너지를 풍깁니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 병화의 공개성·리더십과 편인(偏印)의 창의성, 식신(食神)의 표현력이 결합하여 무대 앞에 서는 직종과 창조적 전문직에서 두각을 나타냅니다.
+- 엔터테인먼트·미디어: 연예인, 방송인, 유튜버, 공연 기획자
+- 교육·강연: 강사, 교수, 연설가, 코치 (식신의 기운)
+- 정치·경영: 기업인, 정치인, 리더십을 요하는 관리직
+- 예술·창작: 작가, 화가, 디자이너, 건축가 (편인의 기운)
+- 의료·법률: 의사, 변호사 (사회적 신뢰와 공개적 역할)
+
+재물 패턴: 일지에 식신(무토)이 내재하여 재물을 만들어내는 능력이 있습니다. 다만 일간과 일지가 모두 양기(陽氣)로 강하고 소비 성향도 강해, 버는 만큼 쓰는 경향이 있습니다. 큰 그림을 보는 안목이 있어 사업적 기회를 잘 포착하지만, 과한 자신감으로 무리한 투자를 하지 않도록 주의해야 합니다.
+
+사업 적성: 자신이 중심에 서는 1인 기업이나 소규모 창업에 강합니다. 자신의 브랜드를 구축하거나 전문성을 바탕으로 한 사업이 잘 맞습니다. 조직의 부품보다는 조직의 얼굴로 서는 역할이 본래 기질에 맞습니다.
+
+### 4. 연애와 결혼
+
+남성 병인일주: 외향적이고 자신감 넘치는 매력으로 자연스럽게 이성의 관심을 받습니다. 연애에서도 적극적으로 이끌어가는 역할을 선호하며, 파트너에게 든든하고 활기찬 존재가 됩니다. 다만 지나친 자존심으로 사과나 양보를 어려워할 수 있으며, 일지 편인이 배우자 자리에 있어 독특하거나 개성 강한 상대에게 끌리는 경향이 있습니다.
+
+여성 병인일주: 주체적이고 활동적인 성향으로 자신의 커리어와 사회적 역할을 중요시합니다. 병화의 양기가 강해 관계에서도 수동적이기보다 적극적으로 이끌어가려 합니다. 편인이 일지에 있어 가정보다 외부 활동에서 에너지를 더 얻으며, 남편에게도 자신의 독립성을 존중해주길 바랍니다.
+
+궁합이 좋은 일주: 인오술(寅午戌) 삼합 화국(火局)을 이루는 갑오(甲午), 무오(戊午), 경오(庚午) 일주와 강한 인연을 맺습니다. 인해합(寅亥合)으로 갑해(甲亥), 임해(壬亥) 일주와도 조화를 이룹니다. 목생화의 상생으로 을묘(乙卯), 계묘(癸卯) 일주와도 궁합이 좋습니다.
+
+### 5. 건강 유의사항
+
+화(火) 계열 건강:
+- 심장과 소장: 병화 일간으로 심장이 에너지의 중심입니다. 과로, 과흥분, 스트레스가 심장에 직접적인 부담을 줍니다. 규칙적인 유산소 운동과 충분한 수면으로 심장을 보호해야 합니다.
+- 혈압과 순환: 양기가 강하여 혈압이 높아지거나 몸에 열이 과도하게 쌓이는 경향이 있습니다. 자극적인 음식과 음주를 절제하는 것이 중요합니다.
+
+목(木) 계열 건강:
+- 간과 담: 인목(寅木)의 영향으로 간 기능 관리가 필요합니다. 병화의 강한 양기로 간에 열이 쉽게 오를 수 있으므로 과음, 기름진 식사를 피해야 합니다.
+- 눈과 신경계: 목(木)은 눈을 주관하므로 눈의 피로와 안구 건강에 유의해야 합니다.
+
+과잉 양기(陽氣) 관리:
+- 병화와 인목이 모두 양기이므로 몸에 화기(火氣)가 과하게 축적되기 쉽습니다. 수(水) 기운을 보충하는 음식(수분 섭취, 검은콩, 해산물 등)과 계절적으로 겨울에 더욱 몸 관리에 신경 써야 합니다.
+- 과도한 양기는 조급함, 분노, 불면으로도 나타날 수 있으므로 명상이나 자연과 접하는 시간이 도움이 됩니다.
+
+계절 관리: 인월(寅月, 양력 2월 중순~3월 중순)에 기운이 절정으로 올라오므로 이 시기에 새로운 도전을 시작하기 좋습니다. 여름(午, 未월)에는 화기가 과잉될 수 있으므로 더위 관리와 심장 건강에 주의가 필요합니다.
+
+병인(丙寅)일주는 봄날의 태양이 울창한 숲 위에서 찬란히 빛나듯, 생명력과 에너지가 넘치는 특별한 일주입니다. 장생(長生)의 영기(靈氣)를 타고난 만큼 시작의 능력이 탁월하며, 자신만의 빛으로 세상을 따뜻하게 밝히는 삶을 살아갈 잠재력을 품고 있습니다.
+    `.trim(),
+    content_en: `
+The Byeongin (丙寅) Day Pillar is the third of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Bing Fire (丙火) with the Earthly Branch Yin Wood (寅木) — the image of the blazing spring sun rising over a vast primeval forest. Among the 60 Day Pillars, Byeongin stands out as one of the most intensely dynamic and radiant.
+
+### 1. Basic Structure
+
+Bing Fire (丙火) is Yang Fire — the sun itself. Unlike Ding Fire's quiet candlelight, Bing Fire is vast, public, and illuminating, giving light and warmth to all things without discrimination. Yin Wood (寅木) is Yang Wood, representing great trees and dense forests, and carries the vital energy of spring's awakening.
+
+Within Yin Wood, three hidden Stems reside: Jia Wood (甲木) as the dominant Qi, Bing Fire (丙火) as the middle Qi, and Wu Earth (戊土) as the residual Qi. From Bing Fire's perspective as Day Master, Jia Wood represents Indirect Seal (偏印), Bing Fire represents Rob Wealth (比肩/Companion), and Wu Earth represents Eating God (食神). Indirect Seal occupying the Day Branch creates a foundation of creativity, intuition, and unconventional thinking.
+
+In the 12 Life Stage system, Bing Fire at Yin Wood is in the Birth (長生 / Chang Sheng) stage — one of the most auspicious positions in all of BaZi. Chang Sheng marks the beginning of a life cycle: boundless possibility, fresh energy, and a natural forward momentum. This is the stage where vitality is at its most pristine.
+
+Energy characteristics: Both Bing Fire and Yin Wood are Yang, and Wood generates Fire (木生火), meaning the Day Branch actively supports and energizes the Day Master. This mutual reinforcement creates one of the most self-sustaining and powerful Day Pillar configurations in the 60-cycle sequence.
+
+### 2. Personality Traits
+
+Strengths:
+- Natural leadership and charisma from the Chang Sheng stage — they draw attention without effort and inspire confidence in others
+- Bing Fire's solar quality creates a warm, magnetic social presence that brightens any room
+- Indirect Seal (Jia Wood) bestows creative intelligence and powerful intuition — they see solutions others miss
+- The Wood-feeds-Fire structure gives them extraordinary drive and follow-through when motivated
+- Eating God (Wu Earth) lends fluency of expression and communicative flair — they articulate ideas with compelling clarity
+
+Weaknesses:
+- Bing Fire's intensity can tip into dominance — they may override others' input or dismiss alternative viewpoints
+- Like the sun, they tend to be transparent and public, making them poor at secrecy, subtle strategy, or maintaining mystery
+- Indirect Seal's influence can make them attached to their own unorthodox methods, resisting institutional norms
+- Overflowing energy can lead to starting many projects and underdelivering on completion and follow-through
+- The hidden Companion energy creates a competitive streak — they struggle to back down from perceived challenges to their ego
+
+Appearance: Bright and energetic impression with piercing, lively eyes. Strong Yang energy gives them a vivid complexion and an unmistakably present quality. They often have a robust or commanding physical presence and create a powerful first impression.
+
+### 3. Career and Wealth
+
+Ideal careers: The combination of Bing Fire's public, leadership energy; Indirect Seal's creative intelligence; and Eating God's expressive gifts drives them toward roles that place them at the center of attention and allow creative output.
+- Entertainment and media: Performer, broadcaster, content creator, event producer
+- Education and public speaking: Lecturer, professor, motivational speaker, coach
+- Politics and business: Entrepreneur, executive, manager in high-visibility leadership roles
+- Arts and creative fields: Writer, visual artist, designer, architect
+- Medicine and law: Physician, attorney (roles combining social trust with public responsibility)
+
+Wealth patterns: The hidden Eating God (Wu Earth) gives them the capacity to generate wealth through their own output and expertise. However, with both Day Master and Day Branch carrying strong Yang energy, spending tends to match earning. They have the vision to seize opportunities but must guard against overconfidence in high-risk ventures.
+
+Business suitability: Byeongin natives thrive in entrepreneurial ventures where they are the central figure. Personal brand building and expertise-driven businesses suit them far better than blending into large organizational hierarchies. They are made to be the face of an enterprise, not a cog within it.
+
+### 4. Love and Marriage
+
+Men with Byeongin Day Pillar: Their outward confidence and vitality draw natural romantic interest. In relationships, they prefer to lead and protect, and make energizing, steadfast partners. However, strong pride can make apologies and concessions difficult. With Indirect Seal in the spouse position, they tend to be attracted to unconventional, creative, or intellectually independent partners.
+
+Women with Byeongin Day Pillar: Independent and socially active, they place high value on personal career and public role alongside partnership. Bing Fire's Yang dominance means they naturally take the initiative rather than waiting. They need a partner who respects their autonomy and does not feel threatened by their social visibility and drive.
+
+Compatible Day Pillars: Gapoh (甲午), Muoh (戊午), and Gyeongoh (庚午) form the Yin-Oh-Sul (寅午戌) Fire trinity, creating powerful and energizing bonds. Gapmyo (甲亥) and Imhae (壬亥) complete the Yin-Hae (寅亥) combination. Eulmyo (乙卯) and Gyemyo (癸卯) also form harmonious Wood-generating-Fire relationships.
+
+### 5. Health Considerations
+
+Fire element health:
+- Heart and small intestine: As a Bing Fire Day Master, the heart is the central organ. Overwork, overstimulation, and chronic stress place direct burden on the heart. Regular aerobic exercise and adequate sleep are essential for cardiovascular protection.
+- Blood pressure and circulation: Strong Yang energy predisposes them to elevated blood pressure and excess internal heat. Reducing spicy foods, alcohol, and caffeine is particularly important.
+
+Wood element health:
+- Liver and gallbladder: Yin Wood's presence means liver function requires regular attention. Bing Fire's heat can cause the liver to overheat — minimizing alcohol and heavy, oily foods is critical.
+- Eyes and nervous system: Wood governs the eyes in Five Element theory. Eye fatigue, strain, and long-term vision care deserve consistent attention.
+
+Managing excess Yang energy:
+- With both Bing Fire and Yin Wood as Yang pillars, the body can accumulate excessive Fire energy, manifesting as irritability, impatience, anger, or insomnia. Water element foods (adequate hydration, black beans, seafood) help balance this.
+- Meditation, time in nature, and deliberate rest counterbalance the Day Pillar's relentless forward momentum.
+
+Seasonal management: The Yin month (mid-February to mid-March) is when their energy peaks naturally — ideal for launching ambitious new endeavors. Summer months (Wu, Wei) can push Fire energy into excess, making heat management and heart health top priorities during those periods.
+
+The Byeongin Day Pillar blazes like the spring sun over a great forest — one of the 60 Day Pillars most richly endowed with vitality, charisma, and creative force. Born under the auspices of Chang Sheng, they carry within them the energy of new beginnings. When they learn to direct that radiance with wisdom and discipline, few pillars can match their capacity to illuminate and transform the world around them.
+    `.trim()
   }
 ];
