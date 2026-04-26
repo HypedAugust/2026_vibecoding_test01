@@ -963,5 +963,155 @@ Seasonal management: The Yin month (mid-February to mid-March) is when their ene
 
 The Byeongin Day Pillar blazes like the spring sun over a great forest — one of the 60 Day Pillars most richly endowed with vitality, charisma, and creative force. Born under the auspices of Chang Sheng, they carry within them the energy of new beginnings. When they learn to direct that radiance with wisdom and discipline, few pillars can match their capacity to illuminate and transform the world around them.
     `.trim()
+  },
+  {
+    slug: "ilju-04-jeongmyo",
+    title: "정묘(丁卯)일주 분석: 60갑자 일주 시리즈 #4",
+    title_en: "Jeongmyo (丁卯) Day Pillar Analysis: 60 Day Pillars Series #4",
+    date: "2026-04-24",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "달빛 아래 흔들리는 꽃처럼 섬세하고 아름다운 정묘일주 — 예술적 감수성과 깊은 직관력, 그리고 목욕(沐浴)이 빚어내는 독특한 매력을 분석합니다.",
+    excerpt_en: "Like a flower swaying in moonlight, Jeongmyo Day Pillar natives carry exquisite sensitivity and artistic depth — a BaZi analysis of their creative gifts, emotional world, and life patterns.",
+    content: `
+정묘(丁卯)일주는 육십갑자의 네 번째 일주로, 천간의 정화(丁火)와 지지의 묘목(卯木)이 결합된 형상입니다. 달빛이나 촛불처럼 은은하게 빛나는 정화가 봄꽃과 풀이 무성한 묘목 위에 앉은 모습으로, 육십갑자 중에서도 섬세한 예술성과 깊은 감수성으로 손꼽히는 일주입니다.
+
+### 1. 기본 구조
+
+천간 정화(丁火)는 10천간 중 음화(陰火)로, 촛불·달빛·별빛처럼 은은하면서도 집중된 빛의 에너지입니다. 병화(丙火)의 강렬한 태양빛과 달리 주변을 부드럽게 감싸고 따뜻하게 비추는 섬세한 화기입니다. 지지 묘목(卯木)은 음목(陰木)으로, 꽃과 풀과 같은 연하고 부드러운 초목을 상징하며 봄의 생명력과 유연함을 나타냅니다.
+
+천간-지지 관계에서 묘목(卯木)은 을목(乙木) 하나만을 순수하게 품고 있는 전일지(專一支)입니다. 정화(丁火) 일간 기준으로 을목(乙木)은 편인(偏印)에 해당합니다. 일지에 편인이 자리하여 직관력, 창의성, 예술적 감각이 성격의 근간을 이루며, 배우자 궁에도 편인의 기운이 강하게 작용합니다.
+
+12운성으로 보면 정화(丁火)는 묘목(卯木) 위에서 목욕(沐浴)지에 해당합니다. 목욕은 갓 태어난 생명이 처음 씻겨지는 단계로, 예술적 재능과 감수성, 매력적인 외모, 그리고 감정의 기복을 동시에 상징합니다. 목욕지에서 태어난 사람은 남다른 예술적 감각과 미적 취향을 지니는 경우가 많습니다.
+
+에너지 특성: 목생화(木生火)의 상생 관계로 묘목의 을목이 정화를 돕는 구조입니다. 일지가 일간을 생하는 안정적인 구조이지만, 두 기운 모두 음(陰)이기 때문에 강렬함보다는 섬세하고 내향적인 방식으로 에너지가 발현됩니다. 부드러운 힘과 깊은 내공이 특징입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 목욕(沐浴)의 영향으로 타고난 예술적 감수성과 미적 감각이 뛰어나 아름다운 것에 대한 안목이 남다름
+- 정화의 따뜻하고 은은한 빛처럼 주변 사람들을 부드럽고 세심하게 배려하는 능력이 있음
+- 편인(을목)의 직관력이 강해 문자로 설명되지 않는 상황과 사람의 감정을 예민하게 포착함
+- 음음(陰陰)의 결합으로 내면이 깊고 사색적이며, 겉으로 드러나지 않는 풍부한 내적 세계를 지님
+- 목생화의 상생으로 배움에 대한 열의가 높고, 자신이 흥미를 느끼는 분야에서 깊이 있는 전문성을 키움
+
+단점:
+- 목욕의 불안정성으로 감정 기복이 있고 외부 자극에 쉽게 흔들려 결정을 번복하는 경향
+- 정화의 섬세함이 지나치면 작은 일에도 상처를 받고 예민하게 반응하는 성향이 나타남
+- 편인의 영향으로 자신만의 세계에 몰입하다 보면 현실적인 실행력이 부족해지는 경우가 있음
+- 음유적(陰柔的) 성향으로 직접적인 갈등이나 대결을 피하고 문제를 회피하려는 경향
+- 이상이 높아 현실과의 괴리감을 자주 느끼며, 완벽주의로 인해 시작을 미루기도 함
+
+외모 경향: 섬세하고 부드러운 인상으로 눈빛이 맑고 깊습니다. 음화(陰火)의 영향으로 피부가 화사하고 밝은 경우가 많으며, 전체적으로 예술적이고 감성적인 분위기를 풍깁니다. 화려하기보다 우아하고 세련된 스타일을 선호합니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 정화의 섬세한 창의성, 편인(偏印)의 직관과 학습 능력, 목욕(沐浴)의 예술적 감각이 결합하여 창조적이고 감성적인 분야에서 탁월한 능력을 발휘합니다.
+- 예술·창작: 화가, 조각가, 음악가, 소설가, 시인, 사진작가
+- 디자인·미용: 패션 디자이너, 인테리어 디자이너, 메이크업 아티스트, 스타일리스트
+- 교육·상담: 상담사, 심리치료사, 교사 (편인의 가르치고 배우는 기운)
+- 의료·치유: 한의사, 침술사, 테라피스트
+- 미디어·연기: 배우, 작가, 시나리오 작가
+
+재물 패턴: 편인이 일지에 자리하여 재물을 직접적으로 추구하기보다 자신의 전문성과 창의적 능력으로 자연스럽게 재물을 끌어들이는 스타일입니다. 정화의 음화 특성으로 큰 부를 추구하기보다 안정적이고 지속적인 수입을 선호합니다. 재물운은 자신의 재능을 꾸준히 갈고닦는 과정에서 점차 쌓여갑니다.
+
+사업 적성: 혼자만의 창의적 공간에서 깊이 있게 작업하는 1인 창작 사업이나 소규모 전문 공방, 상담·치유 센터 등에 적합합니다. 대규모 조직의 빠른 의사결정보다 자신의 속도로 깊이 있게 일할 수 있는 환경이 잘 맞습니다.
+
+### 4. 연애와 결혼
+
+남성 정묘일주: 섬세하고 로맨틱한 감성으로 이성에게 특별한 매력을 발산합니다. 목욕의 영향으로 첫인상부터 매력적으로 보이는 경우가 많습니다. 감수성이 풍부하여 파트너의 감정을 잘 이해하고 공감하지만, 자신도 쉽게 상처를 받습니다. 일지 편인의 영향으로 개성 있고 예술적인 감각을 지닌 상대에게 끌립니다.
+
+여성 정묘일주: 우아하고 신비로운 분위기로 주변의 시선을 모읍니다. 목욕지의 영향으로 이성에게 매력적으로 비치며 연애 인연이 풍부한 편입니다. 감수성이 예민하여 관계에서 섬세한 배려를 받고 싶어하며, 무뚝뚝하거나 거친 상대보다 감성적이고 따뜻한 파트너와 잘 맞습니다. 편인 배우자 궁으로 개성 있고 지적인 배우자를 만나는 경향이 있습니다.
+
+궁합이 좋은 일주: 해묘미(亥卯未) 삼합 목국(木局)을 이루는 갑해(甲亥), 임해(壬亥), 갑미(甲未), 무미(戊未) 일주와 깊은 인연을 맺습니다. 묘술합(卯戌合)으로 갑술(甲戌), 무술(戊戌), 경술(庚戌) 일주와도 강한 결합을 이룹니다. 같은 목화(木火) 기운의 갑인(甲寅), 병인(丙寅) 일주와도 조화를 이룹니다.
+
+### 5. 건강 유의사항
+
+화(火) 계열 건강:
+- 심장과 소장: 정화 일간으로 심장이 핵심 관리 장기입니다. 감정 기복이 심해지거나 스트레스를 내면에 쌓아두면 심장에 부담이 옵니다. 감정을 건강하게 표출하는 창작 활동이나 상담이 심리적·신체적 건강 모두에 도움이 됩니다.
+- 혈액 순환: 음화의 특성으로 몸이 차가워지는 경향이 있어 혈액 순환에 주의가 필요합니다. 손발 냉증이나 혈압 저하에 유의해야 합니다.
+
+목(木) 계열 건강:
+- 간과 담: 묘목(卯木)의 영향으로 간 기능 관리가 중요합니다. 감정 스트레스가 간 기능에 직접적인 영향을 줄 수 있으므로 정서적 안정이 간 건강의 열쇠입니다.
+- 눈과 신경계: 목(木)은 눈을 주관하므로 눈의 피로와 시력 관리에 주의가 필요합니다. 세밀한 창작 작업을 즐기는 성향 탓에 눈을 혹사하기 쉽습니다.
+
+목욕(沐浴) 특성의 건강:
+- 감각이 예민하여 피부 트러블이나 알레르기 반응이 나타나기 쉽습니다. 화학 성분에 민감하고 환경 변화에도 피부가 예민하게 반응할 수 있습니다.
+- 정서적 민감성이 신체 건강과 직결되어 있어, 마음이 불편할 때 신체 증상으로도 나타나는 경향이 있습니다. 규칙적인 명상, 자연 속 산책, 창작 활동으로 내면의 균형을 유지하는 것이 중요합니다.
+
+계절 관리: 묘월(卯月, 양력 3월 중순~4월 중순)이 에너지의 정점으로, 창작 활동이나 새로운 학습을 시작하기 좋은 시기입니다. 가을(酉월)에는 금극목(金剋木)으로 일지 묘목이 충을 받아 건강과 대인관계 모두 주의가 필요합니다.
+
+정묘(丁卯)일주는 달빛이 비추는 봄날의 꽃밭처럼, 은은하면서도 깊은 아름다움을 품고 있는 특별한 일주입니다. 겉으로는 부드럽고 섬세해 보이지만, 목생화의 상생이 만들어내는 내면의 힘과 편인의 깊은 직관력으로 자신만의 세계를 완성해 나갑니다. 자신의 예술적 감수성을 꽃피울 수 있는 환경을 찾을 때, 정묘일주는 비로소 진정한 빛을 발합니다.
+    `.trim(),
+    content_en: `
+The Jeongmyo (丁卯) Day Pillar is the fourth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Ding Fire (丁火) with the Earthly Branch Mao Wood (卯木) — the image of candlelight or moonlight resting gently over a field of spring flowers. Among the 60 Day Pillars, Jeongmyo is renowned for its exquisite sensitivity, artistic depth, and quietly powerful inner world.
+
+### 1. Basic Structure
+
+Ding Fire (丁火) is Yin Fire — the light of a candle, the glow of the moon, the shimmer of starlight. Unlike Bing Fire's blazing solar energy, Ding Fire is intimate, focused, and quietly illuminating. It warms what is close and inspires rather than commands. Mao Wood (卯木) is Yin Wood, representing delicate plants, flowers, and grasses — the tender, flexible vitality of spring in full bloom.
+
+Mao Wood is a pure single-element branch, containing only Yi Wood (乙木) with no secondary or residual Qi. From Ding Fire's perspective as Day Master, Yi Wood represents Indirect Seal (偏印). Indirect Seal sitting in the Day Branch creates a personality foundation of intuition, creative intelligence, and deep inner knowing — along with a tendency toward learning and independent thinking.
+
+In the 12 Life Stage system, Ding Fire at Mao Wood is in the Bath (沐浴 / Mu Yu) stage. Mu Yu represents the moment a newborn is first washed — a stage associated with artistic talent, personal magnetism, emotional sensitivity, and a certain instability that comes from heightened perceptiveness. Those born at the Bath stage often possess exceptional aesthetic sensibility and natural personal charm.
+
+Energy characteristics: Wood generates Fire (木生火), so the Day Branch actively supports and nourishes the Day Master. Both Ding Fire and Yi Wood are Yin, so this energy does not manifest as outward dominance or bold assertion — instead, it flows inward as depth, refinement, and quiet creative power. The combination produces a person of soft strength and deep reserves.
+
+### 2. Personality Traits
+
+Strengths:
+- Exceptional artistic sensibility and aesthetic discernment from the Mu Yu stage — an innate eye for beauty and refinement in all things
+- Ding Fire's gentle warmth creates a caring, empathic presence that makes others feel genuinely seen and understood
+- Indirect Seal (Yi Wood) grants powerful intuition — they read unspoken emotions, hidden motives, and subtle dynamics with remarkable accuracy
+- The dual Yin nature creates a rich, layered inner world; they are deeper and more contemplative than their quiet exterior suggests
+- Strong capacity for deep learning; when genuinely engaged, they pursue mastery with sustained, focused dedication
+
+Weaknesses:
+- Mu Yu instability means emotional fluctuations are real — external stimuli can shift their mood and cause them to reverse decisions
+- Ding Fire's sensitivity, when excessive, becomes vulnerability — small slights or perceived neglect can leave lasting emotional marks
+- Indirect Seal's influence may pull them so deeply into their own internal world that real-world follow-through suffers
+- Yin-Yin softness creates a tendency to avoid direct conflict, letting problems fester rather than addressing them head-on
+- High idealism creates a gap between vision and reality; perfectionism can make it hard to start — or to declare anything finished
+
+Appearance: Delicate and refined facial features with clear, deep eyes. Yin Fire often gives a luminous, bright complexion. The overall impression is artistic and quietly elegant rather than bold or flashy. They tend to cultivate a tasteful, understated personal style that reflects inner aesthetic refinement.
+
+### 3. Career and Wealth
+
+Ideal careers: Ding Fire's creative sensitivity, Indirect Seal's intuitive intelligence, and Mu Yu's artistic magnetism combine to make Jeongmyo natives shine in fields that reward depth, beauty, and authentic creative expression.
+- Fine arts and creation: Painter, sculptor, musician, novelist, poet, photographer
+- Design and aesthetics: Fashion designer, interior designer, makeup artist, stylist
+- Education and counseling: Counselor, psychotherapist, teacher (Indirect Seal's teaching and learning energy)
+- Healing and medicine: Traditional medicine practitioner, acupuncturist, somatic therapist
+- Media and performance: Actor, screenwriter, author
+
+Wealth patterns: With Indirect Seal in the Day Branch, Jeongmyo natives attract wealth most naturally through expertise and creative output rather than direct pursuit. Ding Fire's Yin quality means they typically prefer steady, sustainable income over high-risk high-reward speculation. Wealth accumulates gradually through the consistent refinement and expression of their talents.
+
+Business suitability: Solo creative ventures, small specialized studios, private counseling or healing practices, and artisan businesses suit them far better than large corporate environments with rapid-fire decisions. They need space to work at their own pace and according to their own standards — pressure and rigid external timelines tend to diminish rather than motivate them.
+
+### 4. Love and Marriage
+
+Men with Jeongmyo Day Pillar: They carry a quiet, romantic charm that draws others in without effort. Mu Yu's influence often makes them personally attractive from a first impression. Their emotional depth and empathy make them unusually understanding partners, but they are also easily hurt when their sensitivity goes unrecognized. Indirect Seal in the spouse position draws them toward partners who are creative, unconventional, or intellectually distinctive.
+
+Women with Jeongmyo Day Pillar: Elegant and quietly magnetic, they attract romantic attention through an air of refinement and depth. Mu Yu tends to bring rich romantic experience. They deeply value emotional attunement and tenderness in a partner, and can feel genuinely wounded by bluntness or emotional unavailability. Their spouse position (Indirect Seal) suggests a partner who is intellectually interesting, artistically inclined, or independently minded.
+
+Compatible Day Pillars: Gapmyo (甲亥), Imhae (壬亥), Gapmi (甲未), and Mumi (戊未) form the Hae-Myo-Mi (亥卯未) Wood trinity, creating deep and harmonious connections. Gyeongsul (庚戌), Musul (戊戌), and Gapsul (甲戌) complete the Myo-Sul (卯戌) combination. Gapin (甲寅) and Byeongin (丙寅) share the same Wood-into-Fire generative energy and form naturally warm bonds.
+
+### 5. Health Considerations
+
+Fire element health:
+- Heart and small intestine: As a Ding Fire Day Master, the heart is the core organ to protect. Suppressing emotions or allowing internal stress to accumulate places direct pressure on the cardiovascular system. Creative outlets and emotional expression — journaling, art, music — serve both psychological and physical health.
+- Circulation and warmth: Yin Fire tends toward coldness in the extremities. Cold hands and feet, low blood pressure, or poor peripheral circulation may be recurring concerns. Warmth, gentle movement, and circulation-supporting foods are important.
+
+Wood element health:
+- Liver and gallbladder: Mao Wood's presence calls for consistent liver care. Emotional stress in particular has a direct impact on liver function in Five Element medicine. Emotional regulation is thus literally a health practice for Jeongmyo natives.
+- Eyes and nervous system: Wood governs the eyes. Given their tendency toward fine, detailed creative work, eye strain and long-term visual health require dedicated attention.
+
+Mu Yu sensitivity:
+- Heightened sensory sensitivity can manifest as skin reactivity — allergies, eczema, or sensitivity to chemicals and environmental changes are common patterns. Natural, gentle skincare and reduced chemical exposure support skin health.
+- Emotional and physical health are tightly linked; physical symptoms (headaches, fatigue, digestive upset) often track emotional states. Regular meditation, walks in natural settings, and sustained creative expression are not luxuries — they are maintenance.
+
+Seasonal management: The Mao month (mid-March to mid-April) is their natural energy peak, ideal for launching creative projects or intensive study. The You (酉) month brings Metal energy that clashes with Mao Wood (卯酉 Chung clash), creating a period of heightened tension — in health, relationships, and focus — that calls for extra care and stability.
+
+The Jeongmyo Day Pillar glows like candlelight in a spring garden — soft in appearance but steady and sustaining in its warmth. Where Bing Fire blazes, Ding Fire endures. When Jeongmyo natives find environments that honor their depth, protect their sensitivity, and allow their creative gifts to unfold at their own pace, few Day Pillars can match the quiet beauty and lasting influence they bring to the world.
+    `.trim()
   }
 ];
