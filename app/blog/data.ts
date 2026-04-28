@@ -1113,5 +1113,159 @@ Seasonal management: The Mao month (mid-March to mid-April) is their natural ene
 
 The Jeongmyo Day Pillar glows like candlelight in a spring garden — soft in appearance but steady and sustaining in its warmth. Where Bing Fire blazes, Ding Fire endures. When Jeongmyo natives find environments that honor their depth, protect their sensitivity, and allow their creative gifts to unfold at their own pace, few Day Pillars can match the quiet beauty and lasting influence they bring to the world.
     `.trim()
+  },
+  {
+    slug: "ilju-05-mujin",
+    title: "무진(戊辰)일주 분석: 60갑자 일주 시리즈 #5",
+    title_en: "Mujin (戊辰) Day Pillar Analysis: 60 Day Pillars Series #5",
+    date: "2026-04-28",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "봄날의 거대한 들판처럼 듬직하고 포용력 깊은 무진일주 — 백호와 관대(冠帶)가 빚어내는 카리스마, 그리고 비견이 만드는 강한 자아의 세계를 분석합니다.",
+    excerpt_en: "Like a vast spring plain rich with hidden moisture, Mujin Day Pillar natives carry quiet authority and unshakable resolve — a BaZi analysis of their charisma, ambition, relationships, and inner strength.",
+    content: `
+무진(戊辰)일주는 육십갑자의 다섯 번째 일주로, 천간의 무토(戊土)와 지지의 진토(辰土)가 결합된 형상입니다. 광활한 봄 들판이 깊이 모인 물과 새 생명을 품은 모습으로, 육십갑자 중에서도 묵직한 카리스마와 강인한 의지로 손꼽히는 일주입니다. 또한 무진은 전통적으로 백호살(白虎殺) 일주에 해당하여, 평범하지 않은 운명적 굴곡을 동반하는 강한 일주로 알려져 있습니다.
+
+### 1. 기본 구조
+
+천간 무토(戊土)는 10천간 중 양토(陽土)로, 큰 산이나 광활한 대지·고원처럼 거대하고 움직이지 않는 토의 에너지를 상징합니다. 신뢰·중심·포용·항상성의 기운이며, 외부 풍파에 쉽게 흔들리지 않는 단단함이 본질입니다. 지지 진토(辰土)는 양토(陽土)로, 봄 끝자락의 습한 토양 — 만물이 자라나는 옥토이자 동시에 수기(水氣)를 머금은 수고(水庫)입니다.
+
+천간-지지 관계에서 진토(辰土)의 지장간은 을목(乙木)·계수(癸水)·무토(戊土)로 구성되며, 본기는 무토입니다. 무토(戊土) 일간 기준으로 본기 무토는 비견(比肩), 중기 계수는 정재(正財), 여기 을목은 정관(正官)에 해당합니다. 즉 일지 안에 비견·정재·정관이 함께 들어 있어 자아·재물·명예의 기운을 동시에 품은 매우 두터운 일지입니다.
+
+12운성으로 보면 무토(戊土)는 진토(辰土) 위에서 관대(冠帶)에 해당합니다. 관대는 청년이 성년의 관(冠)과 띠(帶)를 두르는 단계로, 사회 진출과 책임감, 강한 의욕과 야망, 자존심을 상징합니다. 관대 일주는 어릴 때부터 또래보다 어른스러우며, 사회적 역할에 대한 의식이 빠르게 자리 잡는 경향이 있습니다.
+
+신살: 무진은 백호살(白虎殺) 일주에 해당합니다. 백호는 격렬한 변동·사고·이별 등 운명적인 굴곡을 의미하지만, 동시에 강한 카리스마·돌파력·생존력을 부여하는 양면적 신살입니다. 또한 진토는 화개(華蓋) 기운을 품고 있어 종교·예술·학문 같은 정신적·문화적 영역과의 인연도 깊습니다.
+
+에너지 특성: 토토(土土)의 동기(同氣) 결합으로 일간이 일지의 강한 지원을 받습니다. 게다가 양토양토라 에너지의 양이 매우 두텁고 단단하지만, 진토 안의 계수가 잠재된 자양분이 되어 메마른 토가 아니라 만물을 길러내는 비옥한 토로 작용합니다. 외강내강(外剛內剛)에 자기 안에 깊은 물(지혜·재물·여유)을 품은 구조입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 비견(比肩)이 일지 본기로 자리하여 자존감이 높고 독립적이며, 누구에게도 쉽게 휘둘리지 않는 단단한 자아를 지님
+- 무토의 양토 기질로 신용과 책임감이 두터워 한 번 약속한 일은 끝까지 지켜내는 우직한 신뢰감을 지님
+- 관대(冠帶)의 영향으로 의욕과 추진력이 강하고, 사회적 역할이나 직책에 대한 책임을 일찍부터 자각함
+- 진토의 화개·수고 기운으로 학문·종교·예술 등 정신적 영역에 대한 깊은 통찰과 관심을 품고 있음
+- 백호의 강한 기운이 위기 상황에서 비범한 돌파력과 카리스마로 발현되어 큰 무대에서 빛을 발함
+
+단점:
+- 양토양토의 무거움으로 고집이 매우 세고 한 번 결정한 것을 잘 바꾸지 않으며, 융통성이 부족할 수 있음
+- 비견의 강한 자아로 타인의 의견을 받아들이기 어렵고, 동료·형제와 주도권 다툼이 일어나기 쉬움
+- 평소에는 무뚝뚝하고 감정을 잘 드러내지 않다가 한계를 넘으면 백호의 격렬한 분노로 폭발하는 양상
+- 관대(冠帶)의 자존심이 강해 자신을 무시하는 듯한 태도에 매우 민감하게 반응
+- 토 과다 시 답답함·둔중함·의심이 깊어지고, 새로운 변화를 받아들이는 속도가 느려질 수 있음
+
+외모 경향: 체격이 듬직하고 골격이 단단하며, 어깨가 넓고 안정감 있는 인상을 줍니다. 양토의 영향으로 피부는 다소 두텁고 건강한 빛이 돌며, 얼굴 윤곽이 뚜렷하고 위엄이 느껴지는 경우가 많습니다. 화려하기보다 묵직하고 신뢰감 있는 분위기를 풍깁니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 무토의 묵직한 신뢰감, 비견(比肩)의 강한 추진력, 관대(冠帶)의 사회적 야망, 진토에 잠재된 정재·정관의 기운이 결합하여 사람·자본·조직을 다루는 큰 무대에서 능력이 발휘됩니다.
+- 부동산·건축·토목: 부동산 개발, 건축, 토목, 인테리어, 도시 계획
+- 농업·환경: 농업·축산·임업, 환경 컨설팅, 조경
+- 군경·법조: 군인, 경찰, 검사, 변호사 (백호의 강한 기운과 잘 맞음)
+- 경영·정치: 사업가, CEO, 정치인, 행정 관리자, 조직 관리
+- 종교·학문: 종교인, 철학자, 역사·인문 연구자 (화개·수고의 정신적 기운)
+
+재물 패턴: 진토 안에 정재(계수)가 깊이 잠겨 있어 재물의 그릇이 큰 일주이지만, 본기가 비견이므로 재물을 혼자 독점하기보다 동료·가족·공동체와 나누어 쓰는 구조가 본질입니다. 단기 투기보다는 장기적이고 실물에 기반한 자산(부동산, 토지, 사업체) 축적에 강하며, 신용을 바탕으로 한 점진적 부의 형성이 특징입니다.
+
+사업 적성: 비견과 관대(冠帶)의 영향으로 남 밑에서 오래 일하기 어렵고, 자기 사업·자기 영역을 갖추고자 하는 욕구가 매우 강합니다. 단, 비견이 강해 동업은 신중해야 하며 — 처음에는 의리로 함께 시작해도 주도권 문제로 갈등이 생기기 쉽습니다. 본인이 단독 결정권을 갖되 실무는 신뢰할 수 있는 조력자에게 위임하는 구조가 가장 잘 맞습니다.
+
+### 4. 연애와 결혼
+
+남성 무진일주: 일지 본기가 비견(처궁이 비견에 의해 점유)이라 부부 관계에서 주도권 갈등이나 거리감이 발생하기 쉽습니다. 다만 진토 중기에 정재(계수)가 함께 들어있어 좋은 배우자 인연 자체는 분명히 존재하며, 자신을 이해하고 묵묵히 지지해 주는 부드럽고 차분한 여성과 깊은 인연을 맺습니다. 자기주장이 너무 강한 상대보다 포용력 있는 상대와 더 안정적입니다.
+
+여성 무진일주: 진토 여기에 정관(을목)이 들어있어 남편 인연 자체는 명료하지만, 백호살(白虎殺)과 비견의 영향으로 결혼 생활에 굴곡이나 별리의 가능성이 있다고 전해지는 일주입니다. 본인이 매우 능력 있고 자립적이라 평범한 남편 자리를 견디지 못하고 주도하려는 경향이 있으며, 자신만큼 강하면서도 자신을 인정해 주는 파트너와 만나야 안정됩니다. 결혼을 늦추거나 늦게 만난 인연일수록 안정적인 경향이 있습니다.
+
+궁합이 좋은 일주: 신자진(申子辰) 삼합 수국(水局)을 이루는 임신(壬申), 경신(庚申), 임자(壬子), 경자(庚子) 일주와 깊은 인연을 맺습니다. 진유합(辰酉合) 금국(金局)으로 신유(辛酉), 계유(癸酉), 정유(丁酉) 일주와도 강한 결합을 이룹니다. 같은 토 기운으로 안정감을 더해주는 기축(己丑), 기미(己未) 일주와도 신뢰의 인연을 맺습니다.
+
+### 5. 건강 유의사항
+
+토(土) 계열 건강:
+- 비위(脾胃)와 소화기: 무토 일간으로 비위가 핵심 관리 장기입니다. 양토양토로 토의 기운이 과중하므로 소화불량·위염·복부 비만에 주의해야 하며, 폭식과 단 음식은 특히 좋지 않습니다.
+- 당뇨와 대사 질환: 토 과다는 당 대사 이상으로 이어질 수 있어 중년 이후 혈당 관리가 매우 중요합니다. 규칙적인 식사 시간과 가벼운 식단이 도움이 됩니다.
+
+수(水) 계열 건강:
+- 신장과 방광: 진토는 수고(水庫)로 수기를 잠재한 토이므로, 토가 너무 두꺼워지면 안에 갇힌 수기가 정체되어 신장·방광·생식기 계통의 잠재적 문제로 이어질 수 있습니다. 충분한 수분 섭취와 하체 운동이 권장됩니다.
+- 허리와 무릎: 양토의 무게가 하체로 집중되기 쉬워 허리 디스크·무릎 관절 문제에 유의해야 합니다.
+
+백호(白虎) 특성의 건강:
+- 백호살의 영향으로 갑작스러운 사고·수술·외상의 가능성이 다소 높다고 보아, 무리한 활동이나 위험한 환경에서의 작업은 특별히 조심하는 것이 좋습니다.
+- 평소 감정을 안으로 눌러두다 폭발하는 패턴이 신체 건강에도 영향을 주므로, 운동·명상·산행 등 토(土) 기운을 자연 속에서 풀어주는 활동이 매우 중요합니다.
+
+계절 관리: 진월(辰月, 양력 4월 초~5월 초)이 에너지의 정점으로, 자기 영역을 확장하거나 큰 결정을 내리기 좋은 시기입니다. 술월(戌月, 양력 10월)에는 진술충(辰戌沖)이 일어나 일지가 흔들리므로 건강·인간관계·계약 모두 변동에 주의해야 합니다. 여름철에는 토가 메마르기 쉬워 수분 보충에 특히 신경 써야 합니다.
+
+무진(戊辰)일주는 비옥한 봄 들판처럼 겉으로는 묵직하고 단단해 보이지만, 그 안에 깊은 물과 새 생명을 품고 있는 풍요로운 일주입니다. 백호와 관대의 격렬한 기운을 자기 절제와 책임감으로 다스릴 때, 무진일주는 자신만의 영역을 일구고 사람과 자본을 끌어모으는 큰 그릇으로 완성됩니다.
+    `.trim(),
+    content_en: `
+The Mujin (戊辰) Day Pillar is the fifth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Wu Earth (戊土) with the Earthly Branch Chen Earth (辰土) — the image of a vast spring plain holding hidden moisture and new life. Among the 60 Day Pillars, Mujin is celebrated for its weighty charisma and unshakable resolve. It is also traditionally classified as a Bai Hu (白虎 / White Tiger) Day Pillar, marking it as a fate of pronounced intensity, dramatic turning points, and uncommon strength.
+
+### 1. Basic Structure
+
+Wu Earth (戊土) is Yang Earth — the great mountain, the high plateau, the immovable ground. It carries the energy of trustworthiness, centeredness, capacity, and constancy; its essence is unmoved by storm and weather. Chen Earth (辰土) is also Yang Earth — late-spring soil, fertile and damp, simultaneously the cradle of new growth and a "Water Storehouse" (水庫) holding deep moisture beneath the surface.
+
+The Earthly Branch Chen contains Yi Wood (乙木), Gui Water (癸水), and Wu Earth (戊土) as its hidden stems, with Wu Earth as the dominant root Qi. From Wu Earth's perspective as Day Master, the dominant Wu Earth is Friend / Companion (比肩 / Bi Jian), the middle Gui Water is Direct Wealth (正財), and the residual Yi Wood is Direct Officer (正官). The Day Branch thus simultaneously holds self, wealth, and reputation — an unusually rich and substantial structure.
+
+In the 12 Life Stage system, Wu Earth at Chen is in the Capping Stage (冠帶 / Guan Dai). Guan Dai represents the moment a young adult dons the cap and belt of social maturity — a stage of ambition, responsibility, strong will, and self-respect. Day Pillars at Guan Dai often mature early, become conscious of social roles ahead of their peers, and carry an authoritative bearing from a young age.
+
+Spirit markers: Mujin is a Bai Hu (白虎 / White Tiger) Day Pillar, an auxiliary marker associated with dramatic turns of fortune, accidents, and separations — but also with raw charisma, breakthrough power, and survival force. Chen also carries the Hua Gai (華蓋) energy, drawing Mujin natives toward religion, the arts, philosophy, and other inner-life disciplines.
+
+Energy characteristics: Earth-on-Earth (土土) is a same-element relationship, so the Day Master receives strong direct support from the Day Branch. Both elements being Yang creates an unusually thick, dense reserve of Earth energy — but the Gui Water hidden inside Chen keeps the soil moist and fertile rather than parched. The result is outward strength layered over inward strength, with a quiet underground reservoir of moisture (wisdom, wealth, depth) within.
+
+### 2. Personality Traits
+
+Strengths:
+- Companion as the dominant hidden stem creates a powerful, independent self — Mujin natives are not easily swayed and hold their ground under pressure
+- Wu Earth's Yang quality grants deep trustworthiness; once they commit, they keep the commitment, and people quickly learn they can rely on them
+- Guan Dai (Capping Stage) gives early ambition and a strong sense of social role; they often take on responsibility long before peers
+- Chen's Hua Gai and Water Storehouse energy bring genuine depth in scholarship, religion, and the arts — they think long thoughts and care about meaning, not just outcomes
+- The latent Bai Hu force becomes breakthrough charisma in crises; they are the people you want in the room when something hard has to be done
+
+Weaknesses:
+- Yang Earth on Yang Earth creates real stubbornness; once a decision is made, changing it is difficult, and flexibility can suffer
+- Strong Companion energy makes it hard to accept other people's opinions, and disputes over leadership with siblings, partners, or peers are common
+- They appear stoic and withdrawn most of the time, but accumulated frustration can erupt as Bai Hu's intense anger when limits are breached
+- Guan Dai pride is sharp — perceived disrespect cuts deep and is remembered for a long time
+- Excess Earth makes them slower to embrace change; new ideas, new methods, and new people can take time to be admitted into their world
+
+Appearance: Solid build with strong bones, broad shoulders, and an unmistakably grounded presence. Yang Earth tends to give thick, healthy skin and clearly defined facial features that read as authoritative and dignified. Their aura is weighty and trustworthy rather than flashy or quick.
+
+### 3. Career and Wealth
+
+Ideal careers: Wu Earth's gravitas, Companion's drive, Guan Dai's ambition, and the Direct Wealth and Direct Officer hidden in Chen combine to make Mujin natives effective on stages where people, capital, and institutions must be managed.
+- Real estate, construction, civil engineering: Property development, architecture, infrastructure, urban planning
+- Agriculture and environment: Farming, forestry, environmental consulting, landscape design
+- Military, police, law: Soldier, officer, prosecutor, attorney — the Bai Hu force aligns naturally with high-stakes, disciplined fields
+- Management and politics: Executive, founder, politician, senior administrator, organizational leadership
+- Religion and scholarship: Clergy, philosophers, historians, scholars of the humanities (drawing on Hua Gai and the Water Storehouse)
+
+Wealth patterns: The Direct Wealth (Gui Water) hidden deep inside Chen suggests a substantial wealth container — but with Companion as the dominant stem, the natural pattern is wealth shared with family, partners, or community rather than hoarded alone. Mujin natives build wealth through long-term, tangible assets (real estate, land, operating businesses) and through trust-based, gradual accumulation, not through speculation.
+
+Business suitability: Strong Companion plus Guan Dai means Mujin natives rarely thrive long-term as employees of someone else — the urge to own their domain is deep. However, partnership requires real caution: ventures launched with friends out of loyalty often hit leadership conflicts later. The healthiest structure gives them sole decision-making authority while delegating execution to trusted operators.
+
+### 4. Love and Marriage
+
+Men with Mujin Day Pillar: With Companion as the dominant hidden stem of the spouse position, the marital chair is partly occupied by the self — leadership tensions and emotional distance with a spouse can arise. Yet Direct Wealth (Gui Water) also resides in Chen, so genuine spousal connection is real; they tend to bond most deeply with calm, supportive women who quietly back them. Partners who match them in willfulness often clash; partners with depth and patience bring stability.
+
+Women with Mujin Day Pillar: Direct Officer (Yi Wood) sits in the residual position of Chen, so the spouse connection is clearly present, but Bai Hu and Companion together suggest marital life with real turning points — including the traditional reputation of Mujin women for separation or marital turbulence. They are typically highly capable and self-reliant, finding it hard to defer to an ordinary partnership; stability comes with a partner who is equally strong yet genuinely respects their authority. Later marriages and partners met after personal establishment tend to be more durable.
+
+Compatible Day Pillars: Imsin (壬申), Gyeongsin (庚申), Imja (壬子), and Gyeongja (庚子) form the Sin-Ja-Jin (申子辰) Water trinity with Chen, creating deep and resonant bonds. Sinyu (辛酉), Gyeyu (癸酉), and Jeongyu (丁酉) complete the Jin-Yu (辰酉) Metal combination. Same-element Earth pillars Gichuk (己丑) and Gimi (己未) bring steady, trust-based companionship.
+
+### 5. Health Considerations
+
+Earth element health:
+- Spleen, stomach, and digestion: As a Wu Earth Day Master, the spleen-stomach system is the core organ to protect. With Yang on Yang Earth, total Earth Qi is heavy — indigestion, gastritis, and abdominal weight gain are common patterns. Overeating and excess sugar are especially harmful.
+- Diabetes and metabolic syndrome: Excess Earth often shows up as glucose-metabolism issues; mid-life onward, blood sugar management becomes a serious priority. Regular meal timing and lighter meals help significantly.
+
+Water element health:
+- Kidneys and bladder: Chen is a Water Storehouse, holding latent Water Qi inside Earth. When the Earth becomes too thick, that buried Water can stagnate, eventually surfacing as kidney, bladder, or reproductive concerns. Adequate hydration and lower-body movement are protective.
+- Lower back and knees: Yang Earth weight tends to settle in the lower body, putting the lumbar spine and knees at risk over time.
+
+Bai Hu (White Tiger) considerations:
+- Bai Hu's influence is associated with sudden accidents, surgeries, and physical traumas; high-risk activities and unsafe work environments call for above-average caution.
+- The pattern of suppressing emotions and then exploding under pressure has direct physical consequences. Movement, meditation, mountain hiking, and other practices that release Earth Qi into nature are not optional indulgences — they are real preventive medicine.
+
+Seasonal management: The Chen month (early April to early May) is their natural energy peak — the right time to expand territory or make significant decisions. The Xu (戌) month (October) brings the Jin-Sul (辰戌) Chung clash that destabilizes the Day Branch, calling for added care in health, relationships, and contracts. Summer dries the soil; deliberate hydration and cooling foods help maintain balance.
+
+The Mujin Day Pillar is like a fertile spring plain — outwardly weighty and unmoving, yet holding deep water and the seed of new growth within. When Mujin natives bring discipline and self-control to bear on the intense energies of Bai Hu and Guan Dai, few Day Pillars can match their capacity to build lasting territory and to gather people, capital, and meaning around them.
+    `.trim()
   }
 ];
