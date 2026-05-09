@@ -1267,5 +1267,159 @@ Seasonal management: The Chen month (early April to early May) is their natural 
 
 The Mujin Day Pillar is like a fertile spring plain — outwardly weighty and unmoving, yet holding deep water and the seed of new growth within. When Mujin natives bring discipline and self-control to bear on the intense energies of Bai Hu and Guan Dai, few Day Pillars can match their capacity to build lasting territory and to gather people, capital, and meaning around them.
     `.trim()
+  },
+  {
+    slug: "ilju-06-gisa",
+    title: "기사(己巳)일주 분석: 60갑자 일주 시리즈 #6",
+    title_en: "Gisa (己巳) Day Pillar Analysis: 60 Day Pillars Series #6",
+    date: "2026-05-09",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "초여름 따뜻한 정원에 내리쬐는 강한 햇살처럼 — 정인(正印) 위에 단단히 뿌리내린 기사일주의 총명함, 부드러움 속 강한 자존감, 그리고 학문·종교·예술과의 깊은 인연을 분석합니다.",
+    excerpt_en: "Like a warm garden bathed in early summer sun, Gisa Day Pillar natives are gentle on the surface yet rooted in deep self-assurance — a BaZi analysis of their intelligence, refined warmth, career strengths, and the spiritual depth they quietly carry.",
+    content: `
+기사(己巳)일주는 육십갑자의 여섯 번째 일주로, 천간의 기토(己土)와 지지의 사화(巳火)가 결합된 형상입니다. 초여름 부드러운 정원이 한낮의 강한 햇살을 받아 만물을 키워내는 모습으로, 외유내강(外柔內剛) — 겉은 부드럽고 다정하나 속에는 단단한 자존감과 총명함을 품은 일주로 알려져 있습니다.
+
+### 1. 기본 구조
+
+천간 기토(己土)는 10천간 중 음토(陰土)로, 큰 산이 아닌 텃밭·논밭·정원 같은 부드럽고 비옥한 토의 에너지를 상징합니다. 양육·포용·세심함·실용성의 기운이며, 만물을 직접 길러내는 살아 있는 토양의 본질을 가집니다. 지지 사화(巳火)는 음지지로 분류되지만 본기는 양화(陽火)인 병화(丙火)로, 한낮 정오 직전의 가장 뜨겁고 활동적인 햇살의 기운을 품고 있습니다.
+
+천간-지지 관계에서 사화(巳火)의 지장간은 무토(戊土)·경금(庚金)·병화(丙火)로 구성되며, 본기는 병화(丙火)입니다. 기토(己土) 일간 기준으로 본기 병화는 정인(正印), 중기 경금은 상관(傷官), 여기 무토는 겁재(劫財)에 해당합니다. 즉 일지 안에 정인·상관·겁재가 함께 들어 있어 학문과 표현력, 그리고 강한 자아의 기운을 동시에 품고 있는 구조입니다.
+
+12운성으로 보면 기토(己土)는 사화(巳火) 위에서 제왕(帝旺)에 해당합니다. 제왕은 12운성 중 가장 에너지가 왕성한 단계로, 자기 영역에서 정점에 이른 군주의 기운을 상징합니다. 강한 자존감, 흔들리지 않는 중심, 리더십, 그리고 자기 확신이 강하게 발현되는 자리입니다.
+
+신살: 기사일주는 사주명리 실무에서 큰 흉살에 해당하지 않는 비교적 안정된 일주로 보지만, 사화 자체가 역마(驛馬) 성분을 강하게 지녀 활동성·이동·해외 인연이 두드러집니다. 또한 사화는 화개(華蓋)에 준하는 정신적 기운을 보조하여, 인성과 결합할 때 종교·학문·정신 수양과의 인연을 깊게 합니다.
+
+에너지 특성: 화생토(火生土)의 상생 관계로 일지 사화가 일간 기토를 강하게 생해주는 구조입니다. 게다가 일지에서 일간이 제왕에 처해 있어, 기사일주는 음간임에도 불구하고 일간의 힘이 매우 강합니다. 외양은 음토의 부드러움이지만, 속에는 정인의 빛과 제왕의 자신감이 단단히 자리하여 외유내강의 표본을 이룹니다.
+
+### 2. 성격과 특징
+
+장점:
+- 정인(正印)이 일지 본기로 자리하여 총명하고 학문적 이해가 빠르며, 지식과 지혜를 사랑하는 본성을 지님
+- 음토의 따뜻한 기질로 사람을 품고 보살피는 양육 본능이 강하며, 주변 사람들에게 모성·부성적 존재로 비치기 쉬움
+- 제왕(帝旺)의 영향으로 부드러운 외양 안에 흔들리지 않는 중심과 강한 자존감이 자리함
+- 사화의 활동적 기운으로 사교성과 표현력이 풍부하고, 어두운 자리에서도 분위기를 밝히는 힘이 있음
+- 상관(傷官) 중기의 영향으로 손재주·언변·예술 감각이 뛰어나며, 새로운 아이디어와 창의력이 풍부함
+
+단점:
+- 정인이 강해 생각이 깊고 신중하지만 동시에 지나치게 의심하거나 결정을 미루는 경향이 있음
+- 제왕의 자존심이 매우 강해 자신을 무시하거나 가르치려 드는 태도에 민감하게 반응함
+- 사화의 변동성과 상관의 표현 욕구가 결합해 감정 기복과 말의 기복이 클 수 있음
+- 겁재(劫財) 여기의 영향으로 형제·동료·동업자와 재물·주도권 다툼이 일어나기 쉬움
+- 인성이 과다할 때 의존성·게으름·결정 장애로 이어질 수 있으며, 머리로만 그리고 실행은 미루는 패턴이 나타날 수 있음
+
+외모 경향: 얼굴이 둥글둥글하고 윤기가 있으며, 미소가 따뜻하고 친근한 인상을 줍니다. 음토의 부드러움과 사화의 빛나는 기운이 결합하여 눈빛이 총명하고 맑아 보이며, 살이 잘 붙는 체질로 후덕한 인상을 풍깁니다. 화려하기보다 단정하고 정갈한 분위기가 특징입니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 정인의 학문 기운, 제왕의 자기 확신, 사화의 활동성, 그리고 상관의 표현력이 결합하여 사람을 가르치고 이끄는 영역, 정신적·문화적 영역에서 능력이 발휘됩니다.
+- 교육·연구: 교사, 교수, 학원 강사, 연구원, 작가, 편집자 (정인 본기의 핵심 직업)
+- 종교·정신문화: 종교인, 상담가, 명리·역학 연구자, 심리상담사 (인성과 화개 기운)
+- 의료·약학: 의사, 한의사, 약사, 간호사, 영양사 (양육 본성과 인성)
+- 예술·문화: 예술가, 디자이너, 공연 기획자, 문화 콘텐츠 제작자 (상관과 사화의 빛)
+- 자영업·서비스: 음식·교육·예술 분야의 자영업, 컨설팅 (제왕의 자영업 적성)
+
+재물 패턴: 일지에 재성(財星)이 직접 자리하지 않고 인성(印星)이 자리하므로, 재물의 그릇은 큰 편이 아니지만 학문·자격·전문성을 매개로 한 안정된 수입 구조에 강합니다. 사화의 역마 기운으로 활동·이동·강의·출장 등을 통한 수입이 자연스러우며, 한 번 자리 잡은 분야에서는 명성과 신뢰를 통해 꾸준한 부를 쌓아갑니다. 단기 투기보다는 자격증·지식·콘텐츠 같은 무형 자산이 본질적인 재산 형태입니다.
+
+사업 적성: 제왕의 강한 자아로 남 밑에서 오래 일하기 어려우며, 자기 이름과 전문성으로 운영하는 1인 기업·전문가형 사업에 매우 잘 맞습니다. 다만 겁재 여기의 영향으로 동업은 신중해야 하며 — 친한 사이일수록 재물 문제로 신뢰가 흔들릴 수 있으므로 처음부터 역할과 지분을 명확히 해야 합니다. 강의·집필·콘텐츠·온라인 비즈니스처럼 본인의 지식과 표현력이 직접 자산이 되는 모델이 가장 잘 맞습니다.
+
+### 4. 연애와 결혼
+
+남성 기사일주: 일지 본기가 정인(어머니·보호자의 기운)이라 처궁(妻宮)이 인성에 의해 점유되어, 배우자 자리에 모친의 영향이 깊게 자리합니다. 결혼 후에도 어머니와의 정이 깊고, 처가 모친 같은 보살핌을 주는 성숙한 여성일 때 가장 안정됩니다. 너무 어리고 의존적인 상대보다 지적이고 자립심 있는 연상 또는 동년배의 차분한 여성과 깊은 인연을 맺는 경향이 있습니다.
+
+여성 기사일주: 일지에 정관(남편)이 직접 자리하지 않고 정인(시어머니·학문)이 자리하여, 결혼 후 시댁과의 관계가 운명의 중요한 변수가 됩니다. 본인이 매우 총명하고 자기 영역이 분명한 여성이라, 자신을 통제하려는 가부장적 남편보다는 지적인 대화가 가능하고 본인의 활동을 존중하는 파트너와 잘 맞습니다. 사화의 활동적 매력으로 인기는 많은 편이며, 결혼은 다소 늦게 — 자신의 전문성이 자리 잡은 뒤에 — 만나는 인연이 더 안정적입니다.
+
+궁합이 좋은 일주: 사유축(巳酉丑) 삼합 금국(金局)을 이루는 신유(辛酉), 계유(癸酉), 정유(丁酉), 신축(辛丑) 일주와 깊은 인연을 맺습니다. 사신합(巳申合)으로 임신(壬申), 경신(庚申), 갑신(甲申) 일주와도 강한 결합을 이룹니다. 같은 토 기운으로 안정감을 더해주는 무진(戊辰), 기축(己丑), 기미(己未) 일주와도 신뢰의 인연이 형성됩니다. 다만 사해충(巳亥沖)을 일으키는 해(亥) 일주들과는 갈등과 변동이 잦으므로 신중함이 필요합니다.
+
+### 5. 건강 유의사항
+
+토(土) 계열 건강:
+- 비위(脾胃)와 소화기: 기토 일간으로 비위·췌장이 핵심 관리 장기입니다. 음토 특성상 과로나 스트레스가 곧 위장 트러블로 나타나기 쉬우며, 신경성 위염·과민성 대장 증후군에 취약합니다.
+- 당 대사: 토 일간 공통으로 췌장 기능과 혈당 관리가 중요하며, 단 음식·과식이 누적되면 당뇨 경향으로 이어질 수 있습니다.
+
+화(火) 계열 건강:
+- 심장과 혈압: 일지 사화의 강한 화 기운으로 심장·혈압·순환기 계통의 부담이 누적되기 쉽습니다. 카페인 과다와 스트레스성 흥분 상태가 길어지지 않도록 관리해야 합니다.
+- 눈과 두통: 사화는 빛과 열의 기운이라 눈의 피로·안구건조·편두통이 자주 나타날 수 있으며, 화면 작업이 많은 직업이라면 의식적인 휴식이 중요합니다.
+
+정신 건강:
+- 정인이 강해 머릿속 생각이 많고, 결정을 내리기까지 깊이 고민하는 패턴이 누적되면 불면·신경쇠약·만성 피로로 이어질 수 있습니다.
+- 사화의 활동성과 인성의 사색이 균형을 이루지 못하면 무기력 또는 과잉 활동의 양극을 오갈 수 있으므로, 명상·산책·규칙적 생활 리듬이 매우 중요합니다.
+
+계절 관리: 사월(巳月, 양력 5월 초~6월 초)이 에너지의 정점으로, 새로운 학습이나 도전을 시작하기 좋은 시기입니다. 해월(亥月, 양력 11월)에는 사해충(巳亥沖)이 일어나 일지가 흔들리므로 건강·인간관계·이동 모두 변동에 주의해야 합니다. 한여름에는 화 기운 과다로 심신이 모두 과열되기 쉬우므로 의식적인 냉정과 충분한 수분이 필요합니다.
+
+기사(己巳)일주는 부드러운 정원 위로 한낮의 빛이 내리쬐는 모습 — 외양은 따뜻하고 다정하지만, 그 안에 정인의 총명함과 제왕의 단단한 중심을 품은 외유내강의 일주입니다. 자신의 지혜와 표현력을 자기 영역으로 만들 때, 기사일주는 사람들을 가르치고 따뜻하게 비추는 등불이 되어 자기만의 빛나는 자리를 완성합니다.
+    `.trim(),
+    content_en: `
+The Gisa (己巳) Day Pillar is the sixth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Ji Earth (己土) with the Earthly Branch Si Fire (巳火) — the image of a soft early-summer garden bathed in the strong midday sun, nourishing all things. Gisa is celebrated as a study in outer softness and inner strength: gentle and warm on the surface, yet rooted in quiet self-assurance and a sharp, well-lit mind.
+
+### 1. Basic Structure
+
+Ji Earth (己土) is Yin Earth — not the great mountain, but the cultivated garden, the rice paddy, the kitchen plot. It carries the energy of nurturing, capacity, attentiveness, and practicality; its essence is the living soil that directly grows life. Si Fire (巳火) is classified as a Yin Branch but its dominant hidden stem is Yang Fire (丙火 / Bing Huo) — the brightest, hottest light just before noon, all activity and expansion.
+
+The Earthly Branch Si contains Wu Earth (戊土), Geng Metal (庚金), and Bing Fire (丙火) as its hidden stems, with Bing Fire as the dominant root Qi. From Ji Earth's perspective as Day Master, the dominant Bing Fire is Direct Resource / Direct Seal (正印 / Zheng Yin), the middle Geng Metal is Hurting Officer (傷官 / Shang Guan), and the residual Wu Earth is Rob Wealth (劫財 / Jie Cai). The Day Branch thus simultaneously holds learning, expression, and a strong sense of self.
+
+In the 12 Life Stage system, Ji Earth at Si is in the Imperial Authority Stage (帝旺 / Di Wang). Di Wang is the most energetically full of all twelve stages — the sovereign at the height of personal authority. It produces strong self-respect, an unshakable inner center, natural leadership, and quiet confidence even in someone with a soft outward style.
+
+Spirit markers: Gisa is not weighted with any of the major harsh markers and is generally considered a stable Day Pillar in classical practice. However, Si itself carries strong Travel Horse (驛馬 / Yi Ma) energy, bringing pronounced movement, travel, study abroad, and cross-cultural connections. Combined with the Direct Seal core, Si also amplifies Gisa's affinity for spiritual disciplines, philosophy, and inner cultivation.
+
+Energy characteristics: Fire generates Earth (火生土), so the Day Branch directly empowers the Day Master. With the Day Master also at Imperial Authority within the same pillar, Gisa's Day Master is unusually strong despite being a Yin stem. The outer impression is the softness of Yin Earth, but the inside is lit by the brightness of Direct Seal and anchored by the certainty of Di Wang — a textbook expression of "soft outside, strong inside."
+
+### 2. Personality Traits
+
+Strengths:
+- Direct Seal as the dominant hidden stem produces a quick, deeply intelligent mind that loves learning, ideas, and the life of meaning
+- Yin Earth's warmth gives a true nurturing instinct — Gisa natives often become the caretaker, teacher, or counselor others naturally turn to
+- The Imperial Authority stage installs an inner center that does not bend; gentle exterior, firm core
+- Si Fire's lively brightness brings sociability and expressive warmth — they light up the rooms they enter without trying
+- Hurting Officer in the middle position adds craft, eloquence, and creative range; they often surprise people with how much talent sits beneath the gentle surface
+
+Weaknesses:
+- Strong Direct Seal can mean overthinking, hesitation, and difficulty making decisions when too many possibilities are on the table
+- Di Wang's pride is real — being treated dismissively or condescended to triggers a much sharper reaction than the surface might suggest
+- Si Fire's volatility combined with Hurting Officer's expressiveness can create swings of mood and bursts of speech that surprise even the speaker
+- Rob Wealth in the residual position can lead to wealth and leadership disputes with siblings, peers, and business partners
+- When Resource is excessive, the pattern slides into dependence, procrastination, or "all thought, no action" — endless plans without execution
+
+Appearance: A round, well-shaded face with a warm smile and approachable presence. Yin Earth's softness combined with Si Fire's brightness gives clear, intelligent eyes. Gisa natives tend toward a comfortable build with a generous, friendly impression — refined and tidy rather than flashy.
+
+### 3. Career and Wealth
+
+Ideal careers: Direct Seal's scholarship, Imperial Authority's self-confidence, Si Fire's activity, and Hurting Officer's expressive talent combine to produce powerful results in fields where teaching, guiding, and meaning-making are central.
+- Education and research: Teachers, professors, instructors, researchers, writers, editors (the canonical Direct Seal careers)
+- Religion and inner culture: Clergy, counselors, BaZi and metaphysics scholars, psychotherapists (Resource plus Hua Gai energy)
+- Medicine and pharmacy: Physicians, traditional medicine practitioners, pharmacists, nurses, nutritionists (nurturing instinct plus Resource)
+- Arts and culture: Artists, designers, performers, cultural producers (Hurting Officer plus Si Fire's brilliance)
+- Self-employment and service: Independent practices in food, education, and the arts; consulting (Di Wang's affinity for owning one's domain)
+
+Wealth patterns: With no Wealth element directly in the Day Branch — Resource sits there instead — Gisa natives do not have an unusually large wealth container, but they thrive on income flowing through credentials, expertise, and reputation. Si Fire's Travel Horse character makes income from teaching, traveling, lecturing, and outbound work natural. Once Gisa establishes itself in a field, sustained reputation produces sustained income; speculation is rarely the right mode for them. Their truest assets are intangible: certifications, knowledge, and intellectual property.
+
+Business suitability: Imperial Authority makes long employment under others wear thin; one-person practices and expert-driven businesses based on the native's own name and skill fit beautifully. The Rob Wealth residual makes partnerships risky — even close friendships can fracture under shared finances unless roles and ownership are made explicit from day one. Lecturing, writing, content production, and online businesses where their knowledge and voice are themselves the asset are the strongest models.
+
+### 4. Love and Marriage
+
+Men with Gisa Day Pillar: With Direct Seal as the dominant hidden stem of the spouse position, the marital chair is essentially occupied by maternal energy — the mother's influence runs deep, often past the wedding day. They tend to be most stable when paired with a quietly mature, supportive woman who offers care without demanding constant attention. Younger or highly dependent partners rarely fit; intelligent, self-sufficient women, often peers or slightly older, tend to bring the most lasting bond.
+
+Women with Gisa Day Pillar: There is no Direct Officer (husband) sitting directly in the Day Branch — Direct Seal (mother-in-law, scholarship) sits there instead — so the in-law relationship becomes a real variable in marriage. Gisa women are typically intelligent and self-defined, so traditional, controlling partnerships tend to chafe; partners who can hold a real intellectual conversation and respect the native's professional life produce far better outcomes. Si Fire's lively magnetism makes them broadly attractive, but later marriages — once their own expertise is established — are noticeably more stable.
+
+Compatible Day Pillars: Sinyu (辛酉), Gyeyu (癸酉), Jeongyu (丁酉), and Sinchuk (辛丑) form the Sa-Yu-Chuk (巳酉丑) Metal trinity with Si, creating deep and resonant bonds. Imsin (壬申), Gyeongsin (庚申), and Gapsin (甲申) complete the Sa-Sin (巳申) combination. Same-element Earth pillars Mujin (戊辰), Gichuk (己丑), and Gimi (己未) bring steady, trust-based companionship. Beware Hae (亥)-branch pillars, however — the Sa-Hae Chung clash brings recurring friction and instability.
+
+### 5. Health Considerations
+
+Earth element health:
+- Spleen, stomach, and digestion: As a Ji Earth Day Master, the spleen-stomach and pancreas are the central organs to protect. Yin Earth is sensitive — overwork and emotional stress show up almost immediately as stomach trouble, and nervous gastritis and irritable bowel patterns are common.
+- Glucose metabolism: Like all Earth Day Masters, pancreatic function and blood sugar deserve early attention; a long pattern of sweets and overeating can drift toward diabetes.
+
+Fire element health:
+- Heart and blood pressure: Si Fire's strong heat puts cumulative load on the heart, blood pressure, and circulation. Excess caffeine and prolonged states of stressed excitement should be managed deliberately.
+- Eyes and headaches: Si is the energy of light and heat — eye fatigue, dry eye, and migraine are common, and screen-heavy professions call for genuine, scheduled eye rest.
+
+Mental and emotional health:
+- Strong Resource means an unusually busy inner life; an accumulating habit of overthinking decisions can produce insomnia, nervous exhaustion, and chronic fatigue.
+- When Si Fire's activity and Resource's contemplation fall out of balance, the pattern can swing between listlessness and frantic activity; meditation, walking, and a regular rhythm of sleep and meals are not optional refinements — they are central health practice.
+
+Seasonal management: The Si month (early May to early June) is their natural energy peak — the right season to start new study, projects, or adventures. The Hai (亥) month (November) brings the Sa-Hae (巳亥) Chung clash that destabilizes the Day Branch, calling for added care in health, relationships, and travel. Midsummer compounds Fire excess and overheats both body and mind, making conscious cooling and hydration especially important.
+
+The Gisa Day Pillar is a soft garden lit by midday sun — outwardly warm and approachable, yet anchored by the brightness of Direct Seal and the firm center of Imperial Authority. When Gisa natives turn their wisdom and expressive gift into a domain of their own, they become the lamp others orient by — teaching, warming, and quietly illuminating the lives around them.
+    `.trim()
   }
 ];
