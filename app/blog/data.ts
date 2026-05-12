@@ -1421,5 +1421,161 @@ Seasonal management: The Si month (early May to early June) is their natural ene
 
 The Gisa Day Pillar is a soft garden lit by midday sun — outwardly warm and approachable, yet anchored by the brightness of Direct Seal and the firm center of Imperial Authority. When Gisa natives turn their wisdom and expressive gift into a domain of their own, they become the lamp others orient by — teaching, warming, and quietly illuminating the lives around them.
     `.trim()
+  },
+  {
+    slug: "ilju-07-gyeongo",
+    title: "경오(庚午)일주 분석: 60갑자 일주 시리즈 #7",
+    title_en: "Gyeongo (庚午) Day Pillar Analysis: 60 Day Pillars Series #7",
+    date: "2026-05-12",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "한낮의 뜨거운 불에 단련되는 강철의 형상 — 화련진금(火煉眞金)의 경오일주가 지닌 강직한 원칙, 도화의 매력, 관살혼잡의 내적 부담, 그리고 압박을 견딘 뒤 빛나는 명예의 길을 분석합니다.",
+    excerpt_en: "Like raw steel forged under midday fire, Gyeongo Day Pillar natives carry sharp principle, magnetic charm, and the inner pressure of mixed Officer-Killing energy — a BaZi reading of how refinement under heat shapes their careers, relationships, and lasting reputation.",
+    content: `
+경오(庚午)일주는 육십갑자의 일곱 번째 일주로, 천간의 경금(庚金)과 지지의 오화(午火)가 결합된 형상입니다. 한낮의 가장 뜨거운 불 위에 단단한 강철을 올려놓은 모습 — 화련진금(火煉眞金), 곧 불에 의해 진짜 칼과 그릇으로 단련되는 쇠의 형상으로 알려져 있습니다. 외양은 차갑고 강직해 보이지만 그 안에서는 끊임없는 단련과 자기 정련이 일어나는 일주입니다.
+
+### 1. 기본 구조
+
+천간 경금(庚金)은 10천간 중 양금(陽金)으로, 가공되지 않은 원광이나 도끼·칼·기계 같은 강하고 단단한 금의 본질을 상징합니다. 결단력·의리·원칙·강직함이 그 본성이며, 한 번 정한 길을 끝까지 밀어붙이는 직선적 에너지를 가집니다. 지지 오화(午火)는 양지지로, 한낮 정오의 가장 뜨겁고 활동적인 빛과 열의 기운입니다.
+
+천간-지지 관계에서 오화(午火)의 지장간은 병화(丙火)·기토(己土)·정화(丁火)로 구성되며, 본기는 정화(丁火)입니다. 경금(庚金) 일간 기준으로 본기 정화는 정관(正官), 중기 기토는 정인(正印), 여기 병화는 편관(偏官, 칠살七殺)에 해당합니다. 즉 일지 안에 정관·편관(칠살)·정인이 동시에 자리하여 명예·권위·학문의 기운이 함께 응축된 구조이며, 정관과 칠살이 함께 있는 관살혼잡(官殺混雜)의 양상을 띱니다.
+
+12운성으로 보면 경금(庚金)은 오화(午火) 위에서 목욕(沐浴)에 해당합니다. 목욕은 갓 태어난 아이를 씻기는 단계로, 깨끗하고 빛나지만 동시에 가장 연약하고 흔들리기 쉬운 시기입니다. 외양은 매력적이고 사람을 끌어당기는 힘이 강하지만, 감정과 인간관계의 변동이 잦아 도화(桃花)의 기운이 강하게 발현되는 자리입니다.
+
+신살: 오화는 인오술(寅午戌) 삼합의 중심 글자로 도화살(桃花殺)의 대표 지지입니다. 따라서 경오일주는 60갑자 중 손꼽히는 도화 일주로, 이성의 인기와 매력이 두드러집니다. 또한 일지에서 정관과 칠살이 함께 자리해 관살혼잡의 구조가 형성되며, 명예와 스트레스가 동시에 따라오는 자리이기도 합니다.
+
+에너지 특성: 화극금(火克金)의 상극 관계로 일지 오화가 일간 경금을 강하게 극하는 구조입니다. 동시에 중기 기토가 일간을 생해주어 토생금(土生金)의 보완이 일부 작용합니다. 12운성으로는 목욕에 처해 일간이 강하지 않지만, 경금이라는 본성 자체가 불에 단련되어야 진짜 도구가 된다는 화련진금의 원리에 비추어 보면 — 압박과 정련은 곧 경오일주의 성장 동력입니다. 외양은 차갑고 단단하지만, 속에서는 끊임없이 자기를 갈고 다듬는 일주입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 양금의 본성으로 결단력이 빠르고 의지가 강하며, 한 번 정한 원칙은 끝까지 지키는 강직함을 지님
+- 정관(正官)이 일지 본기로 자리해 책임감·명예 의식·공정한 판단력이 뛰어남
+- 정인(正印) 중기의 영향으로 학문과 품격을 추구하며, 자기 분야의 깊이를 끈질기게 쌓아감
+- 도화의 기운으로 외모와 분위기에 매력이 있고, 사람을 끌어당기는 힘이 자연스럽게 발현됨
+- 화련진금의 구조로 큰 시련과 압박을 견뎌낸 뒤 오히려 더 단단하고 빛나는 성취를 이루는 저력을 지님
+
+단점:
+- 관살혼잡(정관+칠살)의 영향으로 내적 압박과 책임감이 과도해지기 쉬우며, 일중독·과로·만성 스트레스에 노출됨
+- 양금의 강직함이 지나치면 융통성 부족·고집·직선적 화법으로 인간관계의 마찰을 일으킬 수 있음
+- 도화와 목욕의 결합으로 이성 인연이 많고 감정의 변동이 커, 결혼 전후 인연 정리가 깔끔하지 않으면 큰 풍파로 이어질 수 있음
+- 일지가 일간을 극하는 구조라 자기 자신을 가혹하게 몰아붙이는 경향이 있으며, 휴식과 회복을 자주 미룸
+- 칠살의 영향으로 화를 참다가 한 번에 터뜨리는 패턴이 나타날 수 있어 감정 관리가 평생의 과제임
+
+외모 경향: 이목구비가 또렷하고 윤곽이 분명하며, 키나 골격이 좋은 편입니다. 경금의 차가운 기운과 오화의 빛나는 기운이 결합되어 차갑지만 매력적인 인상을 풍기며, 도화의 영향으로 사람들이 한 번 더 돌아보는 분위기를 자연스럽게 가지고 있습니다. 단정하면서도 어딘가 화려한 인상이 특징입니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 정관의 권위, 칠살의 추진력, 정인의 학문성이 결합되어 규율·명예·권력이 작동하는 분야에서 능력이 강하게 발휘됩니다.
+- 공직·법조·군경: 공무원, 판사, 검사, 변호사, 군인, 경찰, 소방관 (정관+칠살의 핵심 직업)
+- 의료·전문직: 외과의·치과의·응급의학 등 정밀함과 결단력이 요구되는 분야 (경금의 절단·정밀성)
+- 기술·엔지니어링: 기계공학, 금속·자동차·반도체, 정밀가공 산업 (경금의 본성)
+- 교육·연구: 교수, 연구원, 전문 강사 (정인 중기의 학문 기운)
+- 스포츠·격투: 운동선수, 무술인, 트레이너 (양금의 단단함과 칠살의 투지)
+
+재물 패턴: 일지에 재성(財星)이 없고 관성과 인성이 자리하므로, 자영업·투자로 빠르게 부를 쌓기보다는 직장·조직 안에서 명예와 지위를 통해 안정적 부를 쌓는 구조입니다. 화련진금의 원리에 따라 초년·중년의 큰 압박과 시련을 견뎌낸 뒤 본격적인 성취가 찾아오는 늦성형(晩成型) 재물운이 많으며, 명예·자격·전문성이 곧 돈으로 환원되는 구조입니다. 단기적 한탕보다 장기적 신뢰가 본질입니다.
+
+사업 적성: 강한 자아와 결단력으로 자기 사업을 운영할 수 있는 능력은 충분하지만, 일지에 재성이 없고 관성이 강하므로 본질적으로는 조직형·전문가형에 가깝습니다. 사업을 한다면 자기 전문 자격(법무·의료·기술·교육)을 바탕으로 한 1인 전문직 또는 기술 기반 사업이 가장 잘 맞으며, 동업은 칠살의 충돌적 기운으로 인해 가급적 피하는 편이 낫습니다.
+
+### 4. 연애와 결혼
+
+남성 경오일주: 남자에게 처(妻)의 자리인 일지에 재성이 없고 정관(자녀)과 칠살이 자리하여, 결혼 후 자녀와의 인연은 깊으나 부부 관계는 자녀나 사회적 명예를 매개로 형성되는 경향이 있습니다. 도화의 강한 매력으로 이성 인기는 평생 많지만, 그 인기를 절제하지 못하면 결혼생활에 풍파를 일으킬 수 있습니다. 강하고 자기 영역이 있는 여성, 또는 자기 일을 가진 전문직 여성과 깊은 인연을 맺을 때 가장 안정됩니다.
+
+여성 경오일주: 일지에 정관(남편)과 편관(칠살)이 동시에 자리하는 관살혼잡 구조라, 남자 인연이 많거나 인연의 종류가 복잡한 양상을 띱니다. 첫 인연에서 결혼이 늦어지거나, 결혼·이별·재혼의 변동이 따를 수 있어 신중한 선택이 필요합니다. 본인이 사회적으로 자리를 잡고 자기 명예를 갖춘 뒤에 만나는 인연이 훨씬 안정적이며, 자신을 통제하려 들지 않고 동등한 파트너로 대해주는 남성을 만나야 행복할 수 있습니다.
+
+궁합이 좋은 일주: 오미합(午未合)을 이루는 을미(乙未), 정미(丁未), 기미(己未), 신미(辛未), 계미(癸未) 일주와 부드러운 결합의 인연을 맺습니다. 같은 금 기운으로 형제·동료의 정을 나누는 경신(庚申), 신유(辛酉) 일주와도 든든한 관계가 형성되며, 인성으로 자양해주는 무진(戊辰), 기축(己丑) 같은 토 일주와도 신뢰의 인연이 깊습니다. 다만 자오충(子午沖)을 일으키는 갑자(甲子), 병자(丙子), 무자(戊子), 경자(庚子), 임자(壬子) 일주와는 격렬한 충돌과 변동이 따르므로 매우 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+금(金) 계열 건강:
+- 폐와 호흡기: 경금 일간으로 폐·기관지·대장이 핵심 관리 장기이며, 일지 화의 극을 받아 호흡기 계통이 약해지기 쉽습니다. 천식·만성 기관지염·알레르기성 비염 등에 주의해야 합니다.
+- 피부와 대장: 금의 본성이 손상되면 피부 트러블, 변비, 대장 염증으로 이어질 수 있으며, 흡연과 건조한 환경이 특히 부담을 키웁니다.
+
+화(火) 계열 건강:
+- 심장과 혈압: 일지 오화의 강한 화 기운으로 심장·혈압·순환기 계통의 부담이 매우 크며, 양화의 본성상 갑작스러운 심혈관 문제에 주의가 필요합니다.
+- 눈과 두통: 오화는 정오의 빛이라 눈의 피로와 편두통이 잦으며, 화면 작업이 많을수록 의식적인 휴식과 안압 관리가 중요합니다.
+
+정신 건강:
+- 관살혼잡의 영향으로 책임감과 스트레스가 누적되기 쉬워, 만성 두통·불면·신경성 위장 장애로 나타나는 경우가 많습니다.
+- 자기 자신에게 가혹한 패턴이 깊어지면 번아웃과 우울 경향으로 이어질 수 있으므로, 정기적인 휴식과 감정 표현의 통로를 의식적으로 확보해야 합니다.
+- 도화의 영향으로 감정의 기복이 크니, 술·자극적 환경에 의존하기보다는 운동·명상·창작 같은 건강한 배출 수단이 필요합니다.
+
+계절 관리: 오월(午月, 양력 6월 초~7월 초)이 일지 에너지가 절정에 이르는 시기로, 화 기운이 과다해져 일간 경금이 가장 큰 부담을 받습니다. 한여름은 의식적인 냉정과 휴식이 필요한 계절입니다. 자월(子月, 양력 12월)에는 자오충(子午沖)이 일어나 일지가 흔들리므로 건강·인간관계·이직·이동 모두 변동을 미리 점검해야 합니다. 가을(申·酉月)이 경금의 본기 계절로 가장 활력이 살아나는 시기입니다.
+
+경오(庚午)일주는 한낮의 불 위에서 단련되는 강철의 형상 — 외양은 차갑고 강직하지만, 그 단련을 견뎌낸 뒤에야 비로소 진짜 칼과 그릇이 되는 일주입니다. 자신을 몰아세우는 압박을 도구로 삼고, 도화의 매력을 명예의 자산으로 바꿔낼 때, 경오일주는 자기 분야에서 가장 빛나고 단단한 한 자루의 칼이 되어 자기 이름을 세상에 남깁니다.
+    `.trim(),
+    content_en: `
+The Gyeongo (庚午) Day Pillar is the seventh of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Geng Metal (庚金) with the Earthly Branch Wu Fire (午火) — the image of unrefined steel laid upon the hottest noonday fire. Classical practice calls this Hwa-Ryeon-Jin-Geum (火煉眞金), "true metal forged by fire," the structure in which raw ore is hammered into a real blade. Cool and resolute on the outside, Gyeongo natives carry an inner forge that never truly stops working.
+
+### 1. Basic Structure
+
+Geng Metal (庚金) is Yang Metal — not jewelry-grade ore but the raw, hard metal of the axe, the sword, and the machine. Its essence is decisiveness, loyalty, principle, and uncompromising strength; once a direction is chosen, it presses straight through. Wu Fire (午火) is a Yang Branch carrying the heat and brightness of full noon — pure activity, peak expansion.
+
+The Earthly Branch Wu contains Bing Fire (丙火), Ji Earth (己土), and Ding Fire (丁火) as its hidden stems, with Ding Fire as the dominant root Qi. From Geng Metal's perspective as Day Master, the dominant Ding Fire is Direct Officer (正官 / Zheng Guan), the middle Ji Earth is Direct Resource / Direct Seal (正印 / Zheng Yin), and the residual Bing Fire is Seven Killings (偏官 / 七殺). The Day Branch therefore holds Direct Officer, Seven Killings, and Direct Seal simultaneously — a concentrated structure of authority, scholarship, and pressure, and a textbook case of Mixed Officer and Killing (官殺混雜 / Guan Sha Hun Za).
+
+In the 12 Life Stage system, Geng Metal at Wu is in the Bathing Stage (沐浴 / Mu Yu). Bathing is the newborn just after birth — clean and luminous, but also the most fragile and easily unsettled stage. The outward impression is magnetic and visually compelling, but emotional and relational currents run strong, and the Peach Blossom (桃花 / Tao Hua) energy is especially active here.
+
+Spirit markers: Wu is the central character of the Yin-Wu-Sul (寅午戌) Fire trinity and the classical anchor of the Peach Blossom star. Gyeongo is therefore among the most famous Peach Blossom Day Pillars of the 60, marked by strong romantic and aesthetic magnetism. The Day Branch also produces a textbook Mixed Officer and Killing configuration, so social honor and chronic pressure tend to arrive together throughout the life.
+
+Energy characteristics: Fire controls Metal (火克金), so the Day Branch directly suppresses the Day Master, and Geng Metal sits at Bathing — not a strong position. The middle hidden stem Ji Earth provides partial support through Earth-generates-Metal, but the Day Master remains pressured. Read through the principle of Hwa-Ryeon-Jin-Geum, however, this pressure is not damage but refinement: Geng Metal must pass through fire to become a real tool. The exterior is cold and hard, but inside, a furnace is shaping the native every day.
+
+### 2. Personality Traits
+
+Strengths:
+- Yang Metal produces a decisive, principled mind — once a path is chosen, it is held with rare consistency
+- Direct Officer as the dominant hidden stem brings responsibility, fairness, and a strong sense of public honor
+- Direct Seal in the middle position adds scholarship and quiet dignity; Gyeongo natives accumulate depth in their fields without making a show of it
+- Peach Blossom energy gives natural attractiveness and presence; people remember them after one meeting
+- The Hwa-Ryeon-Jin-Geum structure produces extraordinary resilience — pressure that would break a softer chart often makes Gyeongo more refined and more visible
+
+Weaknesses:
+- Mixed Officer and Killing piles internal pressure high; workaholism, overwork, and chronic stress are real risks across the life span
+- Yang Metal's bluntness can curdle into rigidity and confrontational speech, hurting relationships that needed only a softer angle
+- Peach Blossom plus Bathing creates a busy romantic landscape — unresolved past attachments can cause real damage to marriage if not cleanly closed
+- Because the Day Branch suppresses the Day Master, Gyeongo natives tend to drive themselves hard and routinely defer rest and recovery
+- Seven Killings can manifest as long-suppressed anger that finally explodes; emotional regulation is a lifelong practice for this pillar
+
+Appearance: Sharply defined features and a strong frame — often well-built with clearly drawn brows, nose, and jawline. The cool quality of Geng Metal mixed with Wu Fire's brightness produces an impression that is striking yet a little distant. Peach Blossom makes them the kind of presence people glance at twice — clean and trim, with a polished edge.
+
+### 3. Career and Wealth
+
+Ideal careers: Direct Officer's authority, Seven Killings' drive, and Direct Seal's discipline combine to produce powerful outcomes in fields where rules, honor, and decisive action all matter.
+- Public service, law, and uniformed services: Civil servants, judges, prosecutors, attorneys, military officers, police, firefighters (the core Officer-Killing professions)
+- Medicine and precision professions: Surgeons, dentists, emergency physicians — fields requiring exactness and decisive action under pressure (Geng Metal's cutting precision)
+- Engineering and industry: Mechanical engineering, metals, automotive, semiconductors, precision manufacturing (the natural Geng Metal industries)
+- Education and research: Professors, researchers, expert lecturers (the Direct Seal middle stem)
+- Athletics and combat sports: Athletes, martial artists, trainers (Yang Metal's hardness plus Seven Killings' fighting spirit)
+
+Wealth patterns: With no Wealth element in the Day Branch and strong Officer-Seal energy instead, Gyeongo natives build wealth through honor, title, and credentials inside organizations rather than through entrepreneurial speed. Following the Hwa-Ryeon-Jin-Geum principle, the early and middle years often carry heavy pressure and visible setbacks — the real accumulation typically arrives later, in a classic late-maturing wealth pattern. Money flows through reputation, professional licensure, and trusted expertise; quick speculation rarely fits this chart's deeper nature.
+
+Business suitability: Strong will and decisive judgment make self-employment workable, but the absence of Wealth in the Day Branch and the dominance of Officer-Killing point more naturally to organizational and expert-practitioner paths. If a business is pursued, professional licensure businesses (law, medicine, engineering, education) and skill-based one-person practices are the strongest fit. Partnerships are risky here — Seven Killings' confrontational edge tends to surface under shared finances and shared authority.
+
+### 4. Love and Marriage
+
+Men with Gyeongo Day Pillar: There is no Wealth element in the spouse seat — Officer (children) and Seven Killings sit there instead. The bond with one's children tends to run deep, and the marriage itself often crystallizes around the children or around shared social standing, rather than around classical romantic dynamics. Peach Blossom keeps romantic attention high throughout life; without conscious self-discipline, that attention can shake an otherwise solid marriage. Strong, independent women — especially professional women with domains of their own — tend to bring the most lasting stability.
+
+Women with Gyeongo Day Pillar: Both Direct Officer (husband) and Seven Killings sit in the Day Branch, producing the classical Mixed Officer and Killing configuration. Male relationships tend to be plentiful but complicated in type, and first marriages may be delayed or fragile, with possible patterns of separation and remarriage that require sober reflection. Stability rises sharply when Gyeongo women marry after their own career and standing are established, and when their partner treats them as a true equal rather than as someone to be managed.
+
+Compatible Day Pillars: Eulmi (乙未), Jeongmi (丁未), Gimi (己未), Sinmi (辛未), and Gyemi (癸未) form the Wu-Wei (午未) combination with Wu, producing soft and harmonious bonds. Same-element Metal pillars Gyeongsin (庚申) and Sinyu (辛酉) bring sibling-style support, and Resource-providing Earth pillars Mujin (戊辰) and Gichuk (己丑) offer deep trust. The clear caution is the Ja-Wu Chung (子午沖): Gapja (甲子), Byeongja (丙子), Muja (戊子), Gyeongja (庚子), and Imja (壬子) bring sharp clashes and recurring instability.
+
+### 5. Health Considerations
+
+Metal element health:
+- Lungs and respiratory system: As a Geng Metal Day Master, the lungs, bronchi, and large intestine are the central organs to protect. Because the Day Branch's Fire suppresses the Day Master, the respiratory system is structurally vulnerable — asthma, chronic bronchitis, and allergic rhinitis warrant early attention.
+- Skin and large intestine: Compromised Metal can show up as skin trouble, constipation, and intestinal inflammation; smoking and dry environments amplify the load.
+
+Fire element health:
+- Heart and blood pressure: Wu Fire's strong heat puts heavy cumulative pressure on the heart, blood pressure, and circulation. Yang Fire's nature makes sudden cardiovascular events a genuine concern that argues for proactive screening.
+- Eyes and headaches: Wu is noonday light — eye fatigue and migraines are common, and screen-heavy work demands deliberate visual rest.
+
+Mental and emotional health:
+- Mixed Officer and Killing piles responsibility and stress; chronic headaches, insomnia, and nervous gastric issues are recurring patterns that should be taken seriously rather than worked through.
+- Without intentional intervention, the habit of driving oneself hard can slide into burnout and depressive episodes; structured rest and a real channel for emotional expression are non-negotiable.
+- Peach Blossom amplifies emotional swings; healthier outlets such as exercise, meditation, and creative work are essential — alcohol and stimulating environments tend to make the swings worse, not better.
+
+Seasonal management: The Wu month (early June to early July) is the peak of the Day Branch's energy, when Fire excess presses hardest on the Geng Metal Day Master — high summer is the season for deliberate cooling and conscious rest. The Ja (子) month (December) brings the Ja-Wu Chung clash that destabilizes the Day Branch, calling for added care in health, relationships, and any planned moves or career changes. Autumn (the Shen and You months) is Geng Metal's home season and the time when natural vitality returns most strongly.
+
+The Gyeongo Day Pillar is steel laid on the noonday fire — cold and resolute on the surface, yet only becoming a true blade through the heat it endures. When Gyeongo natives learn to use that pressure as a tool and convert their Peach Blossom magnetism into reputation rather than turbulence, they emerge as the sharpest, brightest instrument in their field — a name that holds its edge for a long, long time.
+    `.trim()
   }
 ];
