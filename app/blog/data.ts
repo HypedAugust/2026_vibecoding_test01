@@ -1577,5 +1577,167 @@ Seasonal management: The Wu month (early June to early July) is the peak of the 
 
 The Gyeongo Day Pillar is steel laid on the noonday fire — cold and resolute on the surface, yet only becoming a true blade through the heat it endures. When Gyeongo natives learn to use that pressure as a tool and convert their Peach Blossom magnetism into reputation rather than turbulence, they emerge as the sharpest, brightest instrument in their field — a name that holds its edge for a long, long time.
     `.trim()
+  },
+  {
+    slug: "ilju-08-sinmi",
+    title: "신미(辛未)일주 분석: 60갑자 일주 시리즈 #8",
+    title_en: "Sinmi (辛未) Day Pillar Analysis: 60 Day Pillars Series #8",
+    date: "2026-05-17",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "마른 들흙 속에 잠긴 보석의 형상 — 토중지옥(土中之玉)의 신미일주가 지닌 외유내강의 품격, 인·재·관 삼귀를 함께 거느린 잡기 창고의 구조, 그리고 자기 단련을 깊이로 바꿔내는 만성형의 길을 분석합니다.",
+    excerpt_en: "Like a polished gemstone buried in dry summer soil, Sinmi Day Pillar natives carry a refined surface that conceals a rare Three Treasures structure of Resource, Wealth, and Officer — a BaZi reading of how late-blooming depth, quiet precision, and storehouse-style breakthroughs shape their careers, relationships, and health.",
+    content: `
+신미(辛未)일주는 육십갑자의 여덟 번째 일주로, 천간의 신금(辛金)과 지지의 미토(未土)가 결합된 형상입니다. 잘 다듬어진 보석이 마른 들흙 속에 묻혀 있는 모습 — 토중지옥(土中之玉), 곧 흙 속에 감춰진 옥의 형상으로 알려져 있습니다. 외양은 단정하고 부드러우나, 그 안에는 섬세하면서도 단단한 자기 세계가 자리한 일주입니다.
+
+### 1. 기본 구조
+
+천간 신금(辛金)은 10천간 중 음금(陰金)으로, 가공이 끝난 보석·금은세공·진주·옥 같은 정제된 금의 본질을 상징합니다. 섬세함·아름다움·자존심·정밀함이 그 본성이며, 한 번 정해진 격을 흐트러뜨리지 않으려는 단단한 자기 기준을 가집니다. 지지 미토(未土)는 음지지로, 늦여름의 마른 들과 양을 키우는 흙의 기운으로, 따뜻하면서도 건조한 토(燥土)에 해당합니다.
+
+천간-지지 관계에서 미토(未土)의 지장간은 정화(丁火)·을목(乙木)·기토(己土)로 구성되며, 본기는 기토(己土)입니다. 신금(辛金) 일간 기준으로 본기 기토는 편인(偏印), 중기 을목은 편재(偏財), 여기 정화는 편관(偏官, 칠살七殺)에 해당합니다. 즉 일지 안에 인성·재성·관성이 모두 자리하는 보기 드문 삼귀(三貴) 구조이며, 학문(인)·재물(재)·명예(관)의 세 축이 한 글자 안에 응축된 자리입니다.
+
+12운성으로 보면 신금(辛金)은 미토(未土) 위에서 쇠(衰)에 해당합니다. 쇠는 제왕의 정점에서 한 걸음 내려선 단계로, 화려함은 잠시 거두지만 노련함과 깊이가 가장 무르익은 시기입니다. 외양은 차분하고 절제되어 있으나, 내면에는 오랜 경험에서 우러나온 안정된 판단력과 자기 신념이 자리합니다.
+
+신살: 미토는 해묘미(亥卯未) 삼합의 끝 글자로 갈무리·완성의 기운을 상징하며, 정화·을목·기토를 모두 품은 잡기(雜氣) 창고의 자리입니다. 신미일주는 일지 자체가 인·재·관 삼귀를 모두 거느린 격조 높은 자리이지만, 동시에 잡기 창고는 형(刑)·충(沖)·파(破)로 한 번 열려야 그 안의 보물이 비로소 세상에 드러나는 구조이기도 합니다.
+
+에너지 특성: 토생금(土生金)의 상생 관계로 일지 미토가 일간 신금을 생해주는 안정된 구조입니다. 다만 미토는 마른 흙(燥土)이라 신금에게 윤기보다는 매장의 형상이 강하며, 보석이 흙 속에 잠겨 있는 모습입니다. 여기 정화 칠살이 일간을 극하는 압박이 함께 작용하므로, 외적으로는 단단해 보이지만 내면에서는 자기 단련과 자기 검열이 끊임없이 일어나는 일주입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 음금의 본성으로 섬세하고 정밀하며, 미적 감각과 품격에 대한 안목이 뛰어남
+- 편인(偏印)이 일지 본기로 자리해 학문·종교·예술·신비 분야에 대한 깊은 직관과 통찰력을 지님
+- 편재(偏財) 중기의 영향으로 현실적 재물 감각과 사람을 끌어모으는 활동성이 결합되어 있음
+- 편관(七殺) 여기의 영향으로 결정적 순간의 추진력과 강한 자기 보호 본능을 함께 가짐
+- 외유내강(外柔內剛)의 전형으로 부드러운 인상 뒤에 단단한 원칙과 자존심을 지킴
+
+단점:
+- 신금의 예민함과 칠살의 압박이 결합되어 자기 자신에게 가혹하며, 작은 비판에도 깊이 상처받는 경향이 있음
+- 편인의 영향으로 생각이 많고 의심이 깊어, 결단의 순간에 망설임이 길어질 수 있음
+- 일지 안에 인·재·관이 한꺼번에 있어 마음속 우선순위가 자주 흔들리며, 한 가지에 집중하는 시기가 필요함
+- 미토가 조토라 표면적으로는 부드럽지만 속으로는 고집과 자기 세계가 깊어, 가까운 사람조차 진심에 닿기 어렵다고 느낄 수 있음
+- 잡기 창고의 구조로 인생에 한두 번의 큰 변동(형·충)이 와야 잠재된 재능과 인연이 본격적으로 드러나, 그 과정의 진통이 적지 않음
+
+외모 경향: 피부가 희고 곱고, 이목구비가 단정하며 깨끗한 인상을 줍니다. 신금의 보석 같은 광택과 미토의 부드러움이 결합되어 차분하면서도 세련된 분위기가 자연스럽게 풍기며, 옷차림이나 분위기에서 정돈된 미감이 드러나는 편입니다. 화려하기보다는 단정한 아름다움이 신미일주의 외형적 특징입니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 편인의 깊이, 편재의 활동성, 칠살의 결단력이 결합되어 정밀함과 격조가 요구되는 분야에서 강한 역량을 발휘합니다.
+- 의료·바이오: 의사, 약사, 한의사, 간호사, 임상병리, 정밀의료 분야 (신금의 정밀성 + 편인의 학문성)
+- 보석·미용·디자인: 보석 세공, 메이크업 아티스트, 패션 디자이너, 인테리어 디자이너 (신금의 본성 + 편재의 감각)
+- 학문·연구·종교: 교수, 연구원, 종교인, 상담가, 심리치료사 (편인의 깊이)
+- 법무·세무·전문직: 변호사, 세무사, 회계사, 법무사 (편관의 결단력 + 편재의 재물 감각)
+- 예술·문화: 작가, 평론가, 큐레이터, 출판 기획자 (편인의 직관 + 신금의 섬세함)
+
+재물 패턴: 일지에 편재(偏財)가 자리하므로 재물 감각 자체는 풍부하지만, 본기가 편인이고 칠살의 압박이 함께 있어 큰 부의 흐름이 한 번에 들어오기보다는 자기 전문성·자격·작품을 매개로 단계적으로 쌓이는 구조입니다. 잡기 재성의 특성상 인생의 큰 변동(이직·이사·관계 변화) 뒤에 오히려 재물의 새로운 통로가 열리는 경우가 많으며, 한 분야의 깊이가 곧 자산이 되는 만성형(晩成型)에 가깝습니다. 외화내빈을 경계하고 보이지 않는 곳에 실속을 쌓는 패턴이 잘 맞습니다.
+
+사업 적성: 신금의 정밀성과 편재의 감각이 결합되어 작지만 격조 있는 1인 전문 사업 또는 브랜드형 사업에 적성이 있습니다. 대규모 조직 운영보다는 자기 색깔이 분명한 스튜디오·클리닉·아틀리에 형태가 잘 맞으며, 동업은 칠살의 갈등 가능성과 편재의 변동성 때문에 가급적 신중해야 합니다. 사업을 한다면 자기 자격·작품·전문성이 곧 브랜드가 되는 구조를 권합니다.
+
+### 4. 연애와 결혼
+
+남성 신미일주: 남자에게 처(妻)의 자리인 일지 중기에 편재(을목)가 자리해 결혼 인연 자체는 일찍 들어오는 편이지만, 편재의 특성상 여러 인연을 만나거나 첫 인연이 오래 가지 못하는 경우도 있습니다. 일지에 칠살(정화)이 함께 있어 결혼 후에는 책임감과 가장(家長) 역할이 무거워지기 쉬우며, 자기보다 활동적이고 사회성이 있는 여성과 만났을 때 안정감이 살아납니다. 외도의 유혹에 흔들리지 않고 한 사람에게 정성을 다할 때 신미의 격이 가장 빛납니다.
+
+여성 신미일주: 일지 여기에 편관(칠살)이 자리해 남편성이 강한 형태로 작용하며, 자기 자존심이 강한 만큼 남편 역시 결정력이 분명한 남성을 만나게 됩니다. 다만 칠살의 압박이 부부 관계에서 통제·간섭의 형태로 나타날 수 있어, 본인이 사회적·경제적으로 자기 자리를 확보한 뒤에 만나는 인연이 훨씬 안정적입니다. 편인의 영향으로 정신적 교감과 가치관의 공유를 중시하므로, 그 부분이 맞지 않는 인연은 일찍 정리하는 편이 본인에게 이롭습니다.
+
+궁합이 좋은 일주: 오미합(午未合)을 이루는 갑오(甲午), 병오(丙午), 무오(戊午), 경오(庚午), 임오(壬午) 일주와 부드러운 결합의 인연을 맺습니다. 해묘미(亥卯未) 삼합으로 안정감을 더해주는 을묘(乙卯), 정묘(丁卯), 기묘(己卯), 신묘(辛卯), 계묘(癸卯) 일주, 그리고 을해(乙亥), 정해(丁亥), 기해(己亥), 신해(辛亥), 계해(癸亥) 일주와도 깊은 신뢰의 인연이 형성됩니다. 다만 축미충(丑未沖)을 일으키는 을축(乙丑), 정축(丁丑), 기축(己丑), 신축(辛丑), 계축(癸丑) 일주와는 잡기 창고가 깨지는 격렬한 변동이 따르므로 매우 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+금(金) 계열 건강:
+- 폐와 호흡기: 신금 일간으로 폐·기관지·인후·피부가 핵심 관리 부위입니다. 음금의 본성상 만성 비염·인후염·천식·알레르기 등 잔병이 잦은 편이며, 건조한 환경에서 더욱 부담이 커집니다.
+- 피부와 모발: 신금의 본성이 약해지면 피부 건조·아토피·모발 손상으로 이어지기 쉬우며, 보습과 미세한 관리가 평생의 과제입니다.
+
+토(土) 계열 건강:
+- 위장과 소화기: 일지 미토는 조토(燥土)로, 위장의 건조·역류성 식도염·만성 위염 같은 위장 트러블이 잘 나타납니다. 자극적이고 매운 음식, 불규칙한 식사가 특히 부담을 키웁니다.
+- 비장과 췌장: 토 기운이 무너지면 식욕 부진·소화 불량·당대사 문제로 이어질 수 있으므로 식사 시간과 식단의 일관성을 의식적으로 지켜야 합니다.
+
+화(火) 계열 건강:
+- 심장과 혈압: 지장간 정화 칠살의 영향으로 만성 스트레스가 누적되면 심장·혈압·자율신경계에 부담이 옵니다.
+- 신경과 수면: 칠살의 압박과 편인의 깊은 사고가 결합되어 불면·악몽·신경성 두통이 잦으므로, 의식적인 수면 위생과 휴식의 리듬이 중요합니다.
+
+정신 건강:
+- 편인의 깊은 사색과 칠살의 자기 검열이 결합되어 우울감과 불안이 만성화되기 쉬우니, 혼자 곱씹기보다 글쓰기·상담·예술 활동 같은 표현의 통로를 의식적으로 마련해야 합니다.
+- 자기 자신에게 가혹한 패턴이 강해 작은 실수도 오래 곱씹는 경향이 있으니, 의식적인 자기 용서와 휴식의 리추얼이 평생의 과제입니다.
+
+계절 관리: 미월(未月, 양력 7월 초~8월 초)은 일지 에너지가 가장 강해지는 시기로, 조토의 건조함이 신금을 매장시키는 부담이 커집니다. 한여름은 의식적인 수분 보충과 휴식이 필요한 계절입니다. 축월(丑月, 양력 1월)에는 축미충(丑未沖)이 일어나 일지 잡기 창고가 흔들리므로 건강·이직·이사·관계 정리 모두 신중함이 필요합니다. 가을(申·酉月)이 신금의 본기 계절로 활력과 결단력이 가장 살아나는 시기입니다.
+
+신미(辛未)일주는 흙 속에 잠긴 옥의 형상 — 외양은 단정하고 부드러우나, 그 안에 인·재·관 삼귀를 모두 품은 격조 높은 일주입니다. 자기 단련과 자기 검열의 무게를 깊이로 바꾸고, 잡기 창고에 잠든 보물을 한 번씩 세상에 꺼내 보일 때, 신미일주는 누구도 흉내 낼 수 없는 자기만의 광채를 품은 한 점의 보석으로 빛납니다.
+    `.trim(),
+    content_en: `
+The Sinmi (辛未) Day Pillar is the eighth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Xin Metal (辛金) with the Earthly Branch Wei Earth (未土) — the image of a finely cut gemstone buried in dry summer soil. Classical practice calls this To-Jung-Ji-Ok (土中之玉), "jade hidden in earth," the structure of a refined treasure that must be unearthed before its full brilliance can show. Composed and quietly elegant on the outside, Sinmi natives carry a delicate yet uncompromising inner world.
+
+### 1. Basic Structure
+
+Xin Metal (辛金) is Yin Metal — not raw ore but the finished gemstone, the polished jewelry, the pearl and jade. Its essence is precision, beauty, dignity, and a refined sense of self; once a standard is set, it is held with quiet, immovable rigor. Wei Earth (未土) is a Yin Branch carrying the warm, dry soil of late summer — the pastureland that nourishes the sheep, fertile but parched, classified in BaZi as dry earth (燥土).
+
+The Earthly Branch Wei contains Ding Fire (丁火), Yi Wood (乙木), and Ji Earth (己土) as its hidden stems, with Ji Earth as the dominant root Qi. From Xin Metal's perspective as Day Master, the dominant Ji Earth is Indirect Resource / Indirect Seal (偏印 / Pian Yin), the middle Yi Wood is Indirect Wealth (偏財 / Pian Cai), and the residual Ding Fire is Seven Killings (偏官 / 七殺). The Day Branch therefore holds Resource, Wealth, and Officer all at once — a rare Three Treasures (三貴) structure in which scholarship, money, and authority are concentrated in a single character.
+
+In the 12 Life Stage system, Xin Metal at Wei is in the Decline Stage (衰 / Shuai). Decline is the step just past the peak of Emperor — the splash is gone, but seasoned judgment and matured depth are at their richest. The outward presence is calm and measured, but the inner life carries the settled, hard-earned conviction of long experience.
+
+Spirit markers: Wei is the closing character of the Hae-Myo-Mi (亥卯未) Wood trinity, the symbol of completion and harvest, and a classical mixed-Qi storehouse (雜氣) holding Fire, Wood, and Earth together. The Sinmi Day Branch is therefore a high-grade seat that houses Resource, Wealth, and Officer at once — yet it is also a storehouse, and the treasures inside usually only emerge into the world when the storehouse is opened by Punishment, Clash, or Break.
+
+Energy characteristics: Earth generates Metal (土生金), so the Day Branch supports the Day Master in the standard productive cycle. However, Wei is dry earth, and the image leans less toward nourishing moisture and more toward burial — a gemstone partially submerged in the soil. Together with the suppressive pressure of Seven Killings in the residual hidden stem, Sinmi presents an outwardly firm composure that masks a continuous inner process of self-refinement and self-scrutiny.
+
+### 2. Personality Traits
+
+Strengths:
+- Yin Metal's nature produces fine sensitivity and precision, with a strong eye for aesthetic quality and personal dignity
+- Indirect Seal as the dominant hidden stem brings deep intuition and insight into scholarship, religion, art, and the mystical
+- Indirect Wealth in the middle position layers in a practical money sense and an outgoing, gathering social energy
+- Seven Killings as the residual Qi adds decisive force at critical moments and a strong self-protective instinct
+- Classic outer-soft, inner-firm (外柔內剛) presentation — a gentle surface that conceals strict principle and an unshakable sense of self
+
+Weaknesses:
+- Xin Metal's sensitivity combined with Seven Killings' pressure makes Sinmi natives hard on themselves; small criticisms can leave disproportionately deep marks
+- Indirect Seal lengthens deliberation — thought runs deep, sometimes deep enough to delay decisions that should be made promptly
+- With Resource, Wealth, and Officer all together in the Day Branch, internal priorities shift often, and dedicated periods of focused single-tracking are essential
+- The dry-earth nature of Wei makes Sinmi appear soft on the surface while concealing real stubbornness and a private inner world — even close friends can struggle to reach the true center
+- The storehouse structure often requires one or two major life upheavals (Punishment or Clash years) before latent talent and key relationships actually surface; the passage through these transitions is rarely painless
+
+Appearance: Fair, fine-textured skin and clean, well-proportioned features. The jewel-like luster of Xin Metal mixed with the softness of Wei Earth produces a composed, refined atmosphere; Sinmi natives tend to show natural taste in clothing and styling. The beauty here is restrained and elegant rather than flashy — a quietly polished aesthetic that holds up over time.
+
+### 3. Career and Wealth
+
+Ideal careers: Indirect Seal's depth, Indirect Wealth's activity, and Seven Killings' decisiveness combine into a profile that excels wherever precision and elevated craft are required.
+- Medicine and biotech: Physicians, pharmacists, traditional medicine practitioners, nurses, clinical pathologists, precision medicine fields (Xin Metal's precision plus Indirect Seal's scholarship)
+- Jewelry, beauty, and design: Jewelry crafting, makeup artistry, fashion design, interior design (Xin Metal's native domain plus Indirect Wealth's aesthetic sense)
+- Scholarship, research, and religion: Professors, researchers, religious practitioners, counselors, psychotherapists (the depth of Indirect Seal)
+- Legal, tax, and specialist professions: Attorneys, tax accountants, certified accountants, paralegals (Seven Killings' decisiveness plus Indirect Wealth's money sense)
+- Arts and culture: Writers, critics, curators, publishing editors (the intuition of Indirect Seal plus Xin Metal's refinement)
+
+Wealth patterns: Indirect Wealth in the Day Branch grants strong intuitive money sense, but with Indirect Seal as the dominant Qi and Seven Killings adding pressure, wealth tends to arrive in stages — built through professional credentials, signature work, and accumulated reputation rather than a single windfall. The mixed-Qi Wealth often opens new channels precisely after significant life upheavals (career change, relocation, relationship shifts), giving Sinmi a late-blooming, depth-as-asset profile. The chart rewards quiet substance over visible display; building real reserves out of sight tends to fit the structure best.
+
+Business suitability: Xin Metal's precision and Indirect Wealth's sensibility combine well for small, high-craft one-person practices or signature brand businesses. Large-scale operations are less natural than studios, clinics, or ateliers with a clear personal identity; partnerships warrant caution given Seven Killings' conflict potential and Indirect Wealth's volatility. If business is pursued, the strongest structure is one in which personal credential, signature work, or domain expertise itself becomes the brand.
+
+### 4. Love and Marriage
+
+Men with Sinmi Day Pillar: The middle hidden stem Yi Wood, the wife-position element for men, gives early access to marriage prospects, but the Indirect Wealth nature also makes for multiple early relationships or a first bond that struggles to last. With Seven Killings sharing the Day Branch, post-marriage responsibilities and head-of-household pressure tend to weigh heavily; stability rises with a more active, socially confident partner. Sinmi men show their best quality when they resist the pull of outside attractions and pour their precision into one chosen relationship.
+
+Women with Sinmi Day Pillar: Seven Killings sits as the residual Qi in the Day Branch and acts as the husband element in a strong, sharp-edged form — Sinmi women tend to attract decisive, strong-willed men in proportion to their own pride. The Seven Killings dynamic can express as controlling or intrusive behavior inside a marriage, however, so unions formed after the woman has established her own social and financial footing tend to be far more stable. Indirect Seal places high weight on values alignment and intellectual connection; relationships that fail on that front are usually healthier to close early than to extend.
+
+Compatible Day Pillars: Gapo (甲午), Byeongo (丙午), Muo (戊午), Gyeongo (庚午), and Imo (壬午) form the Wu-Wei (午未) combination with Wei, producing soft and harmonious bonds. The Hae-Myo-Mi (亥卯未) Wood trinity adds depth — Eulmyo (乙卯), Jeongmyo (丁卯), Gimyo (己卯), Sinmyo (辛卯), Gyemyo (癸卯), and Eulhae (乙亥), Jeonghae (丁亥), Gihae (己亥), Sinhae (辛亥), Gyehae (癸亥) all bring trustworthy, deep relationships. The clear caution is the Chuk-Mi Chung (丑未沖): Eulchuk (乙丑), Jeongchuk (丁丑), Gichuk (己丑), Sinchuk (辛丑), and Gyechuk (癸丑) crack open the storehouse in turbulent fashion.
+
+### 5. Health Considerations
+
+Metal element health:
+- Lungs and respiratory system: As a Xin Metal Day Master, the lungs, bronchi, throat, and skin are the central areas to protect. Yin Metal's nature is prone to chronic rhinitis, sore throat, asthma, and allergies, and dry environments raise the burden significantly.
+- Skin and hair: Compromised Metal often shows up as dry skin, atopic flares, and weakened hair; consistent hydration and detailed personal care are lifelong work.
+
+Earth element health:
+- Stomach and digestion: The dry-earth nature of Wei tends to produce dry stomach, reflux esophagitis, and chronic gastritis. Spicy, stimulating food and irregular meals amplify the load disproportionately for this pillar.
+- Spleen and pancreas: When Earth weakens, appetite drops and digestion slips, with possible knock-on issues for blood sugar metabolism; steady meal timing and consistent diet structure are the protective baseline.
+
+Fire element health:
+- Heart and blood pressure: The hidden Seven Killings Fire means that accumulated chronic stress lands on the heart, blood pressure, and autonomic nervous system over time.
+- Nerves and sleep: Seven Killings' pressure combined with Indirect Seal's deep cognition produces insomnia, vivid bad dreams, and tension headaches; deliberate sleep hygiene and rest rhythm are essential.
+
+Mental and emotional health:
+- Indirect Seal's deep rumination and Seven Killings' internal scrutiny combine into a real risk of chronic anxiety and low mood; outlets like writing, therapy, and creative work — anything that externalizes the internal monologue — are not optional.
+- Sinmi natives tend to be hard on themselves and replay small mistakes for far longer than the situation warrants; intentional self-forgiveness practices and protected rest rituals are lifelong work for this pillar.
+
+Seasonal management: The Wei month (early July to early August) is the peak of the Day Branch's energy, when dry-earth excess pushes hardest on Xin Metal and the image of burial dominates — high summer demands deliberate hydration and conscious rest. The Chou (丑) month (January) brings the Chuk-Mi Chung clash that opens the storehouse abruptly, calling for added care across health, career moves, relocations, and relationship transitions. Autumn (the Shen and You months) is Xin Metal's home season and the time when natural vitality and decisive clarity return most strongly.
+
+The Sinmi Day Pillar is a gemstone half-buried in summer earth — composed and elegant on the surface, yet quietly housing Resource, Wealth, and Officer all in one place. When Sinmi natives convert the weight of self-refinement into genuine depth and learn, season by season, to bring the treasures of the storehouse into the light, they emerge as a single point of utterly distinctive luster — a gem no one else can imitate.
+    `.trim()
   }
 ];
