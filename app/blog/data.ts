@@ -1739,5 +1739,167 @@ Seasonal management: The Wei month (early July to early August) is the peak of t
 
 The Sinmi Day Pillar is a gemstone half-buried in summer earth — composed and elegant on the surface, yet quietly housing Resource, Wealth, and Officer all in one place. When Sinmi natives convert the weight of self-refinement into genuine depth and learn, season by season, to bring the treasures of the storehouse into the light, they emerge as a single point of utterly distinctive luster — a gem no one else can imitate.
     `.trim()
+  },
+  {
+    slug: "ilju-09-imsin",
+    title: "임신(壬申)일주 분석: 60갑자 일주 시리즈 #9",
+    title_en: "Imsin (壬申) Day Pillar Analysis: 60 Day Pillars Series #9",
+    date: "2026-05-25",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "거대한 바위에서 솟아나는 큰 강물의 형상 — 곡류주해(曲流注海)의 임신일주가 지닌 장생(長生)의 활력과 지혜, 편인·비견·칠살이 한 자리에 모인 학자 겸 활동가의 구조, 그리고 역마의 흐름을 자기 무대로 바꾸는 통천하해(通天下海)의 길을 분석합니다.",
+    excerpt_en: "Like a vast river springing from a great mountain of rock, Imsin Day Pillar natives are born on a Long Life seat that fuses Indirect Seal, Companion, and Seven Killings in a single Day Branch — a BaZi reading of how restless intelligence, traveler's drive, and the call of distant horizons shape their careers, relationships, and health.",
+    content: `
+임신(壬申)일주는 육십갑자의 아홉 번째 일주로, 천간의 임수(壬水)와 지지의 신금(申金)이 결합된 형상입니다. 거대한 바위산에서 솟아나는 큰 강물의 모습 — 곡류주해(曲流注海), 곧 굽이굽이 흘러 마침내 바다에 이르는 도도한 흐름의 형상으로 알려져 있습니다. 발원지가 단단하고 깊은 만큼, 한 번 흐르기 시작하면 누구도 막을 수 없는 자기 길을 가는 일주입니다.
+
+### 1. 기본 구조
+
+천간 임수(壬水)는 10천간 중 양수(陽水)로, 큰 강·바다·호수와 같은 도도한 큰 물의 본질을 상징합니다. 지혜·포용력·유연성·먼 곳으로 향하는 흐름이 그 본성이며, 한자리에 고이기보다 끊임없이 새로운 지형을 향해 나아가려는 큰 그릇의 기상을 지닙니다. 지지 신금(申金)은 양지지로, 가공되지 않은 광석·바위·도끼와 같은 거친 금의 기운으로, 단단하면서도 결단력 있는 양금(陽金)에 해당합니다.
+
+천간-지지 관계에서 신금(申金)의 지장간은 무토(戊土)·임수(壬水)·경금(庚金)으로 구성되며, 본기는 경금(庚金)입니다. 임수(壬水) 일간 기준으로 본기 경금은 편인(偏印), 중기 임수는 비견(比肩), 여기 무토는 편관(偏官, 칠살七殺)에 해당합니다. 일지 안에 인성·비겁·관성이 함께 자리하여, 학문(인)·동료(비겁)·명예와 압박(관)이 한 글자 안에 응축된 자리입니다.
+
+12운성으로 보면 임수(壬水)는 신금(申金) 위에서 장생(長生)에 해당합니다. 장생은 막 태어난 생명이 활기차게 자라나는 단계로, 일주 12운성 중에서도 가장 활력 있고 미래지향적인 자리에 속합니다. 신금이 임수를 금생수(金生水)로 직접 생해주는 동시에, 일지 자체가 일간의 발원지(發源地) 역할을 하므로, 외양은 차분하더라도 내면에는 마르지 않는 에너지의 원천이 자리합니다.
+
+신살: 신금은 신자진(申子辰) 삼합 수국(水局)의 첫 글자로, 큰 물의 흐름이 발원하는 자리입니다. 동시에 신(申)은 인·신·사·해(寅申巳亥)의 사맹(四孟)에 속하는 역마(驛馬)의 글자이기도 하여, 임신일주는 태생적으로 이동·여행·해외·변화의 운이 강하게 깃든 일주입니다. 또한 임수와 신금의 결합은 학당귀인(學堂貴人)·문창귀인(文昌貴人)의 자리로도 분류되어, 학문과 글재주에 깊은 인연이 있습니다.
+
+에너지 특성: 금생수(金生水)의 상생 관계로 일지 신금이 일간 임수를 강하게 생해주는 매우 활성화된 구조입니다. 발원지가 단단한 바위인 만큼 임수의 흐름은 깊고 빠르며, 여기 무토 칠살의 압박이 동시에 작용하여 흐름에 일정한 제동과 방향성을 부여합니다. 외적으로는 시원하고 활달해 보이지만, 내면에는 한 자리에 머물지 못하는 역동성과 자기 검열이 함께 흐르는 일주입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 양수의 본성으로 그릇이 크고 사고가 유연하며, 한 가지 시각에 갇히지 않는 폭넓은 통찰력을 지님
+- 편인(偏印)이 일지 본기로 자리해 학문·종교·외국어·전문 지식 분야에 대한 깊은 직관과 흡수력을 지님
+- 비견(比肩) 중기의 영향으로 동료와 어울리는 사회성이 발달하고, 자기 주관이 분명하여 누구에게도 쉽게 휘둘리지 않음
+- 편관(七殺) 여기의 영향으로 결정적 순간의 추진력이 살아 있고, 위기 상황에서 오히려 침착해지는 강단을 지님
+- 장생의 자리답게 새로운 환경·새로운 사람·새로운 분야에 빠르게 적응하며, 평생 배움의 활력을 유지함
+
+단점:
+- 양수와 역마의 결합으로 한자리에 오래 머물기 어려워, 직장·주거·관계 모두 변동이 잦은 패턴을 보임
+- 편인의 영향으로 생각이 많고 의심이 깊어, 자신의 큰 흐름과 작은 일상의 균형이 자주 흔들림
+- 일지에 비견이 함께 있어 자기 고집이 강하고, 한 번 마음먹은 일은 주변의 만류에도 굽히지 않는 면이 있음
+- 칠살의 압박과 큰 물의 변동성이 결합되어 색난(色難)·구설·송사·이동수가 인생의 결정적 구간마다 나타날 수 있음
+- 그릇이 큰 만큼 작은 성취에 만족하지 못해, 늘 다음 무대를 향해 떠나려는 갈증이 평생의 화두가 됨
+
+외모 경향: 키가 크고 골격이 시원하며, 이목구비가 또렷한 편입니다. 임수의 도도한 흐름과 신금의 강건함이 결합되어 시원시원하고 지적인 분위기를 풍기며, 눈빛에 깊이와 활기가 함께 담깁니다. 남녀를 불문하고 첫인상에서 "그릇이 크다"는 평을 자주 듣는 외형적 특징을 지닙니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 편인의 깊이, 비견의 사회성, 칠살의 결단력, 그리고 역마의 활동성이 결합되어 이동·국제·전문성이 요구되는 분야에서 큰 역량을 발휘합니다.
+- 무역·해운·항공·물류: 국제 무역, 해운업, 항공업, 물류 컨설팅, 통관·관세 전문가 (역마 + 양수의 흐름)
+- 외교·국제기구·해외 주재: 외교관, 국제기구 활동가, 해외 지사 전문가, 국제 변호사 (편인 + 역마)
+- 학문·연구·교육: 교수, 연구원, 교사, 박사급 전문가, 외국어 강사 (편인의 깊이 + 학당·문창귀인)
+- IT·디지털·미디어: 데이터 분석, 글로벌 IT 컨설팅, 디지털 콘텐츠, 방송·언론 (임수의 유연성 + 비견의 네트워크)
+- 종교·철학·역학: 종교인, 철학자, 명리·역학 전문가, 심리상담가 (편인의 통찰)
+
+재물 패턴: 임신일주는 일지에 직접적인 재성이 없는 대신, 큰 물의 흐름과 인성·관성·비겁의 결합으로 자기 전문성과 인적 네트워크가 곧 재물이 되는 구조입니다. 한 곳에서 평생 모으는 안정형보다는, 이동·이직·해외 진출·새로운 분야 개척 같은 큰 흐름의 변동 속에서 재물이 단계적으로 확장되는 동적(動的) 재물운입니다. 비견의 영향으로 동업·공동 사업에서 의외의 기회가 열리기도 하지만, 동시에 재물의 분산·차용·보증 문제도 평생 경계해야 할 항목입니다.
+
+사업 적성: 양수의 큰 그릇과 역마의 활동성이 결합되어 국제·이동·전문성을 기반으로 한 사업에 적성이 있습니다. 한 지역에 고정된 점포형 사업보다는 무역·컨설팅·해외 진출·온라인 글로벌 비즈니스처럼 흐름이 큰 사업이 잘 맞으며, 동업은 비견의 갈등 가능성과 칠살의 권력 다툼 때문에 처음부터 역할과 지분을 명확히 해두어야 합니다. 사업을 한다면 자기 전문성과 인적 네트워크가 곧 자산이 되는 구조를 권합니다.
+
+### 4. 연애와 결혼
+
+남성 임신일주: 남자에게 처(妻)의 자리인 일지에 직접적인 재성이 없는 대신, 활동 무대 자체가 인연의 영역이 됩니다. 사회적으로 활발하게 움직이는 가운데 다양한 인연을 만나는 편이며, 색난(色難)이라 불릴 만큼 이성의 호감을 끄는 매력이 강합니다. 다만 양수의 변동성과 역마의 이동성이 결합되어 한 사람에게 정착하는 결단이 늦어질 수 있으니, 결혼은 자기 활동 무대가 어느 정도 자리 잡힌 뒤가 안정적입니다. 자기보다 차분하고 안정적인 여성을 만났을 때 임신의 큰 흐름이 가장 빛납니다.
+
+여성 임신일주: 일지 여기에 편관(칠살)이 자리해 남편성이 분명한 형태로 작용하며, 본인의 활동력과 사회성이 강한 만큼 사회적 위치가 분명한 남성과 인연이 이어집니다. 다만 칠살의 압박과 비견의 자존심이 결합되어 결혼 후에도 자기 일과 자기 영역을 양보하지 않으려는 성향이 강하므로, 본인의 활동을 존중해주는 남편을 만나야 갈등이 줄어듭니다. 편인의 영향으로 정신적 교감과 지적 공감대를 깊이 중시하므로, 그 부분에서 어긋난 인연은 오래 끌지 않는 편이 본인에게 이롭습니다.
+
+궁합이 좋은 일주: 신자진(申子辰) 삼합 수국으로 깊은 신뢰의 인연을 형성하는 갑자(甲子), 병자(丙子), 무자(戊子), 경자(庚子), 임자(壬子) 일주, 그리고 갑진(甲辰), 병진(丙辰), 무진(戊辰), 경진(庚辰), 임진(壬辰) 일주와 자연스럽게 흐름이 합쳐집니다. 사신합(巳申合)을 이루는 을사(乙巳), 정사(丁巳), 기사(己巳), 신사(辛巳), 계사(癸巳) 일주와도 합의 인연이 형성되지만, 사신은 합이자 형(刑)이 되는 합형(合刑)의 자리이므로 처음의 끌림이 강한 만큼 후반의 갈등도 함께 따라옵니다. 다만 인신충(寅申沖)을 일으키는 갑인(甲寅), 병인(丙寅), 무인(戊寅), 경인(庚寅), 임인(壬寅) 일주와는 발원지 자체가 흔들리는 격렬한 충돌이 따르므로 매우 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+수(水) 계열 건강:
+- 신장과 방광: 임수 일간으로 신장·방광·비뇨생식기가 핵심 관리 부위입니다. 양수의 큰 흐름이 정체되면 신장 결석·요로 감염·부종 같은 문제가 잘 나타납니다.
+- 호르몬과 생식기: 수 기운의 균형이 무너지면 호르몬 불균형, 생리 불순, 생식 기능 저하로 이어질 수 있으므로 평소의 보온과 휴식이 중요합니다.
+
+금(金) 계열 건강:
+- 폐와 호흡기: 일지 신금의 영향으로 폐·기관지·대장이 함께 관리 대상입니다. 양금의 거친 기운이 강할 때 만성 기침·기관지염·대장 트러블이 잘 나타납니다.
+- 피부와 근골: 신금의 강건함이 무너지면 피부 트러블·관절통·근골 손상이 누적되기 쉬우므로 운동과 자세 관리가 평생의 과제입니다.
+
+토(土) 계열 건강:
+- 위장과 소화기: 지장간 무토 칠살의 영향으로 만성 스트레스가 위장으로 몰리는 경향이 강합니다. 폭음·폭식·불규칙한 식사는 임신일주에게 특히 부담이 큽니다.
+- 비장과 췌장: 칠살이 한 번 활성화될 때 비·췌장의 부담이 함께 커지므로 식사 시간과 식단의 일관성을 의식적으로 지켜야 합니다.
+
+정신 건강:
+- 편인의 깊은 사색과 양수의 변동성이 결합되어 결정적 시기에 권태감과 방향 상실을 느끼기 쉬우니, 글쓰기·여행·새로운 학습 같은 흐름의 출구를 의식적으로 마련해야 합니다.
+- 비견의 자기 주관과 칠살의 압박이 충돌할 때 분노와 답답함이 함께 쌓이는 패턴이 있으니, 운동·여행·자기 표현 같은 신체적 해소 통로가 평생의 과제입니다.
+
+계절 관리: 신월(申月, 양력 8월 초~9월 초)은 일지 에너지가 가장 강해지는 시기로 활력과 결단력이 살아나는 계절이지만, 동시에 역마의 기운이 함께 극대화되어 이동·이직·이사 같은 큰 변동이 일어나기 쉽습니다. 인월(寅月, 양력 2월)에는 인신충(寅申沖)이 일어나 일지 발원지가 흔들리므로 건강·계약·관계 정리 모두 신중함이 필요합니다. 겨울(亥·子月)이 임수의 본기 계절로 사색과 통찰력이 가장 깊어지는 시기이며, 한 해의 큰 방향을 정리하기에 좋은 계절입니다.
+
+임신(壬申)일주는 단단한 바위에서 솟아나는 큰 강물의 형상 — 시작부터 발원지가 깊고 단단하며, 한 번 흐르기 시작하면 누구도 막을 수 없는 자기 길을 가는 일주입니다. 역마의 갈증을 자기 무대의 확장으로, 칠살의 압박을 결단의 힘으로 바꿔낼 때, 임신일주는 마침내 통천하해(通天下海) — 천하의 바다에 이르는 도도한 흐름으로 그 본래의 격을 완성합니다.
+    `.trim(),
+    content_en: `
+The Imsin (壬申) Day Pillar is the ninth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Ren Water (壬水) with the Earthly Branch Shen Metal (申金) — the image of a vast river springing from a great mountain of solid rock. Classical practice calls this Gok-Ryu-Ju-Hae (曲流注海), "winding currents pouring into the sea," the form of a deep and unstoppable flow that ultimately reaches the ocean. Because the source is hard and deep, once Imsin natives begin to move, no one can hold back the course they have set for themselves.
+
+### 1. Basic Structure
+
+Ren Water (壬水) is Yang Water — not still pond water but the great river, the open sea, the wide lake. Its essence is wisdom, breadth, flexibility, and the pull toward distant horizons; it does not sit still in one place but moves continually toward new terrain. Shen Metal (申金) is a Yang Branch carrying unrefined ore, mountain rock, and the cutting axe — the rough, decisive Yang Metal that has not yet been shaped into ornament.
+
+The Earthly Branch Shen contains Wu Earth (戊土), Ren Water (壬水), and Geng Metal (庚金) as its hidden stems, with Geng Metal as the dominant root Qi. From Ren Water's perspective as Day Master, the dominant Geng Metal is Indirect Resource / Indirect Seal (偏印 / Pian Yin), the middle Ren Water is Companion (比肩 / Bi Jian), and the residual Wu Earth is Seven Killings (偏官 / 七殺). The Day Branch therefore concentrates Resource, Companion, and Officer in a single character — scholarship, peer support, and authority all gathered in one seat.
+
+In the 12 Life Stage system, Ren Water at Shen is in the Long Life Stage (長生 / Chang Sheng). Long Life is the stage of fresh, vital growth — among all 12 stages it is one of the most energetic and future-oriented seats. Shen Metal generates Ren Water through the productive cycle (Metal generates Water), and the Day Branch itself functions as the Day Master's source of origin. The outer presence may appear calm, but the inner life carries an unfailing wellspring of energy.
+
+Spirit markers: Shen is the opening character of the Shen-Zi-Chen (申子辰) Water trinity, the gathering place where the great currents begin. It is also one of the Four Initial Branches (寅申巳亥), giving Imsin a strong native Yima (驛馬, Traveler) Star — movement, travel, and overseas opportunity are written into the structure itself. The Imsin combination is further classified as a seat of the Academy Nobleman (學堂貴人) and Literary Star (文昌貴人), marking a deep affinity for scholarship and writing.
+
+Energy characteristics: Metal generates Water (金生水), so the Day Branch strongly supports the Day Master in the productive cycle. Because the source is hard rock, the river of Ren Water runs deep and fast; the residual Wu Earth Seven Killings adds a measure of friction and directional pressure to that flow. The outward presence is open and bright, but underneath runs a constant motion that cannot easily stay in one place — paired with the inner pressure of Seven Killings' self-discipline.
+
+### 2. Personality Traits
+
+Strengths:
+- Yang Water's nature produces a large container and flexible thinking, with the breadth to hold multiple perspectives at once
+- Indirect Seal as the dominant hidden stem brings deep intuition and powerful absorption for scholarship, religion, foreign languages, and specialized knowledge
+- Companion in the middle position adds strong peer-group sociability and a firm self-direction that is hard to push around
+- Seven Killings as the residual Qi adds decisive force in critical moments and a calmness under pressure that can surprise the people nearby
+- True to the Long Life seat, Imsin natives adapt quickly to new environments, new people, and new fields, and they retain a strong appetite for learning across an entire lifetime
+
+Weaknesses:
+- Yang Water combined with Traveler Star makes staying long in any single place difficult; jobs, residences, and relationships all tend to show frequent transitions
+- Indirect Seal lengthens the inner deliberation, and the gap between the big life vision and the small daily rhythm often shows up as imbalance
+- With Companion in the Day Branch, self-direction is strong enough to override the warnings of friends and family once a decision has been made
+- Seven Killings' pressure combined with great-river volatility produces classical Sek-Nan (色難, romantic trouble), public disputes, lawsuits, and movement events at major life turning points
+- The container is so large that small accomplishments do not satisfy, and the lifelong question becomes how to handle the constant thirst for the next stage
+
+Appearance: Often tall, with open frame and clear, well-defined features. The wide flow of Ren Water and the strength of Shen Metal combine into an open, intelligent presence; the eyes hold both depth and energy at the same time. Regardless of gender, first impressions of Imsin natives often include the comment that the person seems to be a "big container."
+
+### 3. Career and Wealth
+
+Ideal careers: Indirect Seal's depth, Companion's sociability, Seven Killings' decisiveness, and the Traveler Star's mobility combine into a profile that excels in fields requiring movement, international scope, and deep specialization.
+- Trade, shipping, aviation, and logistics: International trade, shipping, aviation, logistics consulting, customs and tariff specialists (Traveler Star plus Yang Water's flow)
+- Diplomacy, international organizations, and overseas postings: Diplomats, international NGO and IGO professionals, overseas branch leaders, international attorneys (Indirect Seal plus Traveler Star)
+- Scholarship, research, and education: Professors, researchers, teachers, doctoral-level specialists, language instructors (Indirect Seal's depth plus the Academy and Literary Star)
+- IT, digital, and media: Data analysis, global IT consulting, digital content, broadcasting and journalism (Ren Water's flexibility plus Companion's network)
+- Religion, philosophy, and metaphysics: Religious practitioners, philosophers, BaZi and Yi Jing specialists, psychological counselors (Indirect Seal's insight)
+
+Wealth patterns: Imsin does not have a direct Wealth element in the Day Branch; instead, the combination of great-river flow with Seal, Officer, and Companion turns personal expertise and human network themselves into the wealth structure. Rather than the stable, place-bound accumulation model, Imsin shows a dynamic wealth profile in which assets expand in stages through transitions — career changes, overseas moves, and opening of new fields. Companion energy creates unexpected opportunities in partnerships and joint ventures, but it also keeps wealth-dispersion, loans, and guarantor risk on the lifelong watch list.
+
+Business suitability: Yang Water's large container and the Traveler Star's activity favor businesses built around international scope, movement, and specialization. Fixed-location storefronts fit less naturally than trade, consulting, overseas ventures, and global online operations where the flow itself is the business. Partnerships warrant care given Companion's potential for conflict and Seven Killings' authority struggles — roles and equity should be settled with clarity from the very start. When pursued, the strongest business structure is one in which personal expertise and personal network become the asset.
+
+### 4. Love and Marriage
+
+Men with Imsin Day Pillar: The Day Branch has no direct Wealth element, so the activity stage itself becomes the field where partnerships appear. Imsin men move actively in social life, meet a wide range of partners, and carry enough native charm to earn the classical Sek-Nan (色難) label — the magnetism that attracts opposite-sex attention readily. Yang Water's volatility and the Traveler Star's mobility, however, often delay the decision to settle with a single partner; marriage tends to stabilize more securely after the man's own stage of activity has clear footing. The pillar shines brightest in partnership with a steadier, more grounded woman who anchors the larger flow.
+
+Women with Imsin Day Pillar: Seven Killings sits as the residual Qi in the Day Branch and acts as the husband element in a sharp, well-defined form — strong-position men are drawn in proportion to the woman's own activity and social presence. The combination of Seven Killings' pressure and Companion's pride, however, means Imsin women rarely yield their own work or domain after marriage; matches with husbands who respect that autonomy show far less friction. Indirect Seal places high weight on intellectual resonance and shared values; relationships that fail on that axis are usually healthier to close early than to extend.
+
+Compatible Day Pillars: Gapja (甲子), Byeongja (丙子), Muja (戊子), Gyeongja (庚子), and Imja (壬子), together with Gapjin (甲辰), Byeongjin (丙辰), Mujin (戊辰), Gyeongjin (庚辰), and Imjin (壬辰), form the Shen-Zi-Chen Water trinity for deep, trustworthy unions in which the flows naturally combine. Eulsa (乙巳), Jeongsa (丁巳), Gisa (己巳), Sinsa (辛巳), and Gyesa (癸巳) form the Sa-Sin combination, but Sa-Sin is simultaneously a combination and a Punishment (合刑) — the initial attraction is strong and so are the later frictions. The clear caution is the In-Sin Chung (寅申沖): Gapin (甲寅), Byeongin (丙寅), Muin (戊寅), Gyeongin (庚寅), and Imin (壬寅) shake the very source of the flow and bring turbulent collisions.
+
+### 5. Health Considerations
+
+Water element health:
+- Kidneys and bladder: As a Ren Water Day Master, the kidneys, bladder, and urinary-reproductive system are the central areas to protect. When the great-river flow stagnates, kidney stones, urinary infections, and edema appear more readily.
+- Hormones and reproductive function: A loss of Water balance can translate into hormonal imbalance, irregular cycles, and reduced reproductive function; warmth and rest in daily routine carry real protective weight.
+
+Metal element health:
+- Lungs and respiratory system: Shen Metal in the Day Branch keeps the lungs, bronchi, and large intestine on the maintenance list. When the rough Yang Metal Qi runs strong, chronic cough, bronchitis, and intestinal discomfort surface more frequently.
+- Skin and musculoskeletal system: A weakening of Shen Metal often shows up as skin trouble, joint pain, and accumulated musculoskeletal strain; consistent exercise and posture care are lifelong work for this pillar.
+
+Earth element health:
+- Stomach and digestion: The hidden Wu Earth Seven Killings tends to channel chronic stress straight into the stomach. Binge drinking, binge eating, and irregular meals press disproportionately hard on Imsin natives.
+- Spleen and pancreas: When Seven Killings activates, the spleen and pancreas take a parallel hit; steady meal timing and consistent diet structure are the baseline protection.
+
+Mental and emotional health:
+- Indirect Seal's deep rumination combined with Yang Water's volatility produces real risk of mid-life ennui and a sense of lost direction; deliberate outlets like writing, travel, and entering new study fields are not optional.
+- Companion's self-direction clashing with Seven Killings' pressure creates a recurring pattern of anger and stuck frustration; physical release channels — exercise, travel, expressive practice — are lifelong work for this pillar.
+
+Seasonal management: The Shen month (early August to early September) is the peak of the Day Branch's energy, when vitality and decisiveness are most alive — but the Traveler Star intensifies in the same period, and major movement events such as job changes, relocations, and travel surges are common. The Yin (寅) month (February) brings the In-Sin Chung that shakes the source of the flow itself, calling for added care across health, contracts, and relationship transitions. Winter (the Hai and Zi months) is Ren Water's home season and the time when reflection and insight run deepest — a strong time of year for setting the larger direction.
+
+The Imsin Day Pillar is a vast river breaking forth from solid mountain rock — a source that is deep and unyielding from the very beginning, a current that no one can hold back once it starts to move. When Imsin natives convert the thirst of the Traveler into the expansion of their own stage, and the pressure of Seven Killings into the force of clean decision, they complete their classical form at last: Tong-Cheon-Ha-Hae (通天下海), the great current that pours through heaven and reaches the sea.
+    `.trim()
   }
 ];
