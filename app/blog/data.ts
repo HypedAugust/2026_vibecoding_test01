@@ -1901,5 +1901,167 @@ Seasonal management: The Shen month (early August to early September) is the pea
 
 The Imsin Day Pillar is a vast river breaking forth from solid mountain rock — a source that is deep and unyielding from the very beginning, a current that no one can hold back once it starts to move. When Imsin natives convert the thirst of the Traveler into the expansion of their own stage, and the pressure of Seven Killings into the force of clean decision, they complete their classical form at last: Tong-Cheon-Ha-Hae (通天下海), the great current that pours through heaven and reaches the sea.
     `.trim()
+  },
+  {
+    slug: "ilju-10-gyeyu",
+    title: "계유(癸酉)일주 분석: 60갑자 일주 시리즈 #10",
+    title_en: "Gyeyu (癸酉) Day Pillar Analysis: 60 Day Pillars Series #10",
+    date: "2026-05-30",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "빛나는 거울 위로 흐르는 맑은 샘물의 형상 — 옥수정명(玉水晶明)의 계유일주가 지닌 도화의 매력과 정인·편인이 한 자리에 모인 인성의 깊이, 그리고 금백수청(金白水淸)의 청수한 격을 분석합니다.",
+    excerpt_en: "Like a clear spring flowing over a polished mirror, Gyeyu Day Pillar natives are born on a Peach Blossom seat that fuses both Direct and Indirect Seal into a single Day Branch — a BaZi reading of how mystic intelligence, magnetic appeal, and the classical Geum-Baek-Su-Cheong (金白水淸) pattern shape their careers, relationships, and health.",
+    content: `
+계유(癸酉)일주는 육십갑자의 열 번째 일주로, 천간의 계수(癸水)와 지지의 유금(酉金)이 결합된 형상입니다. 빛나는 거울 위로 흐르는 맑은 샘물의 모습 — 옥수정명(玉水晶明), 곧 옥처럼 맑은 물이 수정처럼 빛나는 형상으로 알려져 있습니다. 외양은 단정하고 매혹적이며, 내면에는 두 종류의 인성(印星)이 응축된 깊은 통찰이 자리한 일주입니다.
+
+### 1. 기본 구조
+
+천간 계수(癸水)는 10천간 중 음수(陰水)로, 이슬·비·시냇물·샘물과 같은 작은 물의 본질을 상징합니다. 부드럽고 섬세하면서도 모든 틈으로 스며들어가는 침투력을 지니며, 외양은 약해 보이지만 끝내 거대한 흐름을 이루는 침묵의 강자입니다. 지지 유금(酉金)은 음지지로, 정제된 금속·보석·거울·바늘과 같은 세련되고 빛나는 음금(陰金)에 해당합니다.
+
+천간-지지 관계에서 유금(酉金)의 지장간은 경금(庚金, 여기)과 신금(辛金, 본기)으로 구성되며, 본기는 신금입니다. 계수(癸水) 일간 기준으로 본기 신금(음간이 음간을 생)은 편인(偏印)에 해당하고, 여기 경금(양간이 음간을 생)은 정인(正印)에 해당합니다. 일지 안에 정인과 편인이 동시에 자리하여, 두 종류의 학문과 통찰의 원천이 한 자리에 응축된 인성의 정수 같은 구조입니다.
+
+12운성으로 보면 자평진전(子平眞詮)의 음양역행 원리로는 계수가 유금에서 병(病)에 해당하며, 음양동궁(陰陽同宮)의 관점에서는 목욕(沐浴)에 해당합니다. 병은 외양은 차분하지만 내면이 예민한 자리로 사색과 통찰이 깊어지는 단계이며, 목욕은 정제되고 다듬어지는 시기로 도화의 매력이 가장 강하게 발현되는 자리입니다. 어느 관점에서 보든, 일지 신금이 계수를 직접 생해주는 금생수(金生水)의 강한 인성 작용은 변하지 않습니다.
+
+신살: 유금은 자·오·묘·유(子午卯酉) 사패지(四敗地)의 글자로, 도화(桃花)·함지(咸池)에 해당합니다. 일지 도화는 본인 자체에서 발산되는 매력이 강하다는 의미로, 계유일주는 60갑자 중에서도 손꼽히는 매력의 일주로 분류됩니다. 동시에 유금은 사·유·축(巳酉丑) 삼합 금국(金局)의 중심 글자로, 인성의 응결력이 가장 강한 자리입니다. 계수와 신금의 조합은 또한 "금백수청(金白水淸)" — 맑은 금이 맑은 물을 생해주는 격으로, 청수(淸秀)·총명(聰明)·문장(文章)의 격으로 옛부터 칭송받아 왔습니다.
+
+에너지 특성: 금생수(金生水)의 강한 상생 관계로 일지 유금이 일간 계수를 직접 생해주는 인성 중심의 구조입니다. 보석같은 신금이 맑은 시냇물 계수를 빛나게 비추는 형상이며, 외양은 깨끗하고 단정해 보이지만 내면에는 깊은 사색과 예민한 직관이 흐릅니다. 두 종류의 인성이 한 자리에 모인 만큼 한번 빠진 분야에는 누구보다 깊이 들어가는 몰입력을 지니되, 동시에 도화의 영향으로 본인이 의식하지 못한 매력이 끊임없이 인연을 부르는 일주입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 음수의 섬세함과 인성의 깊이가 결합되어 통찰력이 비범하고, 한 분야를 깊이 파고드는 학자적 자질을 지님
+- 일지 편인과 여기 정인이 함께 자리해 두 가지 이상의 전문성을 평생에 걸쳐 쌓는 다재다능함이 있음
+- 도화의 자리답게 외양이 단정하고 분위기가 매혹적이며, 사람을 끄는 자연스러운 매력이 강함
+- 금백수청의 격답게 두뇌가 명석하고, 글·말·예술·미적 감각이 모두 평균을 훨씬 웃돔
+- 음수의 침투력과 인성의 흡수력이 결합되어 새로운 지식·언어·기술의 습득 속도가 매우 빠름
+
+단점:
+- 인성이 강한 만큼 생각이 많고 결정이 늦으며, 행동보다 사색에 머무는 시간이 길어 기회를 놓치는 경우가 있음
+- 도화의 자리로 본인 의도와 무관하게 이성 문제·구설이 따라오기 쉬워, 평생 관계에서의 절제가 과제가 됨
+- 음수의 예민함과 편인의 의심이 결합되어 한 번 마음을 닫으면 좀처럼 다시 열지 않는 폐쇄성을 보일 수 있음
+- 너무 맑고 예민한 만큼 환경의 탁한 기운에 쉽게 상처받고, 인간관계의 갈등에 깊은 내상을 입는 경향이 있음
+- 두 인성의 영향으로 의존심과 자기 검열이 함께 강해, 결정적 순간의 추진력이 약해질 때가 있음
+
+외모 경향: 살결이 희고 깨끗하며, 이목구비가 단정하고 분위기가 단아합니다. 도화의 자리답게 첫인상에서부터 매력적이라는 평을 자주 듣고, 눈빛에 깊이가 있어 묘하게 신비로운 분위기를 풍깁니다. 키는 보통에서 약간 큰 편이며 골격은 가늘되 균형이 잘 잡힌 체형이 많습니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 두 인성의 깊이, 도화의 매력, 그리고 음수의 섬세한 감각이 결합되어 학문·예술·전문성·사람을 매혹하는 분야에서 큰 역량을 발휘합니다.
+- 학문·연구·교육: 교수, 연구원, 교사, 박사급 전문가, 외국어·번역 전문가 (정인·편인의 깊이)
+- 의료·심리·상담: 의사, 약사, 한의사, 심리상담사, 정신과 전문의 (편인의 통찰 + 음수의 예민함)
+- 예술·문화·디자인: 작가, 시인, 화가, 디자이너, 음악가, 영화·방송 종사자 (도화 + 음수의 미감)
+- 종교·철학·역학: 종교인, 철학자, 명리·역학 전문가, 영성 지도자 (편인의 신비주의)
+- 미용·뷰티·패션: 메이크업 아티스트, 헤어디자이너, 패션 디자이너, 뷰티 인플루언서 (도화의 자리)
+
+재물 패턴: 계유일주는 일지에 직접적인 재성이 없는 대신, 자기 전문성과 매력 그 자체가 재물의 원천이 되는 구조입니다. 인성이 강한 만큼 안정형 직장이나 자격증·전문직 형태로 평생에 걸쳐 꾸준히 모이는 형태가 잘 맞으며, 급격한 사업 확장이나 대규모 투자보다는 자기 전문성을 깊이 다져 그 가치로 재물을 만드는 흐름이 자연스럽습니다. 다만 인성의 의존심이 강해질 때 보증·차용·금전 사기에 노출될 수 있으므로 평생 경계해야 할 항목입니다.
+
+사업 적성: 음수의 섬세함과 도화의 매력이 결합되어 직접 사람을 상대하는 소규모 전문직 사업, 예술·교육·상담·뷰티 분야의 1인 브랜드, 콘텐츠 기반 사업에 적성이 있습니다. 대규모 조직을 거느리는 형태보다는 자기 전문성과 감각이 곧 브랜드가 되는 사업이 잘 맞고, 동업은 인성의 의존성으로 한 쪽이 결정을 미루다 골든타임을 놓치는 패턴이 생기기 쉬우니 처음부터 의사결정 권한을 명확히 해두어야 합니다.
+
+### 4. 연애와 결혼
+
+남성 계유일주: 남자에게 처(妻)의 자리인 일지에 직접적인 재성이 없는 대신, 도화의 매력으로 평생 이성의 인연이 끊이지 않는 구조입니다. 본인은 차분하고 점잖아 보이지만 묘하게 사람을 끄는 매력이 강하여, 의도하지 않아도 인연이 다가오는 일이 잦습니다. 다만 인성의 깊은 사색과 결단의 늦음이 결합되어 결혼 결정이 늦어지는 경향이 있고, 한 번 결정한 뒤에는 매우 깊이 정착하는 성향을 보입니다. 본인을 정신적으로 깊이 이해해주는, 차분하고 지적인 여성과의 인연이 가장 안정적입니다.
+
+여성 계유일주: 일지에 관성이 직접 자리하지 않는 대신, 도화의 매력과 인성의 매혹이 결합되어 60갑자 중에서도 손꼽히는 미인의 일주로 분류됩니다. 본인의 의도와 무관하게 다양한 인연이 다가오므로 평생 관계의 절제가 중요한 과제이며, 인성이 강한 만큼 자신을 정신적으로 깊이 인정해주는 남편을 만나야 안정됩니다. 결혼 후에도 본인의 전문 분야와 정신적 영역을 양보하지 않으려는 성향이 강하므로, 그 부분을 존중해주는 배우자와의 인연이 갈등을 줄입니다.
+
+궁합이 좋은 일주: 사유축(巳酉丑) 삼합 금국으로 인성을 강화하여 깊은 신뢰의 인연을 형성하는 을사(乙巳), 정사(丁巳), 기사(己巳), 신사(辛巳), 계사(癸巳) 일주, 그리고 을축(乙丑), 정축(丁丑), 기축(己丑), 신축(辛丑), 계축(癸丑) 일주와 자연스럽게 흐름이 합쳐집니다. 진유합(辰酉合) 금국을 이루는 갑진(甲辰), 병진(丙辰), 무진(戊辰), 경진(庚辰), 임진(壬辰) 일주와도 합의 인연이 형성됩니다. 다만 묘유충(卯酉沖)을 일으키는 을묘(乙卯), 정묘(丁卯), 기묘(己卯), 신묘(辛卯), 계묘(癸卯) 일주와는 일지 자체가 흔들리는 격렬한 충돌이 따르므로 매우 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+수(水) 계열 건강:
+- 신장과 방광: 계수 일간으로 신장·방광·비뇨생식기가 핵심 관리 부위입니다. 음수의 섬세한 흐름이 정체되면 신장 기능 저하·요로 감염·부종 같은 문제가 잘 나타납니다.
+- 호르몬과 생식기: 수 기운의 균형이 무너지면 호르몬 불균형, 생리 불순, 자궁·난소 문제로 이어질 수 있으므로 평소의 보온과 규칙적인 생활이 중요합니다.
+
+금(金) 계열 건강:
+- 폐와 호흡기: 일지 유금의 영향으로 폐·기관지·인후가 함께 관리 대상입니다. 음금의 예민한 기운이 흔들릴 때 만성 비염·기관지염·인후염이 잘 나타납니다.
+- 피부와 면역: 음금은 피부와 점막의 보호막을 관장하므로 균형이 무너지면 피부 트러블·알레르기·면역력 저하가 누적되기 쉽습니다.
+
+목(木) 계열 건강:
+- 간과 담: 인성이 강해 사색이 많은 만큼 간 기능에 부담이 누적되기 쉽고, 묘유충이 강하게 작동하는 시기에는 간담 질환의 신호가 나타날 수 있으므로 정기 검진이 필요합니다.
+- 신경계: 음수의 예민함과 편인의 사색이 결합되어 자율신경 실조·만성 두통·불면이 잘 나타나므로 충분한 휴식과 일정한 수면이 중요합니다.
+
+정신 건강:
+- 두 인성의 깊은 사색과 음수의 예민함이 결합되어 우울감·번아웃·자기 검열의 패턴이 나타나기 쉽고, 글쓰기·명상·예술 같은 표현의 출구를 의식적으로 마련해야 합니다.
+- 도화의 매력과 인성의 폐쇄성이 충돌할 때 인간관계의 피로가 누적되므로, 자기만의 정화 시간과 깊은 휴식이 평생의 과제입니다.
+
+계절 관리: 유월(酉月, 양력 9월 초~10월 초)은 일지 에너지가 가장 강해지는 시기로 사색과 직관이 깊어지는 계절이지만, 동시에 도화의 기운이 함께 극대화되어 이성 문제·구설·인간관계의 변동이 일어나기 쉽습니다. 묘월(卯月, 양력 3월)에는 묘유충(卯酉沖)이 일어나 일지가 흔들리므로 건강·계약·관계 정리 모두 신중함이 필요합니다. 겨울(亥·子月)이 계수의 본기 계절로 사색과 통찰력이 가장 깊어지는 시기이며, 한 해의 큰 방향을 정리하기에 좋은 계절입니다.
+
+계유(癸酉)일주는 빛나는 거울 위로 흐르는 맑은 샘물의 형상 — 외양은 단정하고 매혹적이며, 내면에는 두 인성의 깊은 통찰이 자리한 일주입니다. 도화의 매력을 자기 표현과 자기 무대의 확장으로, 두 인성의 사색을 결단의 지혜로 바꿔낼 때, 계유일주는 마침내 옥수정명(玉水晶明) — 옥처럼 맑은 물이 수정처럼 빛나는 — 그 본래의 청수한 격을 완성합니다.
+    `.trim(),
+    content_en: `
+The Gyeyu (癸酉) Day Pillar is the tenth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Gui Water (癸水) with the Earthly Branch You Metal (酉金) — the image of a clear spring flowing across a polished mirror. Classical practice calls this Ok-Su-Jeong-Myeong (玉水晶明), "jade-clear water shining like crystal," the form of an outwardly composed and magnetically attractive presence whose inner life carries the deep insight of two distinct Resource forms concentrated in a single seat.
+
+### 1. Basic Structure
+
+Gui Water (癸水) is Yin Water — not the great river but the dew, the rain, the spring water, and the brook that finds every crack in the stone. Its essence is softness, subtlety, and a penetrating quality that quietly seeps into every opening; outwardly fragile, it is the silent strength that ultimately joins the great currents. You Metal (酉金) is a Yin Branch holding refined metal — polished tools, jewels, mirrors, fine blades — the cultured and luminous form of Yin Metal at its most distilled.
+
+The Earthly Branch You contains Geng Metal (庚金) as the residual Qi and Xin Metal (辛金) as the dominant Qi. From Gui Water's perspective as Day Master, the dominant Xin Metal (Yin generating Yin) is Indirect Resource / Indirect Seal (偏印, Pian Yin), and the residual Geng Metal (Yang generating Yin) is Direct Resource / Direct Seal (正印, Zheng Yin). The Day Branch therefore concentrates both Direct and Indirect Seals in a single seat — two distinct sources of scholarship and insight gathered into one essence-like Resource structure.
+
+In the 12 Life Stage system, the Zi-Ping Zhen-Quan (子平眞詮) school's Yin-reverse model places Gui Water at You in Sickness (病), while the unified-palace (Yin-Yang Tong-Gung 陰陽同宮) school places it in Bathing (沐浴). Sickness is the outwardly calm but inwardly sensitive stage where reflection and insight deepen; Bathing is the polishing stage where Peach Blossom magnetism reaches its strongest expression. Across either reading, the productive cycle remains unchanged: You Metal in the Day Branch directly generates the Gui Water Day Master through Metal-generates-Water (金生水), feeding a powerful Resource-centered structure.
+
+Spirit markers: You belongs to the Four Cardinal Branches (子午卯酉) and carries the Peach Blossom Star (桃花 / 咸池). A Peach Blossom Star in the Day Branch means the magnetism emanates from the person themselves — Gyeyu is consistently counted among the most magnetically attractive Day Pillars in the 60-cycle. You is also the central character of the Si-You-Chou (巳酉丑) Metal trinity — the strongest condensation point of the Resource element. The Gui-You combination is further classified as Geum-Baek-Su-Cheong (金白水淸), "white metal, clear water" — the classical pattern of luminous Metal generating crystalline Water, long celebrated as a sign of refinement, brilliance, and literary talent.
+
+Energy characteristics: Metal generates Water (金生水), so the Day Branch strongly supports the Day Master through the productive cycle, forming a Resource-centered structure. The image is jewel-like Xin Metal reflecting and brightening the clear brook of Gui Water — outwardly clean and well-composed, inwardly carrying deep reflection and sensitive intuition. With two forms of Resource concentrated in a single seat, Gyeyu natives reach unusual depth in fields they fall in love with; at the same time, the Peach Blossom influence keeps drawing connections that the person themselves never consciously sought.
+
+### 2. Personality Traits
+
+Strengths:
+- Yin Water's subtlety paired with the depth of Resource produces uncommon insight and a true scholar's pull toward going deep into a single field
+- The Indirect Seal as dominant and the Direct Seal as residual together support building two or more distinct specialties across a lifetime
+- True to the Peach Blossom seat, the outward presence is well-composed and magnetically attractive, with an unforced ability to draw people in
+- Geum-Baek-Su-Cheong's classical pattern shows up as sharp thinking and well-above-average ability in writing, speaking, art, and aesthetic judgment
+- Yin Water's penetrating quality combined with Resource's absorption produces very fast acquisition of new knowledge, languages, and skills
+
+Weaknesses:
+- Strong Resource lengthens deliberation and delays decisions; long stretches of reflection rather than action sometimes mean missed opportunities
+- The Peach Blossom seat brings romantic attention and public talk that arrive unbidden, making lifelong restraint around relationships an ongoing exercise
+- Yin Water's sensitivity combined with Indirect Seal's suspicion can lead to a closed-off pattern once trust is broken, hard to reopen
+- The very clarity and sensitivity of the pillar leave Gyeyu natives easily wounded by murky environments, taking deep inner cuts from interpersonal conflict
+- The double Resource influence builds both dependency and self-criticism, which can soften the drive needed at decisive moments
+
+Appearance: Skin tends to be fair and clear, with well-defined and elegant features. True to the Peach Blossom seat, first impressions often include comments on natural magnetism, and the eyes carry a quiet depth that creates a faintly mystical presence. Height tends toward average to slightly above, with a slender, well-proportioned frame.
+
+### 3. Career and Wealth
+
+Ideal careers: The depth of two Resource forms, the magnetism of the Peach Blossom seat, and the refined sensitivity of Yin Water combine into strength in scholarship, the arts, deep specialization, and fields where personal magnetism matters.
+- Scholarship, research, and education: Professors, researchers, teachers, doctoral-level specialists, language and translation specialists (Direct and Indirect Seal depth)
+- Medicine, psychology, and counseling: Doctors, pharmacists, traditional medicine practitioners, psychological counselors, psychiatrists (Indirect Seal's insight plus Yin Water's sensitivity)
+- Arts, culture, and design: Writers, poets, painters, designers, musicians, film and broadcast professionals (Peach Blossom plus Yin Water's aesthetic sense)
+- Religion, philosophy, and metaphysics: Religious practitioners, philosophers, BaZi and Yi Jing specialists, spiritual teachers (Indirect Seal's mystical depth)
+- Beauty and fashion: Makeup artists, hair designers, fashion designers, beauty influencers (Peach Blossom seat)
+
+Wealth patterns: Gyeyu has no direct Wealth element in the Day Branch; the personal expertise and the magnetism themselves become the source of wealth. With strong Resource, the natural fit is steady accumulation through stable employment, credentialed positions, and specialized roles built over a lifetime — rather than rapid business expansion or large-scale investing. Resource's dependency tendency keeps loan-guarantees, lending, and financial fraud on the lifelong watch list.
+
+Business suitability: Yin Water's subtlety paired with Peach Blossom magnetism favors small-scale specialty businesses where the person works directly with clients — one-person brands in art, education, counseling, and beauty, along with content-driven businesses. Running large organizations fits less naturally than building a business in which personal expertise and aesthetic sense become the brand. Partnerships often stall when Resource's deliberation lets one side miss the golden window — defining decision authority clearly from the start prevents the most common pattern.
+
+### 4. Love and Marriage
+
+Men with Gyeyu Day Pillar: The Day Branch holds no direct Wealth element; in its place, Peach Blossom magnetism keeps the partnership field lively for life. The outward presence is composed and gentlemanly, yet unforced magnetism draws connections that the person did not actively seek. Resource's deep deliberation and slow decision-making, however, often delay the marriage decision; once made, the same depth produces unusually committed settling. The most stable matches are with calm, intellectual women who can hold space for the deep reflective life.
+
+Women with Gyeyu Day Pillar: The Day Branch carries no direct Officer element; in its place, the combination of Peach Blossom magnetism and Resource depth places Gyeyu women consistently among the most striking-looking pillars in the 60-cycle. Connections appear unbidden, so lifelong restraint in relationships is a real practice. With strong Resource, the husband match that anchors deepest is one who recognizes and respects the woman's intellectual and inner world. Even after marriage, Gyeyu women do not yield easily on their specialty domain or their inner space — partners who respect that autonomy see far less friction.
+
+Compatible Day Pillars: Eulsa (乙巳), Jeongsa (丁巳), Gisa (己巳), Sinsa (辛巳), and Gyesa (癸巳), together with Eulchuk (乙丑), Jeongchuk (丁丑), Gichuk (己丑), Sinchuk (辛丑), and Gyechuk (癸丑), form the Si-You-Chou Metal trinity that strengthens Resource into deep, trustworthy unions. Gapjin (甲辰), Byeongjin (丙辰), Mujin (戊辰), Gyeongjin (庚辰), and Imjin (壬辰) form the Jin-You (辰酉) Metal combination, also creating natural union. The clear caution is the Myo-You Chung (卯酉沖): Eulmyo (乙卯), Jeongmyo (丁卯), Gimyo (己卯), Sinmyo (辛卯), and Gyemyo (癸卯) shake the Day Branch itself with sharp collision and demand real care.
+
+### 5. Health Considerations
+
+Water element health:
+- Kidneys and bladder: As a Gui Water Day Master, the kidneys, bladder, and urinary-reproductive system are the central areas to protect. When Yin Water's subtle flow stagnates, reduced kidney function, urinary infections, and edema arise more readily.
+- Hormones and reproductive function: A loss of Water balance can translate into hormonal imbalance, irregular cycles, and uterine or ovarian issues; warmth and regular routine carry real protective weight.
+
+Metal element health:
+- Lungs and respiratory system: You Metal in the Day Branch keeps the lungs, bronchi, and throat on the maintenance list. When Yin Metal's sensitive Qi swings out of balance, chronic rhinitis, bronchitis, and sore throat appear more frequently.
+- Skin and immunity: Yin Metal governs the protective layer of skin and mucous membranes; loss of balance accumulates as skin trouble, allergies, and weakened immunity.
+
+Wood element health:
+- Liver and gallbladder: Strong Resource and heavy mental activity load the liver function, and during periods when the Myo-You Chung activates strongly, liver and gallbladder signals can surface — regular check-ups are warranted.
+- Nervous system: Yin Water's sensitivity combined with Indirect Seal's deep reflection produces autonomic dysregulation, chronic headaches, and insomnia patterns; consistent rest and regular sleep matter more for this pillar than most.
+
+Mental and emotional health:
+- Two Resource forms with their deep reflection plus Yin Water's sensitivity create real risk patterns of depression, burnout, and over self-criticism; deliberate expressive outlets — writing, meditation, artistic practice — should be built in by intention.
+- When Peach Blossom magnetism collides with Indirect Seal's closure, interpersonal fatigue accumulates quickly; protected solo time and deep rest are lifelong work for this pillar.
+
+Seasonal management: The You month (early September to early October) is the peak of the Day Branch's energy, when reflection and intuition reach their deepest — but the Peach Blossom influence also intensifies in the same period, and romantic incidents, public talk, and relationship turbulence appear more often. The Mao (卯) month (March) brings the Myo-You Chung that shakes the Day Branch itself, calling for added care across health, contracts, and relationship transitions. Winter (the Hai and Zi months) is Gui Water's home season and the time when reflection and insight run deepest — a strong period for setting the larger direction of the year.
+
+The Gyeyu Day Pillar is a clear spring flowing across a polished mirror — outwardly composed and magnetically attractive, inwardly carrying the deep insight of two Resource forms gathered in a single seat. When Gyeyu natives convert Peach Blossom magnetism into the expansion of their own expressive stage, and the deep reflection of the double Resource into the wisdom of clean decision, they complete their classical form at last: Ok-Su-Jeong-Myeong (玉水晶明), the jade-clear water that shines like crystal.
+    `.trim()
   }
 ];
