@@ -2063,5 +2063,167 @@ Seasonal management: The You month (early September to early October) is the pea
 
 The Gyeyu Day Pillar is a clear spring flowing across a polished mirror — outwardly composed and magnetically attractive, inwardly carrying the deep insight of two Resource forms gathered in a single seat. When Gyeyu natives convert Peach Blossom magnetism into the expansion of their own expressive stage, and the deep reflection of the double Resource into the wisdom of clean decision, they complete their classical form at last: Ok-Su-Jeong-Myeong (玉水晶明), the jade-clear water that shines like crystal.
     `.trim()
+  },
+  {
+    slug: "ilju-11-gapsul",
+    title: "갑술(甲戌)일주 분석: 60갑자 일주 시리즈 #11",
+    title_en: "Gapsul (甲戌) Day Pillar Analysis: 60 Day Pillars Series #11",
+    date: "2026-06-01",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "가을 산의 메마른 땅에 우뚝 선 큰 나무의 형상 — 고산준목(高山峻木)의 갑술일주가 일지에 깔고 앉은 재고(財庫)의 재물 그릇과 화개(華蓋)의 예술성, 그리고 양(養)의 잠재된 성장력을 분석합니다.",
+    excerpt_en: "Like a great tree standing on the dry earth of an autumn mountain, Gapsul Day Pillar natives sit on a Wealth storehouse fused with the Canopy Star — a BaZi reading of how the Indirect Wealth seat, artistic depth, and the latent growth of the Nurturing stage shape their careers, relationships, and health.",
+    content: `
+갑술(甲戌)일주는 육십갑자의 열한 번째 일주로, 천간의 갑목(甲木)과 지지의 술토(戌土)가 결합된 형상입니다. 가을 산의 메마른 땅에 우뚝 선 한 그루 큰 나무의 모습 — 고산준목(高山峻木), 곧 높은 산 위에 홀로 솟은 굳센 거목으로 알려져 있습니다. 외양은 곧고 의젓하며, 일지에 재물의 창고를 깔고 앉아 활달한 재물 감각과 예술적 깊이를 동시에 지닌 일주입니다.
+
+### 1. 기본 구조
+
+천간 갑목(甲木)은 10천간 중 양목(陽木)으로, 하늘을 향해 곧게 뻗는 큰 나무·동량지목(棟梁之木)을 상징합니다. 위로 솟아오르는 기상과 인의(仁義)의 곧음, 한 번 정한 방향으로 흔들림 없이 나아가는 리더의 본질을 지닙니다. 지지 술토(戌土)는 양지지로, 늦가을의 메마른 땅·가을 산·조토(燥土)에 해당하며, 화(火)의 기운을 갈무리하는 화고(火庫)이기도 합니다.
+
+천간-지지 관계에서 술토(戌土)의 지장간은 신금(辛金, 여기)·정화(丁火, 중기)·무토(戊土, 본기)로 구성되며, 본기는 무토입니다. 갑목(甲木) 일간 기준으로 본기 무토(양간이 양간을 극)는 편재(偏財)에 해당하고, 중기 정화(양간이 음간을 생)는 상관(傷官), 여기 신금(양간을 음간이 극)은 정관(正官)에 해당합니다. 일지 안에 편재·상관·정관이 함께 들어, 갑목이 술토라는 재물의 창고(財庫)를 직접 깔고 앉은 구조입니다. 큰 나무가 자기 발밑에 재물의 곳간을 둔 형상으로, 재물을 모으고 갈무리하는 힘이 일주 자체에 내재되어 있습니다.
+
+12운성으로 보면 갑목은 술토에서 양(養)에 해당합니다. 양은 씨앗이 땅속에서 길러지는 양육의 단계로, 겉으로는 고요하나 내면에 성장의 잠재력을 응축한 자리입니다. 외부의 환경과 인연에 기대어 자라나되, 때가 무르익으면 거목으로 솟아오르는 잠룡(潛龍)의 기운을 품습니다. 메마른 술토 위에 선 갑목은 뿌리내릴 수분이 부족한 위태로움을 안고 있지만, 그 갈증이 도리어 끊임없이 위로 뻗어 오르려는 의지를 키우는 양면성을 지닙니다.
+
+신살: 술토는 진·술·축·미(辰戌丑未) 사고지(四庫地)의 글자로 화개살(華蓋殺)에 해당합니다. 화개는 예술·종교·학문·철학의 별이자, 화려함 뒤의 고독을 상징합니다. 갑술일주는 일지 화개의 영향으로 한 분야를 깊이 파고드는 학자·예술가의 자질과 함께, 세속의 번잡함에서 한 발 물러서려는 고고함을 지닙니다. 또한 술은 인·오·술(寅午戌) 삼합 화국(火局)의 고지(庫地)로, 화의 기운을 끝에서 갈무리하는 자리입니다.
+
+에너지 특성: 목극토(木剋土)의 관계로 일간 갑목이 일지 술토를 직접 극하는 재성 중심의 구조입니다. 큰 나무가 메마른 산의 흙을 움켜쥐고 그 안의 재물을 다스리는 형상이며, 활달한 재물 감각과 사업 수완이 일주 자체에 내재되어 있습니다. 다만 술토는 메마른 조토라 갑목이 뿌리내리기에 수분이 부족하니, 사주 전체에 수(水)와 인성의 자양이 더해질 때 비로소 거목으로 완성되는 구조입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 갑목의 곧은 기상과 리더십이 강해, 한 번 정한 목표를 향해 흔들림 없이 밀고 나가는 추진력을 지님
+- 일지 편재(財庫)의 영향으로 재물의 흐름을 읽는 감각이 비범하고, 사교적이며 활동 반경이 넓음
+- 화개의 자리답게 예술·학문·철학에 대한 깊은 통찰을 지니며, 한 분야를 끝까지 파고드는 몰입력이 있음
+- 양(養)의 단계로 인내심과 잠재력이 깊어, 때를 기다려 한꺼번에 크게 성장하는 대기만성(大器晩成)의 기운을 품음
+- 의리와 책임감이 두터워 사람을 끌어모으는 신뢰의 리더십을 발휘함
+
+단점:
+- 메마른 땅에 선 나무처럼 정서적 안정의 기반이 약해, 겉은 의젓하나 내면에 고독과 불안을 안고 있는 경우가 많음
+- 편재의 활달함이 과하면 재물·관계·관심사가 산만하게 흩어져 한곳에 집중하지 못하는 경향이 있음
+- 자존심이 강하고 한 번 굽히지 않으려는 갑목의 고집이 인간관계의 마찰을 부를 수 있음
+- 화개의 이상주의와 고고함이 현실의 타협을 어렵게 만들어, 손해를 보면서도 뜻을 굽히지 못할 때가 있음
+- 잠재력을 품고도 때를 기다리는 양의 기운이 지나치면, 결정과 실행을 미루다 기회를 놓치기 쉬움
+
+외모 경향: 키가 크고 골격이 곧으며, 자세가 반듯하여 멀리서도 눈에 띄는 의젓한 풍모를 지닙니다. 이목구비가 뚜렷하고 이마가 넓은 편이며, 눈빛에 곧은 심지와 깊은 사색이 함께 담겨 있습니다. 나이가 들수록 관록과 무게가 더해져 신뢰감 있는 인상을 풍깁니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 갑목의 리더십, 일지 편재의 재물 감각, 화개의 예술·학문성이 결합되어 사람과 재물을 함께 다루는 분야, 그리고 전문성과 창의성이 요구되는 분야에서 큰 역량을 발휘합니다.
+- 사업·금융·무역: 사업가, 무역업, 금융·투자 전문가, 부동산, 유통·영업 (편재의 재물 그릇과 갑목의 추진력)
+- 교육·학문·연구: 교수, 교사, 연구원, 강사, 출판·기획 전문가 (화개의 학문성)
+- 예술·문화·콘텐츠: 작가, 디자이너, 건축가, 방송·영상 종사자, 공연 기획자 (화개의 예술성)
+- 종교·철학·역학: 종교인, 철학자, 명리·역학 전문가, 상담가 (화개의 고고함과 통찰)
+- 조직 리더: 경영자, 관리자, 정치·행정, 단체의 장 (갑목의 리더십과 정관의 책임감)
+
+재물 패턴: 갑술일주는 일지에 재물의 창고인 재고(財庫)를 직접 깔고 앉아, 60갑자 중에서도 재물을 모으고 갈무리하는 힘이 강한 일주로 분류됩니다. 편재의 활달한 재물 흐름으로 큰 돈이 들고 나는 역동적인 재물운을 지니되, 술토라는 곳간이 그 재물을 끝에서 거두어 모으는 작용을 합니다. 다만 편재의 산만함이 과하면 벌이는 일이 많아 재물이 한곳에 머물지 못하므로, 자기 재물의 흐름을 정기적으로 정리하고 곳간을 비워두지 않는 관리가 평생의 핵심 과제입니다.
+
+사업 적성: 갑목의 곧은 추진력과 편재의 재물 감각이 결합되어 60갑자 중에서도 손꼽히는 사업가 기질을 지닙니다. 직접 조직을 이끌고 시장을 개척하는 형태에 적성이 강하며, 무역·유통·금융·부동산처럼 재물의 흐름이 크고 빠른 분야가 잘 맞습니다. 다만 메마른 땅에 선 나무처럼 기반이 흔들리기 쉬우니, 무리한 확장보다는 수(水)와 같은 안정적 자금·인적 자원을 곁에 두고 단계적으로 키워가는 전략이 유리합니다.
+
+### 4. 연애와 결혼
+
+남성 갑술일주: 남자에게 처(妻)의 자리인 일지에 편재(偏財)가 본기로 자리하여, 이성의 인연과 처복이 모두 풍부한 구조입니다. 활달하고 사교적인 매력으로 인연이 끊이지 않으며, 배우자 또한 활동적이고 생활력이 강한 사람을 만나는 경우가 많습니다. 다만 편재의 다정함이 한 사람에게만 머물기 어려운 면이 있어, 평생 관계에서의 절제가 과제가 됩니다. 자기 곁에서 흔들리는 기반을 다잡아주는, 차분하고 너른 품을 지닌 배우자와의 인연이 가장 안정적입니다.
+
+여성 갑술일주: 일지 지장간에 남편의 자리인 정관(正官, 신금)이 함께 들어, 책임감 있고 반듯한 배우자와의 인연을 지닙니다. 다만 본기가 편재인 만큼 재물·활동에 대한 욕구와 사회적 성취욕이 함께 강하여, 가정에만 머무르기보다 자기 일과 무대를 함께 가질 때 안정됩니다. 갑목의 곧은 자존심이 강하므로 자신을 통제하려 들기보다 동등한 동반자로 존중해주는 남편과의 인연이 갈등을 줄입니다.
+
+궁합이 좋은 일주: 인오술(寅午戌) 삼합 화국으로 식상(火)의 기운을 끌어내 활기를 더하는 갑인(甲寅), 병인(丙寅), 무인(戊寅), 경인(庚寅), 임인(壬寅) 일주, 그리고 갑오(甲午), 병오(丙午), 무오(戊午), 경오(庚午), 임오(壬午) 일주와 자연스럽게 흐름이 합쳐집니다. 묘술합(卯戌合) 화를 이루는 을묘(乙卯), 정묘(丁卯), 기묘(己卯), 신묘(辛卯), 계묘(癸卯) 일주와도 따뜻한 합의 인연이 형성됩니다. 다만 진술충(辰戌沖)을 일으키는 갑진(甲辰), 병진(丙辰), 무진(戊辰), 경진(庚辰), 임진(壬辰) 일주와는 일지 곳간이 충돌하여 흔들리는 격렬한 갈등이 따르므로 매우 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+목(木) 계열 건강:
+- 간과 담: 갑목 일간으로 간·담이 핵심 관리 부위입니다. 특히 술토라는 메마른 땅 위의 나무라 수분 부족으로 간이 건조해지기 쉬우니, 음주 절제와 충분한 수분 섭취가 평생의 과제입니다.
+- 근육과 관절: 목 기운은 근육·인대·관절을 관장하므로, 균형이 무너지면 근육 경직·관절 통증·결림이 잘 나타납니다.
+
+토(土) 계열 건강:
+- 위장과 소화기: 일지 술토의 영향으로 위·비장·소화기가 함께 관리 대상입니다. 조토의 메마른 기운이 강해지면 위산 과다·소화 불량·변비 같은 건조성 소화기 문제가 잘 나타납니다.
+- 피부: 토의 균형이 무너지면 건조성 피부 트러블이 누적되기 쉬우므로 보습과 규칙적인 식생활이 중요합니다.
+
+화(火) 계열 건강:
+- 심장과 순환기: 술이 화의 고(庫)인 만큼 갇힌 화 기운이 순환기에 영향을 주어, 심장·혈압·혈액 순환 문제가 나타날 수 있습니다.
+- 눈과 신경: 화 기운이 정체되면 안구 건조·시력 저하·긴장성 두통이 잘 나타나므로 화면 사용을 절제하고 충분히 쉬어야 합니다.
+
+정신 건강:
+- 화개의 고독과 메마른 땅의 불안정이 결합되어, 겉은 의젓하나 내면에 외로움과 공허감이 쌓이기 쉽습니다. 예술·학문·신앙 같은 깊은 몰입의 출구를 의식적으로 마련하는 것이 좋습니다.
+- 갑목의 곧은 자존심이 꺾일 때 큰 좌절과 우울로 이어지기 쉬우므로, 유연하게 굽힐 줄 아는 마음의 훈련이 평생의 과제입니다.
+
+계절 관리: 술월(戌月, 양력 10월 초~11월 초)은 일지 에너지가 가장 강해지는 시기로 재물과 결실을 거두기 좋은 계절이지만, 동시에 화개의 고독과 메마른 기운이 함께 짙어지므로 건강과 정서의 균형에 유의해야 합니다. 진월(辰月, 양력 4월)에는 진술충(辰戌沖)이 일어나 일지 곳간이 흔들리므로 건강·재물·계약 모두 신중함이 필요합니다. 겨울(亥·子月)은 갑목에 수(水)의 자양이 더해져 메마른 뿌리가 윤택해지는 시기로, 한 해의 기반을 다지고 큰 방향을 정리하기에 좋은 계절입니다.
+
+갑술(甲戌)일주는 가을 산의 메마른 땅에 우뚝 선 큰 나무의 형상 — 외양은 곧고 의젓하며, 발밑에 재물의 곳간을 깔고 앉아 활달한 재물 감각과 화개의 깊은 통찰을 함께 지닌 일주입니다. 편재의 재물을 흩어 놓지 않고 곳간에 차곡차곡 갈무리하며, 메마른 갈증을 끊임없이 위로 뻗어 오르는 성장의 의지로 바꿔낼 때, 갑술일주는 마침내 고산준목(高山峻木) — 높은 산 위에 홀로 우뚝 솟은 굳센 거목 — 그 본래의 의젓한 격을 완성합니다.
+    `.trim(),
+    content_en: `
+The Gapsul (甲戌) Day Pillar is the eleventh of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Jia Wood (甲木) with the Earthly Branch Xu Earth (戌土) — the image of a single great tree standing on the dry earth of an autumn mountain. Classical practice calls this Go-San-Jun-Mok (高山峻木), "the stately tree rising alone on a high mountain," the form of an upright and dignified presence that sits directly on a storehouse of wealth, carrying both a lively instinct for money and the deep insight of the Canopy Star.
+
+### 1. Basic Structure
+
+Jia Wood (甲木) is Yang Wood — not the vine but the towering tree, the timber for great beams (棟梁之木), rising straight toward the sky. Its essence is the upward-thrusting spirit, the uprightness of benevolence and righteousness, and the leader's nature that moves toward a chosen direction without wavering. Xu Earth (戌土) is a Yang Branch — the dry earth of late autumn, the autumn mountain, parched Earth (燥土), and also the storehouse that gathers in the Qi of Fire (火庫).
+
+The Earthly Branch Xu contains Xin Metal (辛金) as the residual Qi, Ding Fire (丁火) as the middle Qi, and Wu Earth (戊土) as the dominant Qi. From Jia Wood's perspective as Day Master, the dominant Wu Earth (Yang controlling Yang) is Indirect Wealth (偏財, Pian Cai); the middle Ding Fire (Yang generating Yin) is Hurting Officer (傷官, Shang Guan); and the residual Xin Metal (Yin controlling Yang) is Direct Officer (正官, Zheng Guan). The Day Branch thus gathers Indirect Wealth, Hurting Officer, and Direct Officer into a single seat — the great tree sits directly on a storehouse of wealth (財庫, the Wealth Vault). The image is of a towering tree with the granary of riches beneath its own roots, so the power to gather and store wealth is built into the pillar itself.
+
+In the 12 Life Stage system, Jia Wood at Xu rests in Nurturing (養). Nurturing is the stage of a seed being raised within the earth — outwardly still, yet inwardly condensing the latent power of growth. The native grows by leaning on environment and connection, and when the season ripens, rises into a great tree, carrying the energy of the dormant dragon (潛龍). The Jia Wood standing on parched Xu Earth holds the precarious lack of water for its roots, yet that very thirst sharpens an unceasing will to keep reaching upward — a defining duality of the pillar.
+
+Spirit markers: Xu belongs to the Four Storehouse Branches (辰戌丑未) and carries the Canopy Star (華蓋殺). The Canopy is the star of art, religion, scholarship, and philosophy — and of the solitude that lies behind brilliance. Through the Day Branch Canopy, Gapsul natives carry the scholar's and artist's gift for going deep into a single field, along with a loftiness that steps back from worldly clamor. Xu is also the storehouse (庫地) of the Yin-Wu-Xu (寅午戌) Fire trinity, the seat that gathers in the Qi of Fire at its close.
+
+Energy characteristics: Wood controls Earth (木剋土), so the Day Master Jia Wood directly governs the Day Branch Xu Earth, forming a Wealth-centered structure. The image is the great tree gripping the soil of the dry mountain and commanding the wealth within it — a lively instinct for money and a knack for business built into the pillar itself. Because Xu is parched Earth, however, the Jia Wood lacks water for its roots; only when the wider chart adds Water and Resource nourishment does the structure complete itself into a true towering tree.
+
+### 2. Personality Traits
+
+Strengths:
+- Jia Wood's upright spirit and leadership run strong, with the drive to push toward a chosen goal without wavering
+- The Indirect Wealth seat (the Wealth Vault) grants an uncommon feel for the flow of money, along with sociability and a wide range of activity
+- True to the Canopy seat, deep insight into art, scholarship, and philosophy, with the focus to pursue a single field to its end
+- The Nurturing stage deepens patience and latent power — the energy of late-blooming greatness (大器晩成) that grows all at once when its time arrives
+- Thick loyalty and a strong sense of responsibility produce the trustworthy leadership that draws people together
+
+Weaknesses:
+- Like a tree on dry ground, the emotional foundation is fragile; outwardly dignified, the native often carries inner solitude and unease
+- When Indirect Wealth's liveliness runs to excess, money, relationships, and interests scatter, making sustained focus on one thing difficult
+- Strong pride and Jia Wood's refusal to bend can spark friction in relationships
+- The Canopy's idealism and loftiness make real-world compromise hard, at times holding to principle even at a clear loss
+- When the Nurturing energy of waiting for the right time runs too long, deferred decisions and execution let opportunities slip away
+
+Appearance: Tall with a straight frame and upright posture, carrying a dignified bearing visible from a distance. Features tend to be well-defined with a broad forehead, and the eyes hold both a firm core and deep reflection. With age, gravitas and weight accumulate into a trustworthy impression.
+
+### 3. Career and Wealth
+
+Ideal careers: Jia Wood's leadership, the Indirect Wealth seat's instinct for money, and the Canopy's artistic and scholarly depth combine into strength in fields that handle both people and wealth, and in fields demanding expertise and creativity.
+- Business, finance, and trade: Entrepreneurs, traders, finance and investment specialists, real estate, distribution and sales (the Wealth Vault and Jia Wood's drive)
+- Education, scholarship, and research: Professors, teachers, researchers, lecturers, publishing and planning specialists (the Canopy's scholarship)
+- Arts, culture, and content: Writers, designers, architects, broadcast and film professionals, performance producers (the Canopy's artistry)
+- Religion, philosophy, and metaphysics: Religious practitioners, philosophers, BaZi and Yi Jing specialists, counselors (the Canopy's loftiness and insight)
+- Organizational leadership: Executives, managers, politics and administration, heads of organizations (Jia Wood's leadership and Direct Officer's responsibility)
+
+Wealth patterns: Gapsul sits directly on the Wealth Vault (財庫) in the Day Branch, ranking among the pillars in the 60-cycle with the strongest power to gather and store wealth. Indirect Wealth brings a dynamic flow in which large sums move in and out, while the Xu storehouse works to gather that wealth in at the close. When Indirect Wealth's scattering runs to excess, however, too many ventures keep money from settling in one place — so periodically organizing one's own cash flow and never leaving the granary empty is the lifelong core task.
+
+Business suitability: Jia Wood's upright drive paired with Indirect Wealth's feel for money produces business instincts ranking among the finest in the 60-cycle. The strong fit is leading an organization directly and opening up markets, with fields where money moves big and fast — trade, distribution, finance, real estate — suiting best. Because the foundation shakes easily like a tree on dry ground, the favorable strategy is staged growth with stable capital and human resources (the role of Water) kept close at hand, rather than overreaching expansion.
+
+### 4. Love and Marriage
+
+Men with Gapsul Day Pillar: The Day Branch — the seat of the wife for a man — holds Indirect Wealth (偏財) as its dominant Qi, so romantic connection and spousal fortune both run rich. Lively, sociable magnetism keeps connections flowing, and the spouse is often someone active with strong vitality. Indirect Wealth's warmth, however, does not settle easily on a single person, so lifelong restraint in relationships becomes a real task. The most stable match is a calm, broad-hearted partner who steadies the shaking foundation at his side.
+
+Women with Gapsul Day Pillar: The Day Branch's hidden stems include Direct Officer (正官, Xin Metal), the seat of the husband, granting connection with a responsible and upright partner. Because the dominant Qi is Indirect Wealth, however, the drive for money, activity, and social achievement also runs strong — Gapsul women anchor best when they hold their own work and stage rather than staying within the home alone. Jia Wood's upright pride is strong, so a husband who respects her as an equal partner rather than trying to control her sees far less friction.
+
+Compatible Day Pillars: Gapin (甲寅), Byeongin (丙寅), Muin (戊寅), Gyeongin (庚寅), and Imin (壬寅), together with Gapo (甲午), Byeongo (丙午), Muo (戊午), Gyeongo (庚午), and Imo (壬午), form the Yin-Wu-Xu (寅午戌) Fire trinity that draws out the Qi of the Output element (Fire) and adds vitality. Eulmyo (乙卯), Jeongmyo (丁卯), Gimyo (己卯), Sinmyo (辛卯), and Gyemyo (癸卯) form the Mao-Xu (卯戌) Fire combination, also creating a warm union. The clear caution is the Jin-Xu Chung (辰戌沖): Gapjin (甲辰), Byeongjin (丙辰), Mujin (戊辰), Gyeongjin (庚辰), and Imjin (壬辰) collide with the Day Branch storehouse in fierce conflict and demand real care.
+
+### 5. Health Considerations
+
+Wood element health:
+- Liver and gallbladder: As a Jia Wood Day Master, the liver and gallbladder are the central areas to protect. As a tree on the dry earth of Xu, the liver dries out easily from lack of water, so moderating alcohol and staying well-hydrated are lifelong tasks.
+- Muscles and joints: Wood Qi governs the muscles, ligaments, and joints, so loss of balance brings muscle stiffness, joint pain, and tightness more readily.
+
+Earth element health:
+- Stomach and digestion: Xu Earth in the Day Branch keeps the stomach, spleen, and digestive system on the maintenance list. When the parched Qi of dry Earth intensifies, dryness-type digestive problems — excess stomach acid, indigestion, constipation — appear more frequently.
+- Skin: A loss of Earth balance accumulates as dryness-type skin trouble, so moisturizing and regular eating habits matter.
+
+Fire element health:
+- Heart and circulation: Because Xu is the storehouse of Fire (火庫), the enclosed Fire Qi affects the circulatory system, and heart, blood pressure, and circulation issues can surface.
+- Eyes and nerves: When Fire Qi stagnates, dry eyes, declining vision, and tension headaches appear more readily, so screen use should be moderated with adequate rest.
+
+Mental and emotional health:
+- The Canopy's solitude combined with the instability of dry ground means loneliness and emptiness accumulate inwardly behind a dignified exterior. Deliberate outlets of deep immersion — art, scholarship, faith — are worth building in by intention.
+- When Jia Wood's upright pride is broken, it leads readily to deep frustration and depression, so training the mind to bend with flexibility is a lifelong task.
+
+Seasonal management: The Xu month (early October to early November) is the peak of the Day Branch's energy, a good season for gathering wealth and harvest — but the Canopy's solitude and the parched Qi also deepen together, so balance of health and emotion needs care. The Jin (辰) month (April) brings the Jin-Xu Chung that shakes the Day Branch storehouse, calling for caution across health, wealth, and contracts. Winter (the Hai and Zi months) adds the nourishment of Water to Jia Wood, moistening the parched roots — a strong season for firming the year's foundation and setting its larger direction.
+
+The Gapsul Day Pillar is a great tree standing on the dry earth of an autumn mountain — outwardly upright and dignified, sitting on a granary of wealth beneath its roots, carrying both a lively instinct for money and the deep insight of the Canopy. When Gapsul natives gather Indirect Wealth into the storehouse rather than letting it scatter, and convert the parched thirst into an unceasing will to grow upward, they complete their classical form at last: Go-San-Jun-Mok (高山峻木), the stately tree rising alone on a high mountain.
+    `.trim()
   }
 ];
