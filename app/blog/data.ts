@@ -2385,5 +2385,165 @@ Seasonal management: The Hai month (early November to early December) is the pea
 
 The Eulhae Day Pillar is a single flower blooming upon a wide lake — bright, gentle, and well-favored, nourished by abundant water. When Eulhae natives keep the endlessly drawn learning and wisdom from staying mere notions in the mind and instead root them firmly in real fruit, and when they keep the warm foundation of Fire and Earth close so as not to be swept away by great water, they complete their classical form at last: Chul-Su-Bu-Yong (出水芙蓉), the lotus rising bright out of clear water.
     `.trim()
+  },
+  {
+    slug: "ilju-13-byeongja",
+    title: "병자(丙子)일주 분석: 60갑자 일주 시리즈 #13",
+    title_en: "Byeongja (丙子) Day Pillar Analysis: 60 Day Pillars Series #13",
+    date: "2026-06-05",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "한밤의 깊은 강물 위에 비친 태양빛 — 강휘상영(江暉相映)의 병자일주가 일지에 깔고 앉은 정관(正官)의 절제와 사왕지·도화의 매력, 그리고 태(胎)의 새로운 시작이 빚어내는 단정함과 내적 불안의 이중성을 분석합니다.",
+    excerpt_en: "Like sunlight mirrored on a deep river at midnight, Byeongja Day Pillar natives sit on the Direct Officer of midwinter water — a BaZi reading of how the Officer seat, the charm of the cardinal Peach Blossom branch, and the fresh start of the Conception stage shape their careers, relationships, and health.",
+    content: `
+병자(丙子)일주는 육십갑자의 열세 번째 일주로, 천간의 병화(丙火)와 지지의 자수(子水)가 결합된 형상입니다. 한밤의 깊은 강물 위에 환하게 비친 태양빛 — 강휘상영(江暉相映), 곧 강물에 어리는 햇살의 모습으로, 어둠 속에서도 스스로 빛을 내는 밝음과 물에 비친 절제된 단정함을 함께 지닌 일주입니다.
+
+### 1. 기본 구조
+
+천간 병화(丙火)는 10천간 중 양화(陽火)로, 촛불이나 화롯불이 아니라 만물을 비추는 태양(太陽)을 상징합니다. 밝고 정열적이며 거침없이 자신을 드러내는 양명(陽明)한 기운, 숨김없이 솔직하고 베푸는 호방함을 본질로 합니다. 지지 자수(子水)는 한겨울 음력 11월의 물로, 만물이 깊이 잠든 한밤중(子時)의 차고 깊은 물(深水)에 해당하며, 자오묘유(子午卯酉) 사왕지(四旺地)의 하나로 물 기운이 가장 왕성하게 응결된 자리입니다.
+
+천간-지지 관계에서 자수(子水)의 지장간은 임수(壬水, 여기)·계수(癸水, 본기)로 구성되며, 본기는 계수입니다. 병화(丙火) 일간 기준으로 본기 계수(수극화, 음수가 양화를 극)는 정관(正官)에 해당하고, 여기 임수(같은 수극화이나 양수가 양화를 극)는 편관(偏官, 七殺)에 해당합니다. 일지 안에 정관과 편관이 함께 들되 본기가 정관이라, 병화가 정관이라는 관성(官星)을 직접 깔고 앉은 구조입니다. 태양이 차분한 물 위에 자신을 비추며 절제하는 형상으로, 자기 규율·책임감·명예심이 일주 자체에 내재되어 있습니다.
+
+12운성으로 보면 병화는 자수에서 태(胎)에 해당합니다. 태는 새 생명이 어머니의 뱃속에 막 잉태되어 형상을 갖추기 시작하는 자리로, 겉으로 드러나는 힘은 미약하나 안으로 무한한 가능성과 새로운 시작의 씨앗을 품은 단계입니다. 태양인 병화가 가장 약해지는 한겨울 한밤의 자리에 들어, 빛은 은은해지나 그 안에 다시 떠오를 잠재력을 응축하고 있는 형상입니다.
+
+신살: 자(子)는 자오묘유(子午卯酉) 사왕지의 글자로 도화(桃花)의 기운을 품습니다. 사람을 끌어당기는 매력과 인기, 예술적 끼와 세련된 감각의 별로, 병자일주는 밝은 병화의 표현력과 더해져 어디서나 눈에 띄는 존재감과 이성에게 호감을 주는 매력을 지닙니다. 또한 자는 신자진(申子辰) 삼합 수국(水局)의 왕지(旺地)로, 물의 기운이 절정에 이르는 자리입니다.
+
+에너지 특성: 수극화(水克火)의 관계로 일지 자수가 일간 병화를 극하는 관성 중심의 구조입니다. 태양이 차고 깊은 물에 둘러싸여 자신을 절제하는 형상으로, 책임감과 자기 규율·명예의 힘이 일주 자체에 내재되어 있습니다. 다만 자수는 한겨울의 차가운 큰물이라, 사주 전체에 물이 지나치게 많으면 태양빛이 가려지고 꺼져 추위에 떠는 불안정에 빠지기 쉽습니다. 목(木)의 생조와 화(火)의 따뜻함이 더해져 조후(調候)가 이루어질 때 비로소 태양이 환하게 빛을 발하는 구조입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 일지 정관의 영향으로 반듯하고 책임감이 강하며, 원칙과 명예를 소중히 여기는 도덕적이고 합리적인 성품을 지님
+- 병화 태양의 밝음으로 명랑하고 정열적이며, 솔직하고 거침없는 표현력과 사람을 끌어당기는 호방함을 품음
+- 도화의 기운으로 매력과 인기가 있어 대인관계가 원만하고, 세련된 미감과 예술적 감각을 지님
+- 정관의 자기 절제가 더해져 겉으로 드러나는 정열과 안으로 다스리는 규율의 균형을 갖춤
+- 어둠 속에서도 스스로 빛을 내듯, 어려운 환경에서도 희망을 잃지 않고 주변을 밝히는 긍정성을 지님
+
+단점:
+- 태양이 한밤의 물에 둘러싸인 형상이라, 겉은 밝고 당당하나 내면에는 불안과 예민함을 안고 있는 외강내유(外剛內柔)의 경향이 있음
+- 병화의 급한 성정이 더해져 욱하고 감정을 폭발시켰다가 금세 후회하거나, 변덕스러워 보일 수 있음
+- 정관의 규율이 지나치면 체면과 명분에 얽매여 융통성을 잃고 스스로를 억압하기 쉬움
+- 물에 극받는 화의 구조로 자존심에 상처를 입으면 깊이 위축되고, 속으로 끙끙 앓는 면이 있음
+- 도화의 매력이 과하면 이성 관계가 복잡해지거나 구설에 오르기 쉬움
+
+외모 경향: 얼굴이 환하고 표정이 밝아 첫인상이 따뜻하며, 눈빛에 총기와 생기가 가득합니다. 피부는 희고 윤기가 있는 편이며, 자수 도화의 영향으로 이목구비가 또렷하고 세련된 분위기를 풍깁니다. 체격은 단단하고 균형 잡힌 편으로, 밝은 에너지가 겉으로 자연스럽게 드러나 사람들의 시선을 끄는 매력이 있습니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 병화의 밝은 표현력, 일지 정관의 책임감과 조직성, 도화의 매력이 결합되어 사람 앞에 서서 빛나는 분야, 그리고 명예와 규율이 요구되는 분야에서 큰 역량을 발휘합니다.
+- 공직·행정·조직: 공무원, 법조인, 군·경, 행정·관리직 (정관의 명예와 책임감)
+- 방송·연예·예술: 방송인, 연예인, 배우, 가수, 예술가 (병화의 표현력과 도화의 매력)
+- 교육·강연: 교사, 교수, 강사, 동기부여 강연자 (태양처럼 밝히고 이끄는 힘)
+- 영업·홍보·서비스: 영업, 마케팅, 홍보, 광고, 대인 서비스 (밝은 친화력과 인기)
+- 정치·리더십: 정치인, 단체장, 조직의 리더 (당당함과 명예 지향)
+
+재물 패턴: 병자일주는 일지에 정관(正官)이 본기로 자리하여, 투기적이고 불안정한 재물보다 안정된 직장·조직 안에서 명예와 지위를 통해 얻는 봉급형·안정형 재물운을 지닙니다. 병화 기준 재성(財星)은 금(金)으로 일지에는 직접 드러나지 않으나, 자수 관성이 금생수(金生水)로 재물의 흐름과 자연스럽게 연결됩니다. 명예와 지위가 곧 재물의 통로가 되는 구조이므로, 한탕을 노리기보다 자신의 위치와 신뢰를 차곡차곡 쌓아 올리는 길이 가장 안정적입니다.
+
+사업 적성: 관성 중심의 병자일주는 본래 조직과 명예의 틀 안에서 빛나는 사주라, 무리한 단독 사업보다 안정된 조직에서 전문성과 지위를 쌓는 길이 잘 맞습니다. 사업을 한다면 병화의 밝은 표현력과 도화의 매력을 살린 방송·예술·서비스·교육 분야, 또는 신뢰와 명분이 자산이 되는 분야가 유리합니다. 다만 감정적 결단과 급한 확장을 경계하고, 차가운 물을 데울 화·목의 든든한 동업자나 기반을 곁에 두는 전략이 좋습니다.
+
+### 4. 연애와 결혼
+
+남성 병자일주: 남자에게 처(妻)의 자리인 일지에 재성(財星, 金) 대신 관성(官星, 水)이 들어, 배우자궁에 자식성이 자리한 구조입니다. 책임감이 강하고 가정에 헌신하나, 처의 자리에 직접 재성이 없어 배우자 인연을 일지 밖에서 찾으며, 자존심과 체면 탓에 속마음을 솔직히 드러내지 못해 오해가 쌓이기 쉽습니다. 밝은 표현력을 가정 안에서도 발휘하고, 정관의 책임감으로 따뜻하게 배우자를 품을 때 관계가 안정됩니다.
+
+여성 병자일주: 일지 자수의 본기 계수가 남편의 자리인 정관(正官)에 정확히 해당하여, 배우자궁에 남편성이 단정히 자리한 좋은 결혼 구조입니다. 반듯하고 책임감 있는 남편과의 정통적 인연이 깊으며, 자신 또한 가정을 소중히 여기고 명예를 중시합니다. 다만 정관과 편관(칠살)이 함께 들어 관성이 혼잡해지면 이성 관계가 복잡해지거나 마음이 흔들릴 수 있으니, 정조와 절제로 하나의 인연을 깊이 가꾸는 것이 과제입니다.
+
+궁합이 좋은 일주: 자축합(子丑合) 토를 이루어 차가운 물을 다독여 주는 을축(乙丑), 정축(丁丑), 기축(己丑), 신축(辛丑), 계축(癸丑) 일주와 따뜻하게 어우러집니다. 신자진(申子辰) 삼합 수국으로 같은 기운이 크게 합쳐지는 갑신(甲申), 병신(丙申), 무신(戊申), 경신(庚申), 임신(壬申) 일주, 그리고 갑진(甲辰), 병진(丙辰), 무진(戊辰), 경진(庚辰), 임진(壬辰) 일주와도 자연스러운 합의 흐름을 이룹니다. 다만 자오충(子午沖)을 일으키는 갑오(甲午), 병오(丙午), 무오(戊午), 경오(庚午), 임오(壬午) 일주와는 일지의 물과 불이 격렬하게 충돌하므로 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+수(水) 계열 건강:
+- 신장과 방광: 일지 자수의 영향으로 신장·방광·비뇨생식기가 핵심 관리 부위입니다. 한겨울의 찬물 기운이 과다해지면 신장 기능 저하·부종·하체 냉증이 나타나기 쉬우니 하체 보온과 수분 대사 관리에 유의해야 합니다.
+- 귀와 생식기: 수 기운이 정체되면 이명·청력 저하, 비뇨생식기 계통의 약화로 이어질 수 있습니다.
+
+화(火) 계열 건강:
+- 심장과 소장: 병화 일간으로 심장·소장·혈관·혈압이 관리 부위입니다. 다만 자수의 찬물에 화가 극받아 약해지면 혈액순환 장애·저혈압·수족 냉증·심장 두근거림이 나타나기 쉬우니, 몸을 따뜻하게 하고 순환을 돕는 관리가 중요합니다.
+- 눈과 혈압: 화 기운이 흔들리면 시력 저하·안구 피로, 혹은 감정 기복에 따른 혈압 변동이 잘 나타납니다.
+
+수화 상극 관리:
+- 수극화(水克火)로 차가운 물이 따뜻한 불을 끄는 구조라, 한열(寒熱)의 균형이 무너지면 위로는 열이 오르고 아래는 차가운 상열하한(上熱下寒)의 증상이 나타나기 쉽습니다. 하체는 따뜻하게, 머리는 시원하게 다스리는 것이 핵심입니다.
+
+정신 건강:
+- 밝은 겉모습과 달리 속으로 불안과 예민함을 안는 외강내유의 구조라, 스트레스를 혼자 삭이다 우울이나 번아웃으로 이어지기 쉽습니다. 병화의 밝음을 살려 마음을 솔직히 표현하고 햇볕과 활동으로 기운을 끌어올리는 것이 좋습니다.
+- 자존심에 상처를 입으면 깊이 위축되므로, 작은 성취를 자주 확인하며 자기 효능감을 회복하는 훈련이 마음의 안정에 도움이 됩니다.
+
+계절 관리: 자월(子月, 양력 12월 초~1월 초)은 일지 에너지가 가장 강해지는 시기로 물 기운이 절정에 이르러 태양빛이 가려지기 쉬우므로, 보온과 활력 관리에 각별히 유의해야 합니다. 오월(午月, 양력 6월)에는 자오충(子午沖)이 일어나 일지가 흔들리므로 건강·이동·계약에 신중함이 필요합니다. 봄(寅·卯月)은 목이 화를 생하고, 여름(巳·午月)은 화의 기운이 더해져 차가운 물에 갇힌 태양이 비로소 환하게 빛나는 시기로, 활동을 넓히고 결실을 맺기에 좋은 계절입니다.
+
+병자(丙子)일주는 한밤의 깊은 강물 위에 비친 태양빛의 형상 — 어둠 속에서도 스스로 빛을 내는 밝음과 물에 비친 절제된 단정함을 함께 지닌 일주입니다. 겉으로 드러나는 정열을 안으로 다스리는 규율과 균형 있게 어우르고, 차가운 물에 빛이 꺼지지 않도록 목과 화의 따뜻한 기반을 곁에 둘 때, 병자일주는 마침내 강휘상영(江暉相映) — 강물 위에 환하게 어리는 한 줄기 태양빛 — 그 본래의 빛나는 격을 완성합니다.
+    `.trim(),
+    content_en: `
+The Byeongja (丙子) Day Pillar is the thirteenth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Bing Fire (丙火) with the Earthly Branch Zi Water (子水) — the image of sunlight mirrored upon a deep river at midnight. Classical practice calls this Gang-Hwi-Sang-Yeong (江暉相映), "sunlight shimmering on the river," the form of a nature that shines of its own accord even in darkness, paired with the restrained composure of light reflected on water.
+
+### 1. Basic Structure
+
+Bing Fire (丙火) is Yang Fire — not the candle or hearth flame but the Sun (太陽) that illuminates all things. Its essence is bright, passionate, openly self-expressing radiance, together with a frank, unconcealing generosity. Zi Water (子水) is the water of the eleventh lunar month, deep midwinter — the cold, deep water (深水) of the midnight hour (子時) when all things sleep, and one of the Four Cardinal seats (子午卯酉) where the Qi of water is most fully condensed at its peak.
+
+The Earthly Branch Zi contains Ren Water (壬水) as the residual Qi and Gui Water (癸水) as the dominant Qi. From Bing Fire's perspective as Day Master, the dominant Gui Water (Water controlling Fire, Yin water controlling Yang fire) is Direct Officer (正官, Zheng Guan), and the residual Ren Water (also Water controlling Fire, but Yang water controlling Yang fire) is Indirect Officer / Seven Killings (偏官·七殺). The Day Branch holds both Direct and Indirect Officer, with Direct Officer as the dominant — so Bing Fire sits directly on the Officer star (官星). The image is the sun mirroring itself on calm water in restraint, with self-discipline, responsibility, and a sense of honor built into the pillar itself.
+
+In the 12 Life Stage system, Bing Fire at Zi rests in Conception (胎). Conception is the stage where new life has just been conceived in the womb and begins to take form — the outward power is faint, yet within it holds the seed of boundless potential and a fresh beginning. The Sun, Bing Fire, enters the deep-midwinter midnight where it grows weakest; the light softens, yet condensed within is the latent power to rise again.
+
+Spirit markers: Zi belongs to the Four Cardinal Branches (子午卯酉) and carries the Peach Blossom (桃花). It is the star of magnetism, popularity, artistic flair, and refined sense — and combined with bright Bing Fire's expressiveness, Byeongja natives hold a presence that stands out anywhere and a charm that draws the affection of others. Zi is also the Prosperity seat (旺地) of the Shen-Zi-Chen (申子辰) Water trinity, the place where the Qi of water reaches its zenith.
+
+Energy characteristics: Water controls Fire (水克火), so the Day Branch Zi Water controls the Day Master Bing Fire, forming an Officer-centered structure. The image is the sun restraining itself, encircled by cold deep water — responsibility, self-discipline, and the power of honor built into the pillar itself. Because Zi is the cold great water of deep winter, however, when the wider chart holds too much Water the sunlight is veiled and snuffed, falling into the instability of shivering in the cold. Only when the generation of Wood and the warmth of Fire are added to achieve climatic balance (調候) does the sun shine forth bright.
+
+### 2. Personality Traits
+
+Strengths:
+- Through the Day Branch Direct Officer, an upright and strongly responsible nature, moral and rational, holding principle and honor dear
+- The brightness of the Bing Fire sun brings cheer and passion, with frank, unrestrained expressiveness and a generous openness that draws people in
+- The Qi of the Peach Blossom grants charm and popularity, smooth relationships, refined aesthetic sense, and artistic flair
+- The self-restraint of the Direct Officer adds balance between outward passion and inwardly governed discipline
+- Like a light that shines of its own accord even in darkness, the native keeps hope in hard times and brightens those around them
+
+Weaknesses:
+- As the sun encircled by midnight water, outwardly bright and confident yet inwardly carrying unease and sensitivity — the tendency of "hard outside, soft inside" (外剛內柔)
+- The hasty temper of Bing Fire can flare and burst, then quickly regret it, or seem fickle
+- When the discipline of the Direct Officer runs to excess, the native binds to face and propriety, losing flexibility and suppressing the self
+- In a Fire structure controlled by Water, a wound to pride brings deep withdrawal and quiet inner suffering
+- When Peach Blossom charm runs excessive, romantic entanglements grow complicated and gossip comes easily
+
+Appearance: A bright face and cheerful expression give a warm first impression, with eyes full of intelligence and vitality. The skin tends to be fair and lustrous; under the influence of the Zi Peach Blossom, the features are distinct and the air refined. The frame tends to be firm and well-balanced, with bright energy that surfaces naturally and a magnetism that draws people's gaze.
+
+### 3. Career and Wealth
+
+Ideal careers: Bing Fire's bright expressiveness, the Day Branch Direct Officer's responsibility and organizational sense, and the Peach Blossom's charm combine into strength in fields where one shines before others, and in fields demanding honor and discipline.
+- Public office, administration, organization: Civil servants, legal professionals, military and police, administrative and managerial roles (the honor and responsibility of the Direct Officer)
+- Broadcasting, entertainment, arts: Broadcasters, entertainers, actors, singers, artists (Bing Fire's expressiveness and the Peach Blossom's charm)
+- Education and lecturing: Teachers, professors, lecturers, motivational speakers (the power to illuminate and lead like the sun)
+- Sales, PR, service: Sales, marketing, PR, advertising, people-facing service (bright sociability and popularity)
+- Politics and leadership: Politicians, heads of organizations, leaders (confidence and an orientation toward honor)
+
+Wealth patterns: Byeongja holds Direct Officer (正官) as the dominant Qi in the Day Branch — so rather than speculative, unstable wealth, it carries a salaried, stable fortune earned through honor and position within a settled workplace or organization. Bing Fire's Wealth star (財星) is Metal (金), not directly shown in the Day Branch, yet the Zi Officer connects naturally to the flow of wealth through Metal generating Water (金生水). Because honor and position themselves become the channel for wealth, steadily building one's standing and trust — rather than chasing a windfall — is the most stable path.
+
+Business suitability: Officer-centered, Byeongja is by nature a chart that shines within the framework of organization and honor, so building expertise and standing within a stable organization fits better than overreaching solo ventures. In business, fields that draw on Bing Fire's bright expressiveness and the Peach Blossom's charm — broadcasting, arts, service, education — or fields where trust and good name are the asset, are favorable. Guard against emotional decisions and hasty expansion, and keep close a Fire/Wood partner or foundation to warm the cold water.
+
+### 4. Love and Marriage
+
+Men with Byeongja Day Pillar: In the Day Branch — the seat of the wife for a man — stands the Officer star (官星, Water) rather than the Wealth star (財星, Metal), so the children star sits in the spouse palace. Strongly responsible and devoted to the home, yet with no Wealth star directly in the spouse seat, he seeks the marital connection outside the Day Branch, and pride and face can keep him from voicing his heart frankly, letting misunderstandings build. The relationship steadies when he brings his bright expressiveness into the home and embraces his spouse warmly through the Direct Officer's sense of responsibility.
+
+Women with Byeongja Day Pillar: The dominant Gui Water of the Day Branch Zi corresponds exactly to the Direct Officer (正官), the seat of the husband — a favorable marital structure with the husband star seated neatly in the spouse palace. The connection runs deep with an upright, responsible husband in an orthodox union, and she too holds home dear and prizes honor. Because Direct Officer and Indirect Officer (Seven Killings) appear together, however, when the Officer grows mixed, romantic entanglements can complicate or the heart waver — so the task is to deepen one bond through fidelity and restraint.
+
+Compatible Day Pillars: Eulchuk (乙丑), Jeongchuk (丁丑), Gichuk (己丑), Sinchuk (辛丑), and Gyechuk (癸丑) form the Zi-Chou (子丑) combination, soothing the cold water in a warm union. Gapsin (甲申), Byeongsin (丙申), Musin (戊申), Gyeongsin (庚申), and Imsin (壬申), together with Gapjin (甲辰), Byeongjin (丙辰), Mujin (戊辰), Gyeongjin (庚辰), and Imjin (壬辰), form the Shen-Zi-Chen (申子辰) Water trinity, joining the same Qi in a great union. The clear caution is the Zi-Wu Chung (子午沖): Gapo (甲午), Byeongo (丙午), Muo (戊午), Gyeongo (庚午), and Imo (壬午) collide fiercely as the water and fire of the Day Branch clash, and demand care.
+
+### 5. Health Considerations
+
+Water element health:
+- Kidneys and bladder: Zi Water in the Day Branch keeps the kidneys, bladder, and urogenital system as the central areas to protect. When the cold water Qi of deep winter runs to excess, declining kidney function, edema, and cold in the lower body appear readily, so keeping the lower body warm and managing water metabolism need care.
+- Ears and reproduction: When Water Qi stagnates, tinnitus, declining hearing, and weakening of the urogenital system can follow.
+
+Fire element health:
+- Heart and small intestine: As a Bing Fire Day Master, the heart, small intestine, blood vessels, and blood pressure are areas to protect. When the Fire is controlled and weakened by Zi's cold water, however, circulatory trouble, low blood pressure, cold hands and feet, and heart palpitations appear readily — so warming the body and aiding circulation are important.
+- Eyes and blood pressure: When Fire Qi wavers, declining vision and eye fatigue, or blood pressure swings following emotional ups and downs, tend to appear.
+
+Water-Fire conflict management:
+- Because Water controls Fire (水克火) — cold water snuffing warm fire — when the balance of cold and heat breaks, the symptoms of "heat above, cold below" (上熱下寒) appear readily, with heat rising up top while the lower body stays cold. Keeping the lower body warm and the head cool is the key.
+
+Mental and emotional health:
+- Unlike the bright exterior, the structure carries inner unease and sensitivity — "hard outside, soft inside" — so swallowing stress alone can lead to depression or burnout. Drawing on Bing Fire's brightness to express the heart frankly, and lifting the energy with sunlight and activity, helps.
+- A wound to pride brings deep withdrawal, so the training of frequently confirming small achievements and restoring self-efficacy helps the mind settle.
+
+Seasonal management: The Zi month (early December to early January) is the peak of the Day Branch's energy, where the water Qi reaches its zenith and the sunlight is easily veiled — so warmth and vitality need particular care. The Wu (午) month (June) brings the Zi-Wu Chung that shakes the Day Branch, calling for caution in health, movement, and contracts. Spring (the Yin and Mao months), where Wood generates Fire, and summer (the Sa and Wu months), where Fire's Qi is added, are when the sun trapped in cold water finally shines bright — a good season for widening one's activity and bearing fruit.
+
+The Byeongja Day Pillar is sunlight mirrored on a deep river at midnight — a nature that shines of its own accord even in darkness, paired with the restrained composure of light reflected on water. When Byeongja natives balance their outward passion with inwardly governing discipline, and keep the warm foundation of Wood and Fire close so the light is not snuffed by cold water, they complete their classical form at last: Gang-Hwi-Sang-Yeong (江暉相映), a single beam of sunlight shimmering bright upon the river.
+    `.trim()
   }
 ];
