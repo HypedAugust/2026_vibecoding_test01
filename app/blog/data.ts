@@ -2225,5 +2225,165 @@ Seasonal management: The Xu month (early October to early November) is the peak 
 
 The Gapsul Day Pillar is a great tree standing on the dry earth of an autumn mountain — outwardly upright and dignified, sitting on a granary of wealth beneath its roots, carrying both a lively instinct for money and the deep insight of the Canopy. When Gapsul natives gather Indirect Wealth into the storehouse rather than letting it scatter, and convert the parched thirst into an unceasing will to grow upward, they complete their classical form at last: Go-San-Jun-Mok (高山峻木), the stately tree rising alone on a high mountain.
     `.trim()
+  },
+  {
+    slug: "ilju-12-eulhae",
+    title: "을해(乙亥)일주 분석: 60갑자 일주 시리즈 #12",
+    title_en: "Eulhae (乙亥) Day Pillar Analysis: 60 Day Pillars Series #12",
+    date: "2026-06-05",
+    category: "일주 분석",
+    category_en: "Day Pillar Analysis",
+    excerpt: "넓은 호수 위에 피어난 한 송이 꽃의 형상 — 출수부용(出水芙蓉)의 을해일주가 일지에 깔고 앉은 정인(正印)의 자양과 지살·역마의 활동성, 그리고 사(死)와 장생(長生)이 공존하는 이중성을 분석합니다.",
+    excerpt_en: "Like a single flower blooming upon a wide lake, Eulhae Day Pillar natives sit on the nourishing water of the Direct Resource — a BaZi reading of how the Resource seat, the mobility of the Traveling Horse, and the duality of Death meeting Birth shape their careers, relationships, and health.",
+    content: `
+을해(乙亥)일주는 육십갑자의 열두 번째 일주로, 천간의 을목(乙木)과 지지의 해수(亥水)가 결합된 형상입니다. 넓은 호수 위에 피어난 한 송이 꽃 — 출수부용(出水芙蓉), 곧 맑은 물 위로 솟아오른 연꽃의 모습으로, 풍부한 물의 자양을 받아 총명하고 부드러우며 인덕이 두터운 일주입니다.
+
+### 1. 기본 구조
+
+천간 을목(乙木)은 10천간 중 음목(陰木)으로, 곧게 솟는 큰 나무가 아니라 덩굴·화초·풀잎처럼 부드럽게 휘어 자라는 생명을 상징합니다. 어떤 환경에도 굽이굽이 적응하며 끝내 살아남는 끈질긴 생명력과 섬세한 감수성, 유연한 처세를 본질로 합니다. 지지 해수(亥水)는 늦가을에서 초겨울로 넘어가는 음력 10월의 물로, 강과 바다처럼 넓고 깊은 큰물(大水)에 해당합니다.
+
+천간-지지 관계에서 해수(亥水)의 지장간은 무토(戊土, 여기)·갑목(甲木, 중기)·임수(壬水, 본기)로 구성되며, 본기는 임수입니다. 을목(乙木) 일간 기준으로 본기 임수(수생목, 양수가 음목을 생)는 정인(正印)에 해당하고, 중기 갑목(같은 목, 음양이 다름)은 겁재(劫財), 여기 무토(을목이 무토를 극, 음양이 다름)는 정재(正財)에 해당합니다. 일지 안에 정인·겁재·정재가 함께 들어, 을목이 임수라는 인수(印水)의 자양을 직접 깔고 앉은 구조입니다. 물 위에 핀 꽃이 발밑의 물에서 끊임없이 양분을 길어 올리는 형상으로, 배움과 지혜·인덕이 일주 자체에 내재되어 있습니다.
+
+12운성으로 보면 을목은 해수에서 사(死)에 해당합니다. 사는 기운이 한 차례 갈무리되어 고요히 가라앉는 자리로, 겉으로는 활동력이 약해 보이나 안으로 정신과 사유가 깊어지는 단계입니다. 다만 해수는 정인이자 해묘미(亥卯未) 삼합 목국(木局)의 장생지(長生地) — 곧 나무가 처음 태어나는 자리 — 이므로, 을목은 비록 12운성상 사지에 들었어도 실제로는 풍부한 물의 자양을 받아 끊임없이 길러지는 이중성을 지닙니다.
+
+신살: 해(亥)는 인·신·사·해(寅申巳亥) 사생지(四生地)의 글자로 지살(地殺)·역마(驛馬)의 기운을 품습니다. 한곳에 머무르기보다 흐르고 움직이며 새로운 것을 받아들이는 이동·확장의 별로, 을해일주는 유학·이주·여행·해외와의 인연이 깊고 변화를 두려워하지 않는 활동성을 지닙니다. 또한 해는 해묘미 삼합 목국의 생지로, 목의 기운이 비로소 싹트는 시작의 자리입니다.
+
+에너지 특성: 수생목(水生木)의 관계로 일지 해수가 일간 을목을 생하는 인성 중심의 구조입니다. 물 위에 핀 꽃이 풍부한 수분을 받아 피어나는 형상이며, 총명함과 학문·문서의 힘이 일주 자체에 내재되어 있습니다. 다만 해수는 강과 바다처럼 큰물이라, 사주 전체에 물이 지나치게 많으면 을목의 뿌리가 땅에 닿지 못하고 물 위에 둥둥 뜨는 부목(浮木)의 불안정에 빠지기 쉽습니다. 화(火)의 따뜻함과 토(土)의 단단한 기반이 더해질 때 비로소 꽃이 안정되게 피어나는 구조입니다.
+
+### 2. 성격과 특징
+
+장점:
+- 일지 정인의 영향으로 두뇌가 총명하고 학습력이 빼어나며, 한번 익힌 것을 깊이 사유하여 자기 것으로 만드는 힘이 있음
+- 을목의 부드러움과 해수의 유연함이 결합되어, 어떤 환경에도 모나지 않게 적응하는 친화력과 처세의 지혜를 지님
+- 인수의 자양으로 인덕이 두터워 윗사람·스승·귀인의 도움을 자연스럽게 끌어오며, 따뜻하고 배려심이 깊음
+- 섬세한 감수성과 예술적 미감을 지녀 글·그림·음악 등 창작과 표현에 재능을 보임
+- 지살·역마의 활동성으로 변화와 이동을 두려워하지 않고 새로운 세계를 향해 나아가는 진취성을 품음
+
+단점:
+- 인성이 과다하면 의타심과 게으름으로 흘러, 스스로 결단하고 행동하기보다 기대고 미루는 경향이 생김
+- 물 위에 뜬 꽃처럼 뿌리가 약해, 겉은 부드러우나 내면에 정서적 불안과 결정 장애를 안고 있는 경우가 많음
+- 생각과 사유가 깊은 만큼 실천이 따라주지 못해, 머릿속 구상에 머물고 현실의 결실로 이어지지 못할 때가 있음
+- 유연함이 지나치면 줏대 없이 휘둘리거나 변덕스러워 보일 수 있음
+- 큰물의 기운에 휩쓸리면 감정의 기복이 크고 외로움·우울에 잠기기 쉬움
+
+외모 경향: 피부가 맑고 촉촉하며 부드러운 인상으로, 물기를 머금은 듯한 윤기와 동안(童顔)의 기운을 지닙니다. 이목구비가 단정하고 표정이 온화하며, 키와 골격은 가는 편으로 유연하고 날렵한 몸매를 지닌 경우가 많습니다. 눈빛에 총명함과 깊은 사색이 함께 담겨 있어 지적인 분위기를 풍깁니다.
+
+### 3. 직업과 재물운
+
+적합 직업: 을목의 섬세함, 일지 정인의 학문·문서성, 지살·역마의 활동성이 결합되어 지식과 사람을 함께 다루는 분야, 그리고 배움과 표현이 요구되는 분야에서 큰 역량을 발휘합니다.
+- 교육·학문·연구: 교사, 교수, 연구원, 강사, 학자 (정인의 학습력과 깊은 사유)
+- 문서·기획·전문직: 작가, 기자, 출판·편집, 기획자, 자격증 기반 전문직(의료·법무·회계·세무) (인수의 문서력)
+- 예술·문화·창작: 디자이너, 일러스트레이터, 음악·공연 종사자, 콘텐츠 크리에이터 (을목의 감수성)
+- 상담·치유·교육: 상담가, 심리·복지 전문가, 교육 컨설턴트, 종교·역학인 (인성의 인덕과 포용력)
+- 무역·여행·해외: 통·번역, 무역, 항공·관광, 해외 주재 업무 (역마의 이동성)
+
+재물 패턴: 을해일주는 일지에 정재(正財, 무토)를 여기로 품어, 한 번에 크게 버는 투기적 재물보다 성실한 노력으로 차곡차곡 쌓아 올리는 안정적·실속형 재물운을 지닙니다. 정인이 본기로 강하게 자리하여 재물보다 명예·지식·전문성을 통해 가치를 인정받고 그 대가로 재물이 따라오는 흐름이 자연스럽습니다. 다만 인성이 강하면 재성(무토)이 큰물에 잠겨 약해지기 쉬우니, 배움을 현실의 수익으로 연결하는 실행력과 알뜰한 자산 관리가 평생의 과제입니다.
+
+사업 적성: 인성 중심의 을해일주는 직접 시장을 개척하는 공격적 사업보다, 자신의 전문성과 지식을 자산으로 삼는 분야에 적성이 강합니다. 교육·콘텐츠·상담·기획처럼 무형의 지식을 가치로 바꾸는 일, 또는 안정적 조직 안에서 전문가로 인정받는 길이 잘 맞습니다. 사업을 하더라도 무리한 확장보다 신뢰와 인맥을 바탕으로 한 꾸준한 운영, 그리고 토(土)와 같은 현실적 기반을 곁에 두는 전략이 유리합니다.
+
+### 4. 연애와 결혼
+
+남성 을해일주: 남자에게 처(妻)의 자리인 일지에 정재(正財, 무토)가 여기로 들어, 알뜰하고 가정적이며 성실한 배우자와의 인연을 지닙니다. 다만 본기가 정인인 만큼 모친과 학문·안정에 대한 의존이 강하여, 배우자와 모친 사이에서 마음이 나뉘거나 정서적으로 기대려는 면이 있습니다. 자기 뿌리를 스스로 단단히 세우고, 배우자를 기대는 대상이 아니라 함께 성장하는 동반자로 대할 때 관계가 안정됩니다.
+
+여성 을해일주: 일지 지장간에 남편의 자리인 관성(官星, 金)이 들지 않아, 배우자 인연을 일지 밖에서 찾는 구조입니다. 정인이 강하여 총명하고 자기 세계가 뚜렷하며, 결혼 후에도 배움과 일·자식에 무게를 두는 경향이 있습니다. 부드럽고 인덕이 있어 좋은 인연을 끌어오되, 의존과 독립 사이의 균형을 잡는 것이 과제입니다. 자신의 지적 세계를 존중하고 정서적으로 든든히 받쳐주는 배우자와의 인연이 가장 조화롭습니다.
+
+궁합이 좋은 일주: 인해합(寅亥合) 목을 이루어 을목에 든든한 뿌리를 더해 주는 갑인(甲寅), 병인(丙寅), 무인(戊寅), 경인(庚寅), 임인(壬寅) 일주와 따뜻하게 어우러집니다. 해묘미(亥卯未) 삼합 목국으로 같은 기운이 크게 합쳐지는 을묘(乙卯), 정묘(丁卯), 기묘(己卯), 신묘(辛卯), 계묘(癸卯) 일주, 그리고 을미(乙未), 정미(丁未), 기미(己未), 신미(辛未), 계미(癸未) 일주와도 자연스러운 합의 흐름을 이룹니다. 다만 사해충(巳亥沖)을 일으키는 을사(乙巳), 정사(丁巳), 기사(己巳), 신사(辛巳), 계사(癸巳) 일주와는 일지의 물이 격렬하게 충돌하므로 신중해야 합니다.
+
+### 5. 건강 유의사항
+
+수(水) 계열 건강:
+- 신장과 방광: 일지 해수의 영향으로 신장·방광·비뇨생식기가 핵심 관리 부위입니다. 물의 기운이 과다해지면 신장 기능 저하·부종·호르몬 불균형이 나타나기 쉬우니 수분 대사와 하체 보온에 유의해야 합니다.
+- 귀와 생식기: 수 기운이 정체되면 이명·청력 저하, 비뇨생식기 계통의 약화로 이어질 수 있습니다.
+
+목(木) 계열 건강:
+- 간과 담: 을목 일간으로 간·담이 관리 부위입니다. 다만 물이 지나치게 많으면 나무가 뜨고 썩는 수다목부(水多木浮)의 형상이 되어 간 기능이 무력해지기 쉬우니, 과도한 습기와 음주를 경계해야 합니다.
+- 근육과 신경: 목 기운이 약해지면 근육의 힘이 빠지고 신경이 예민해져 만성 피로·수족 냉증이 잘 나타납니다.
+
+토(土) 계열 건강:
+- 위장과 소화기: 일지 정재인 무토가 큰물에 잠겨 약해지기 쉬우므로, 위장과 소화기가 차고 약해지는 경향이 있습니다. 차가운 음식을 피하고 속을 따뜻하게 다스리는 식습관이 중요합니다.
+
+정신 건강:
+- 큰물의 기운과 부목의 불안정이 결합되어 감정의 기복이 크고, 깊은 사유가 지나치면 외로움·우울·공상에 잠기기 쉽습니다. 규칙적인 운동과 햇볕(화의 기운)으로 가라앉은 기운을 끌어올리는 것이 좋습니다.
+- 인성 과다로 생각이 많아 결단을 미루기 쉬우므로, 작은 일이라도 직접 실행하여 현실에 뿌리내리는 훈련이 마음의 안정에 도움이 됩니다.
+
+계절 관리: 해월(亥月, 양력 11월 초~12월 초)은 일지 에너지가 가장 강해지는 시기로 사유와 학습에는 좋으나 물의 기운이 과해져 몸이 차가워지고 정서가 가라앉기 쉬우므로 보온과 활력 관리에 유의해야 합니다. 사월(巳月, 양력 5월)에는 사해충(巳亥沖)이 일어나 일지가 흔들리므로 건강·이동·계약에 신중함이 필요합니다. 봄(寅·卯月)과 여름(巳·午月)은 화(火)의 따뜻함이 더해져 물에 잠긴 꽃이 비로소 환하게 피어나는 시기로, 결실을 맺고 활동을 넓히기에 좋은 계절입니다.
+
+을해(乙亥)일주는 넓은 호수 위에 피어난 한 송이 꽃의 형상 — 풍부한 물의 자양을 받아 총명하고 부드러우며 인덕이 두터운 일주입니다. 끊임없이 길어 올리는 배움과 지혜를 머릿속 구상에 머물게 하지 않고 현실의 결실로 단단히 뿌리내릴 때, 그리고 큰물에 휩쓸리지 않도록 화와 토의 따뜻한 기반을 곁에 둘 때, 을해일주는 마침내 출수부용(出水芙蓉) — 맑은 물 위로 환하게 솟아오른 한 송이 꽃 — 그 본래의 아름다운 격을 완성합니다.
+    `.trim(),
+    content_en: `
+The Eulhae (乙亥) Day Pillar is the twelfth of the 60 Day Pillars in BaZi (Four Pillars of Destiny). It pairs the Heavenly Stem Yi Wood (乙木) with the Earthly Branch Hai Water (亥水) — the image of a single flower blooming upon a wide lake. Classical practice calls this Chul-Su-Bu-Yong (出水芙蓉), "the lotus rising out of clear water," the form of a bright, gentle, and well-favored nature nourished by abundant water, rich in intelligence and the goodwill of others.
+
+### 1. Basic Structure
+
+Yi Wood (乙木) is Yin Wood — not the towering tree but the vine, the flower, the blade of grass that bends softly as it grows. Its essence is the tenacious life force that adapts to any environment and survives in the end, together with delicate sensitivity and supple tact. Hai Water (亥水) is the water of the tenth lunar month, the turn from late autumn into early winter — the great water (大水) of rivers and seas, wide and deep.
+
+The Earthly Branch Hai contains Wu Earth (戊土) as the residual Qi, Jia Wood (甲木) as the middle Qi, and Ren Water (壬水) as the dominant Qi. From Yi Wood's perspective as Day Master, the dominant Ren Water (Water generating Wood, Yang water generating Yin wood) is Direct Resource (正印, Zheng Yin); the middle Jia Wood (same element, opposite polarity) is Rob Wealth (劫財, Jie Cai); and the residual Wu Earth (Yi Wood controlling Earth, opposite polarity) is Direct Wealth (正財, Zheng Cai). The Day Branch thus gathers Direct Resource, Rob Wealth, and Direct Wealth into a single seat — the Yi Wood sits directly on the nourishing water of the Resource (印水). The image is a flower blooming on water, endlessly drawing nourishment from the water beneath its roots, so learning, wisdom, and the goodwill of others are built into the pillar itself.
+
+In the 12 Life Stage system, Yi Wood at Hai rests in Death (死). Death is the stage where the Qi is gathered in once and sinks quietly — outwardly the vitality appears weak, yet inwardly the spirit and contemplation deepen. Hai, however, is both the Direct Resource and the Birth seat (長生地) of the Hai-Mao-Wei (亥卯未) Wood trinity — the place where wood is first born — so although Yi Wood enters the Death stage by the 12-stage table, it is in truth endlessly nurtured by abundant water, a defining duality of the pillar.
+
+Spirit markers: Hai belongs to the Four Birth Branches (寅申巳亥) and carries the Ground Star (地殺) and Traveling Horse (驛馬). It is the star of movement and expansion — flowing and shifting rather than staying in one place, taking in the new — so Eulhae natives hold deep ties to study abroad, relocation, travel, and foreign lands, with an activeness unafraid of change. Hai is also the Birth seat of the Hai-Mao-Wei Wood trinity, the place where the Qi of wood first sprouts.
+
+Energy characteristics: Water generates Wood (水生木), so the Day Branch Hai Water generates the Day Master Yi Wood, forming a Resource-centered structure. The image is a flower blooming on water, drawing abundant moisture — intelligence and the power of scholarship and documents built into the pillar itself. Because Hai is great water like rivers and seas, however, when the wider chart holds too much Water the roots of Yi Wood fail to reach the ground and drift afloat — the instability of floating wood (浮木). Only when the warmth of Fire and the firm foundation of Earth are added does the flower bloom steadily.
+
+### 2. Personality Traits
+
+Strengths:
+- Through the Day Branch Direct Resource, a bright mind and outstanding capacity for learning, with the power to contemplate deeply and make what is learned one's own
+- Yi Wood's gentleness combined with Hai Water's suppleness grants an unangular adaptability and the wisdom of tact in any environment
+- The nourishment of Resource brings thick goodwill from others, naturally drawing the help of elders, teachers, and benefactors, with warmth and deep consideration
+- Delicate sensitivity and an artistic eye give talent in creation and expression — writing, painting, music
+- The activeness of the Ground Star and Traveling Horse holds a forward-reaching spirit, unafraid of change and movement toward new worlds
+
+Weaknesses:
+- When Resource runs to excess, it slips into dependence and idleness — leaning and deferring rather than deciding and acting on one's own
+- Like a flower afloat on water, the roots are weak; outwardly gentle, the native often carries inner emotional unease and difficulty deciding
+- As deep as the thought runs, action may not follow, so plans stay in the mind and fail to bear real fruit
+- When suppleness runs to excess, the native can seem spineless or fickle, swayed without a firm center
+- Swept up in the energy of great water, emotional swings run wide, and loneliness and melancholy come easily
+
+Appearance: Clear, moist skin and a soft impression, carrying a water-touched luster and a youthful (童顔) air. Features tend to be neat with a gentle expression; the frame is often slender with a supple, nimble build. The eyes hold both intelligence and deep reflection, giving an intellectual atmosphere.
+
+### 3. Career and Wealth
+
+Ideal careers: Yi Wood's delicacy, the Day Branch Direct Resource's scholarship and documents, and the Ground Star and Traveling Horse's activeness combine into strength in fields that handle both knowledge and people, and in fields demanding learning and expression.
+- Education, scholarship, and research: Teachers, professors, researchers, lecturers, scholars (Direct Resource's capacity for learning and deep thought)
+- Documents, planning, and professions: Writers, journalists, publishing and editing, planners, license-based professions (medicine, law, accounting, tax) (the power of Resource and documents)
+- Arts, culture, and creation: Designers, illustrators, music and performance professionals, content creators (Yi Wood's sensitivity)
+- Counseling, healing, and education: Counselors, psychology and welfare specialists, education consultants, religious and metaphysical practitioners (Resource's goodwill and embrace)
+- Trade, travel, and overseas: Interpreting and translation, trade, aviation and tourism, overseas postings (the Traveling Horse's mobility)
+
+Wealth patterns: Eulhae holds Direct Wealth (正財, Wu Earth) as the residual Qi in the Day Branch — so rather than speculative wealth won all at once, it carries a stable, substance-building fortune raised steadily through diligent effort. With Direct Resource strong as the dominant Qi, value is recognized through honor, knowledge, and expertise rather than money, and wealth follows naturally in return. When Resource is strong, however, the Wealth (Wu Earth) is easily submerged and weakened by the great water — so the power to connect learning to real income, and thrifty asset management, are the lifelong tasks.
+
+Business suitability: Resource-centered, Eulhae suits not the aggressive business of opening markets directly but fields that make one's expertise and knowledge the asset. Turning intangible knowledge into value — education, content, counseling, planning — or being recognized as a specialist within a stable organization, fits well. Even in business, steady operation built on trust and connections rather than overreaching expansion, with a realistic foundation (the role of Earth) kept close, is the favorable strategy.
+
+### 4. Love and Marriage
+
+Men with Eulhae Day Pillar: The Day Branch — the seat of the wife for a man — holds Direct Wealth (正財, Wu Earth) as the residual Qi, granting connection with a thrifty, home-centered, and faithful spouse. Because the dominant Qi is Direct Resource, however, dependence on mother, scholarship, and stability runs strong, and the heart may be divided between spouse and mother or lean too readily on others. The relationship stabilizes when he sets his own roots firmly and treats his spouse as a partner growing alongside him rather than someone to lean on.
+
+Women with Eulhae Day Pillar: The Day Branch's hidden stems hold no Officer star (官星, Metal) — the seat of the husband — so the spousal connection is sought outside the Day Branch. With Direct Resource strong, she is bright and holds a distinct world of her own, inclined to weight learning, work, and children even after marriage. Gentle and well-favored, she draws good connections, but balancing dependence and independence is the task. The most harmonious match is a partner who respects her intellectual world and supports her firmly in spirit.
+
+Compatible Day Pillars: Gapin (甲寅), Byeongin (丙寅), Muin (戊寅), Gyeongin (庚寅), and Imin (壬寅) form the Yin-Hai (寅亥) Wood combination, adding firm roots to Yi Wood in a warm union. Eulmyo (乙卯), Jeongmyo (丁卯), Gimyo (己卯), Sinmyo (辛卯), and Gyemyo (癸卯), together with Eulmi (乙未), Jeongmi (丁未), Gimi (己未), Sinmi (辛未), and Gyemi (癸未), form the Hai-Mao-Wei (亥卯未) Wood trinity, joining the same Qi in a great union. The clear caution is the Sa-Hai Chung (巳亥沖): Eulsa (乙巳), Jeongsa (丁巳), Gisa (己巳), Sinsa (辛巳), and Gyesa (癸巳) collide fiercely with the Day Branch water and demand care.
+
+### 5. Health Considerations
+
+Water element health:
+- Kidneys and bladder: Hai Water in the Day Branch keeps the kidneys, bladder, and urogenital system as the central areas to protect. When Water Qi runs to excess, declining kidney function, edema, and hormonal imbalance appear readily, so water metabolism and keeping the lower body warm need care.
+- Ears and reproduction: When Water Qi stagnates, tinnitus, declining hearing, and weakening of the urogenital system can follow.
+
+Wood element health:
+- Liver and gallbladder: As a Yi Wood Day Master, the liver and gallbladder are areas to protect. When water runs too abundant, however, the form becomes "much water floating the wood" (水多木浮), leaving liver function sluggish — so excess damp and alcohol must be guarded against.
+- Muscles and nerves: When Wood Qi weakens, muscle strength drains and the nerves grow sensitive, bringing chronic fatigue and cold hands and feet.
+
+Earth element health:
+- Stomach and digestion: The Direct Wealth Wu Earth is easily submerged and weakened by the great water, so the stomach and digestive system tend to grow cold and weak. Avoiding cold foods and eating habits that warm the core are important.
+
+Mental and emotional health:
+- The energy of great water combined with the instability of floating wood means wide emotional swings; when deep contemplation runs to excess, loneliness, melancholy, and daydreaming come easily. Regular exercise and sunlight (the Qi of Fire) help lift the sunken energy.
+- Excess Resource brings too much thought and deferred decisions, so the training of acting directly even on small matters — taking root in reality — helps the mind settle.
+
+Seasonal management: The Hai month (early November to early December) is the peak of the Day Branch's energy, good for contemplation and learning, but the Water Qi grows excessive, chilling the body and sinking the emotions — so warmth and vitality need care. The Sa (巳) month (May) brings the Sa-Hai Chung that shakes the Day Branch, calling for caution in health, movement, and contracts. Spring (the Yin and Mao months) and summer (the Sa and Wu months) add the warmth of Fire, and the flower submerged in water finally blooms bright — a good season for bearing fruit and widening one's activity.
+
+The Eulhae Day Pillar is a single flower blooming upon a wide lake — bright, gentle, and well-favored, nourished by abundant water. When Eulhae natives keep the endlessly drawn learning and wisdom from staying mere notions in the mind and instead root them firmly in real fruit, and when they keep the warm foundation of Fire and Earth close so as not to be swept away by great water, they complete their classical form at last: Chul-Su-Bu-Yong (出水芙蓉), the lotus rising bright out of clear water.
+    `.trim()
   }
 ];
